@@ -1692,7 +1692,6 @@
 - [luis-almeida/unveil](https://github.com/luis-almeida/unveil) - A very lightweight jQuery plugin to lazy load images
 - [qrohlf/trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
-- [QuickenLoans/SlickQuiz](https://github.com/QuickenLoans/SlickQuiz) - A jQuery plugin for creating pretty, dynamic quizzes.
 - [mulhoon/score.js](https://github.com/mulhoon/score.js) - Scoring, levels, checkpoints and badges in Javascript - Instant gamification
 - [cavestri/themoviedb-javascript-library](https://github.com/cavestri/themoviedb-javascript-library) - A Javascript library to interact with themoviedb.org Rest API.
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
