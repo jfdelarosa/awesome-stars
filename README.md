@@ -683,7 +683,7 @@
 
 ## SCSS 
 
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension that enhance search engines with ChatGPT
+- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [codeAdrian/clay.css](https://github.com/codeAdrian/clay.css) - Easily add claymorphic styles to any HTML element with this micro class and SASS mixin.
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
 - [iconify/iconify-figma](https://github.com/iconify/iconify-figma) - Import Material Design Icons, Font Awesome, Dashicons, Noto Emoji, Twitter Emoji and thousands of other icons to Figma project as vectors.
