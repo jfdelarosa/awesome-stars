@@ -674,7 +674,7 @@
 
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Headless full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
-- [artf/grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+- [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
@@ -1673,7 +1673,7 @@
 - [imperavi/kube](https://github.com/imperavi/kube) - Kube CSS Framework
 - [jakiestfu/Blur.js](https://github.com/jakiestfu/Blur.js) - blur.js is a jQuery plugin that produces psuedo-transparent blurred elements over other elements.
 - [VoloshinS/firebase-crud-example](https://github.com/VoloshinS/firebase-crud-example) - Example of using firebase with vanilla javascript
-- [fuelphp/fuelphp](https://github.com/fuelphp/fuelphp) - FuelPHP framework
+- [fuelphp-storage/fuelphp](https://github.com/fuelphp-storage/fuelphp) - FuelPHP framework
 - [sgebhardt/ng-module-boilerplate](https://github.com/sgebhardt/ng-module-boilerplate) - A boilerplate to demonstrate routing and module technics with AngularJS
 - [mervick/emojionearea](https://github.com/mervick/emojionearea) - Emoji Picker Plugin for jQuery
 - [jmadler/emoji-picker](https://github.com/jmadler/emoji-picker) - Add a slick emoji selector to input fields and textareas on your website.
