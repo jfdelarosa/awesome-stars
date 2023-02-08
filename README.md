@@ -164,6 +164,7 @@
 
 ## JavaScript 
 
+- [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [ines/spacy-js](https://github.com/ines/spacy-js) - 🎀 JavaScript API for spaCy with Python REST API
@@ -252,7 +253,7 @@
 - [simov/chrome-webstore](https://github.com/simov/chrome-webstore) - Google Chrome Web Store HTTP Client
 - [algolia/places](https://github.com/algolia/places) - :globe_with_meridians: Turn any &lt;input&gt; into an address autocomplete
 - [rishabhp/bideo.js](https://github.com/rishabhp/bideo.js) - Fullscreen HTML5 Background Video for the Web.
-- [langbamit/svelte-scrollto](https://github.com/langbamit/svelte-scrollto) - Animating vertical and horizontal scrolling. Inspired by rigor789/vue-scrollto and uses some of its code and functionality!!
+- [utherpally/svelte-scrollto](https://github.com/utherpally/svelte-scrollto) - Animating vertical and horizontal scrolling. Inspired by rigor789/vue-scrollto and uses some of its code and functionality!!
 - [yustarandomname/svelte-supabase-quickstart](https://github.com/yustarandomname/svelte-supabase-quickstart) - This is a project to quickstart your development with supabase combined with the svelte framework
 - [rustyzone/Supabase-Chrome-Ext-Auth](https://github.com/rustyzone/Supabase-Chrome-Ext-Auth) - 
 - [awesome-webextension/neutrino-webextension](https://github.com/awesome-webextension/neutrino-webextension) - Neutrino 9 preset for WebExtension/Chrome extension development with hot reload and framework devtools.
@@ -750,6 +751,8 @@
 
 ## TypeScript 
 
+- [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
+- [grail-ui/grail-ui](https://github.com/grail-ui/grail-ui) - A library of accessible component primitives, actions and utilities for Svelte.
 - [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - An opinionated note-taking system for thinking, writing, learning, and mindfulness
 - [paoloricciuti/sveltekit-search-params](https://github.com/paoloricciuti/sveltekit-search-params) - The easiest way to read and WRITE from query parameters in sveltekit.
 - [CaptainCodeman/svelte-headlessui](https://github.com/CaptainCodeman/svelte-headlessui) - HeadlessUI components for Svelte
