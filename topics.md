@@ -1715,6 +1715,7 @@
 
 ## php 
 
+- [TypeRocket/typerocket](https://github.com/TypeRocket/typerocket) - TypeRocket is a highly integrated MVC WordPress framework with beautiful UI components for the modern developer.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
 - [J7mbo/twitter-api-php](https://github.com/J7mbo/twitter-api-php) - The simplest PHP Wrapper for Twitter API v1.1 calls
@@ -2088,6 +2089,7 @@
 - [souranalytics/pickle-js](https://github.com/souranalytics/pickle-js) - Official Pickle library for JavaScript.
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
 - [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Headless full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
@@ -2346,6 +2348,8 @@
 
 ## wordpress 
 
+- [TypeRocket/typerocket](https://github.com/TypeRocket/typerocket) - TypeRocket is a highly integrated MVC WordPress framework with beautiful UI components for the modern developer.
+- [ThemeFuse/Unyson](https://github.com/ThemeFuse/Unyson) - A WordPress framework that facilitates the development of WP themes
 - [primodotso/primo](https://github.com/primodotso/primo) - Primo is a component-based CMS that makes it easy to build visually-editable static sites ⚡️
 
 ## xcode 
