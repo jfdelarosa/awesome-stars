@@ -225,7 +225,6 @@
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Headless full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [pipedrive/client-nodejs](https://github.com/pipedrive/client-nodejs) - Pipedrive API client for NodeJS
@@ -1381,6 +1380,7 @@
 
 ## others 
 
+- [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [grail-ui/grail-ui](https://github.com/grail-ui/grail-ui) - A library of accessible component primitives, actions and utilities for Svelte.
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
 - [CaptainCodeman/svelte-headlessui](https://github.com/CaptainCodeman/svelte-headlessui) - HeadlessUI components for Svelte
@@ -1952,7 +1952,6 @@
 
 ## sketch 
 
-- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
 - [carbon-design-system/carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 
