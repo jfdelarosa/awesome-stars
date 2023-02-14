@@ -608,6 +608,7 @@
 
 ## PHP 
 
+- [mike42/escpos-php](https://github.com/mike42/escpos-php) - PHP library for printing to ESC/POS-compatible thermal and impact printers
 - [TypeRocket/typerocket](https://github.com/TypeRocket/typerocket) - TypeRocket is a highly integrated MVC WordPress framework with beautiful UI components for the modern developer.
 - [ThemeFuse/Unyson](https://github.com/ThemeFuse/Unyson) - A WordPress framework that facilitates the development of WP themes
 - [inertiajs/pingcrm](https://github.com/inertiajs/pingcrm) - A demo application to illustrate how Inertia.js works.
