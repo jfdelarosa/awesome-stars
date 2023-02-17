@@ -710,7 +710,7 @@
 
 ## Svelte 
 
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A fully featured UI toolkit for Svelte + Tailwind.
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A UI toolkit for Svelte + Tailwind.
 - [mskocik/svelecte](https://github.com/mskocik/svelecte) - Selectize-like component written in Svelte, also usable as custom-element 💪⚡
 - [agustinl/svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
