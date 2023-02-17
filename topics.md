@@ -428,7 +428,7 @@
 
 ## cli 
 
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A fully featured UI toolkit for Svelte + Tailwind.
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A UI toolkit for Svelte + Tailwind.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1994,7 +1994,7 @@
 - [grail-ui/grail-ui](https://github.com/grail-ui/grail-ui) - A library of accessible component primitives, actions and utilities for Svelte.
 - [paoloricciuti/sveltekit-search-params](https://github.com/paoloricciuti/sveltekit-search-params) - The easiest way to read and WRITE from query parameters in sveltekit.
 - [janosh/svelte-multiselect](https://github.com/janosh/svelte-multiselect) - Keyboard-friendly, accessible and highly customizable multi-select component
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A fully featured UI toolkit for Svelte + Tailwind.
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A UI toolkit for Svelte + Tailwind.
 - [agustinl/svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
 - [andrelmlins/svelte-infinite-scroll](https://github.com/andrelmlins/svelte-infinite-scroll) - Infinite Scroll Component to Svelte
