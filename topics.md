@@ -469,6 +469,7 @@
 
 ## css 
 
+- [fedorovvvv/svelte-media-queries](https://github.com/fedorovvvv/svelte-media-queries) - A ✨light✨ and magical Svelte component for CSS media queries🐹
 - [yangshun/awesome-spinners](https://github.com/yangshun/awesome-spinners) - 💫 A curated collection of dazzling web spinners
 - [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as handy composable.
 - [codeAdrian/clay.css](https://github.com/codeAdrian/clay.css) - Easily add claymorphic styles to any HTML element with this micro class and SASS mixin.
@@ -1991,6 +1992,7 @@
 
 ## svelte 
 
+- [fedorovvvv/svelte-media-queries](https://github.com/fedorovvvv/svelte-media-queries) - A ✨light✨ and magical Svelte component for CSS media queries🐹
 - [fedorovvvv/svelte-floating-ui](https://github.com/fedorovvvv/svelte-floating-ui) - Svelte✨ Floating UI 🎈
 - [grail-ui/grail-ui](https://github.com/grail-ui/grail-ui) - A library of accessible component primitives, actions and utilities for Svelte.
 - [paoloricciuti/sveltekit-search-params](https://github.com/paoloricciuti/sveltekit-search-params) - The easiest way to read and WRITE from query parameters in sveltekit.
