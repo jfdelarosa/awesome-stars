@@ -754,6 +754,7 @@
 
 ## TypeScript 
 
+- [fedorovvvv/svelte-media-queries](https://github.com/fedorovvvv/svelte-media-queries) - A ✨light✨ and magical Svelte component for CSS media queries🐹
 - [fedorovvvv/svelte-floating-ui](https://github.com/fedorovvvv/svelte-floating-ui) - Svelte✨ Floating UI 🎈
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [grail-ui/grail-ui](https://github.com/grail-ui/grail-ui) - A library of accessible component primitives, actions and utilities for Svelte.
