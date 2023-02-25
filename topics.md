@@ -1680,7 +1680,7 @@
 - [techwarriorz/PHP_AngularJS_Authentication_Tutorial](https://github.com/techwarriorz/PHP_AngularJS_Authentication_Tutorial) - The code from the PHP/AngularJS Tutorial video that we put on youtube (https://www.youtube.com/watch?v=DkOss1ThwYI&feature=youtu.be)
 - [szwacz/electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Boilerplate application for Electron runtime
 - [electron-archive/grunt-electron-installer](https://github.com/electron-archive/grunt-electron-installer) - Grunt plugin to build Windows installers for Electron apps
-- [nwutils/nw-builder](https://github.com/nwutils/nw-builder) - Build NW.js applications for Mac, Windows and Linux
+- [nwutils/nw-builder](https://github.com/nwutils/nw-builder) - Build NW.js applications for Linux, MacOS and Windows
 - [luis-almeida/unveil](https://github.com/luis-almeida/unveil) - A very lightweight jQuery plugin to lazy load images
 - [qrohlf/trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
