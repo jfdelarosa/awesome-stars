@@ -218,7 +218,7 @@
 - [navi1995/Chrome-Webstore-Stats](https://github.com/navi1995/Chrome-Webstore-Stats) - 
 - [primodotso/primo](https://github.com/primodotso/primo) - Primo is a component-based CMS that makes it easy to build visually-editable static sites ⚡️
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [breejs/bree](https://github.com/breejs/bree) - Bree is a Node.js and JavaScript job task scheduler with worker threads, cron, Date, and human syntax. Built for @ladjs, @forwardemail, @spamscanner, @cabinjs.
 - [isaacHagoel/svelte-dnd-action](https://github.com/isaacHagoel/svelte-dnd-action) - An action based drag and drop container for Svelte
 - [twilson63/intro-to-arweave](https://github.com/twilson63/intro-to-arweave) - Introduction to ARWeave and the permaweb
@@ -754,6 +754,8 @@
 
 ## TypeScript 
 
+- [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros) - Explore and extend more macros and syntax sugar to Vue.
+- [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) - 🔤 Font metric overrides to reduce CLS
 - [winter-things/winterkit](https://github.com/winter-things/winterkit) - 
 - [fedorovvvv/svelte-media-queries](https://github.com/fedorovvvv/svelte-media-queries) - A ✨light✨ and magical Svelte component for CSS media queries🐹
 - [fedorovvvv/svelte-floating-ui](https://github.com/fedorovvvv/svelte-floating-ui) - Svelte✨ Floating UI 🎈
