@@ -640,7 +640,7 @@
 ## express 
 
 - [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 📘 Quick and Easy TypeScript Express Starter
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
 - [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN(Mongo Express Vue Node)  Apps
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
@@ -786,6 +786,7 @@
 
 ## hacktoberfest 
 
+- [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) - 🔤 Font metric overrides to reduce CLS
 - [mike42/escpos-php](https://github.com/mike42/escpos-php) - PHP library for printing to ESC/POS-compatible thermal and impact printers
 - [nuxt-modules/turnstile](https://github.com/nuxt-modules/turnstile) - 🔥 Cloudflare Turnstile integration for Nuxt
 - [Developmint/nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS! A neat PurgeCSS wrapper for Nuxt.js
@@ -1118,7 +1119,7 @@
 
 ## koa 
 
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [ianstormtaylor/permit](https://github.com/ianstormtaylor/permit) - An unopinionated authentication library for building Node.js APIs.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
@@ -1825,7 +1826,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [antfu/unplugin-icons](https://github.com/antfu/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 - [tldraw/core](https://github.com/tldraw/core) - Renderer for tldraw and maybe you, too.
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
@@ -1877,7 +1878,7 @@
 ## react-native 
 
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is a Node.js and JavaScript logging tool and service.
+- [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1300+ icons, supporting React, React Native, Flutter, CSS, Figma, and Framer.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -2160,6 +2161,7 @@
 
 ## vue 
 
+- [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [BastiaanJansen/simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
 - [wobsoriano/vuemoji-picker](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
 - [delowardev/vue3-emoji-picker](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3
@@ -2329,6 +2331,7 @@
 
 ## webpack 
 
+- [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [Developmint/nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS! A neat PurgeCSS wrapper for Nuxt.js
 - [antfu/unplugin-icons](https://github.com/antfu/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [webextension-toolbox/webextension-toolbox](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development
