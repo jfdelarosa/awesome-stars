@@ -152,6 +152,7 @@
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [web-assembly](#web-assembly)
 - [web-components](#web-components)
@@ -1390,6 +1391,7 @@
 
 ## others 
 
+- [aiji42/zod-i18n](https://github.com/aiji42/zod-i18n) - Useful for translating zod error messages.
 - [winter-things/winterkit](https://github.com/winter-things/winterkit) - 
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
@@ -1507,7 +1509,6 @@
 - [ardakaracizmeli/design-system-checklist](https://github.com/ardakaracizmeli/design-system-checklist) - An open-source checklist to help you plan, build and grow your design system.
 - [9elements/fancy-border-radius](https://github.com/9elements/fancy-border-radius) - When you use eight values specifying border-radius in CSS, you can build organic looking shapes. Simply use our Generator at
 - [joshjung/trie-search](https://github.com/joshjung/trie-search) - A trie implementation that maps keys to objects. Most common use will be for typeahead searches.
-- [davestewart/vuex-pathify](https://github.com/davestewart/vuex-pathify) - Vue / Vuex plugin providing a unified path syntax to Vuex stores
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
 - [sospedra/finite-state-machine-demo](https://github.com/sospedra/finite-state-machine-demo) - Find the slides here --&gt;
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
@@ -1544,7 +1545,6 @@
 - [vuepress/awesome-vuepress](https://github.com/vuepress/awesome-vuepress) - 🎉 A curated list of awesome things related to VuePress
 - [BrockReece/vue-kanban](https://github.com/BrockReece/vue-kanban) - A vue based drag and drop kanban board
 - [Vivify-Ideas/vue-simple-markdown](https://github.com/Vivify-Ideas/vue-simple-markdown) - A Simple and Highspeed Markdown Parser for Vue
-- [Akryum/vue-mention](https://github.com/Akryum/vue-mention) - Mention component for Vue.js
 - [avibrazil/RDM](https://github.com/avibrazil/RDM) - Easily set Mac Retina display to higher unsupported resolutions
 - [gvital3230/tailwindcss-tooltip-arrow-after](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - 
 - [nuxt-modules/color-mode](https://github.com/nuxt-modules/color-mode) - Dark and Light mode with auto detection made easy with Nuxt 🌗
@@ -1592,7 +1592,6 @@
 - [InboxSDK/search-results](https://github.com/InboxSDK/search-results) - 
 - [lrembacz/vue-responsive-grid-layout](https://github.com/lrembacz/vue-responsive-grid-layout) - Vue Repsonsive Grid Layout
 - [thorsteneckel/vue-spine](https://github.com/thorsteneckel/vue-spine) - Vuex based models ready for usage in Vue.js.
-- [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [Vandivier/ella-framework](https://github.com/Vandivier/ella-framework) - Because KeystoneJS is honestly shit
 - [dattn/dnd-grid](https://github.com/dattn/dnd-grid) - A vuejs grid with draggable and resizable boxes
 - [mikatalk/responsive-dashboard](https://github.com/mikatalk/responsive-dashboard) - Tutorial: building a responsive dashboard with vuejs & SVG
@@ -1632,7 +1631,6 @@
 - [akulubala/vue-product-zoomer](https://github.com/akulubala/vue-product-zoomer) - Zoom Prodct Image, useful for e-shop website
 - [ElementUI/awesome-element](https://github.com/ElementUI/awesome-element) - A curated list of Element projects
 - [CaptainYouz/vue-firebase-tutorial](https://github.com/CaptainYouz/vue-firebase-tutorial) - Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes
-- [v1Labs/protovue](https://github.com/v1Labs/protovue) - A prototyping component library
 - [charliekassel/vuejs-autocomplete](https://github.com/charliekassel/vuejs-autocomplete) - Autocomplete component for Vue js
 - [neurobashing/PHP-PluginManager](https://github.com/neurobashing/PHP-PluginManager) - 
 - [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
@@ -1648,7 +1646,6 @@
 - [madebymany/sir-trevor-js](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web
 - [JonComo/anim](https://github.com/JonComo/anim) - Quick JS program for creating animations
 - [hootsuite/grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists
-- [euvl/vue-js-grid](https://github.com/euvl/vue-js-grid) - :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
 - [metafizzy/packery](https://github.com/metafizzy/packery) - :bento: Gapless, draggable grid layouts
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
@@ -2097,6 +2094,7 @@
 
 ## typescript 
 
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [sidebase/nuxt-pdf](https://github.com/sidebase/nuxt-pdf) - 📄 A easy to use, pdf exporting module to convert Nuxt 3 components into downloadable PDFs.
 - [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 📘 Quick and Easy TypeScript Express Starter
@@ -2301,6 +2299,71 @@
 - [codecasts/spa-starter-kit](https://github.com/codecasts/spa-starter-kit) - A highly opinionated starter kit for building Single Page Applications with Laravel and Vue.js
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+
+## vuejs 
+
+- [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros) - Explore and extend more macros and syntax sugar to Vue.
+- [BastiaanJansen/simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
+- [antoine92190/vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - A beautiful chat rooms web component compatible with all Javascript frameworks
+- [maciejpedzich/vue-supabase-tpa-demo](https://github.com/maciejpedzich/vue-supabase-tpa-demo) - Third-Party Authentication (Github) demo Vue 3 + TypeScript + Pinia app using Supabase
+- [fengyuanchen/vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - QR code component for Vue.js
+- [vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options (+Tailwind CSS support).
+- [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - Customization-first, performance-oriented and elegant UI framework for eCommerce (and not only) based on Vue.js and Google Retail UX Playbook. Made with 💚 by Vue Storefront team and contributors.
+- [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as handy composable.
+- [victorybiz/vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
+- [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.
+- [Tarektouati/vue-use-web](https://github.com/Tarektouati/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
+- [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
+- [arielsalminen/vue-design-system](https://github.com/arielsalminen/vue-design-system) - An open source tool for building UI Design Systems with Vue.js
+- [mattmezza/vue-beautiful-chat](https://github.com/mattmezza/vue-beautiful-chat) - A simple and beautiful Vue chat component backend agnostic, fully customisable and extendable.
+- [Orlandster/vue-page-transition](https://github.com/Orlandster/vue-page-transition) - A lightweight Vue.js plugin for page / route transitions.
+- [unlayer/vue-email-editor](https://github.com/unlayer/vue-email-editor) - Drag-n-Drop Email Editor Component for Vue.js
+- [davestewart/vuex-pathify](https://github.com/davestewart/vuex-pathify) - Vue / Vuex plugin providing a unified path syntax to Vuex stores
+- [sansil/vt-notifications](https://github.com/sansil/vt-notifications) - A headless vue notification library to use with tailwind
+- [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
+- [andrewcourtice/harlem](https://github.com/andrewcourtice/harlem) - Powerfully simple global state management for Vue 3
+- [motla/vue-document-editor](https://github.com/motla/vue-document-editor) - :page_facing_up: Paper-sized WYSIWYG document editor for Vue apps
+- [vueform/slider](https://github.com/vueform/slider) - Vue 3 slider component with multihandles, tooltips merging and formatting (+Tailwind CSS support).
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [nolimits4web/skeleton-elements](https://github.com/nolimits4web/skeleton-elements) - Skeleton elements - UI for improved perceived performance
+- [richardeschloss/nuxt-socket-io](https://github.com/richardeschloss/nuxt-socket-io) - Nuxt Socket IO - socket.io client and server module for Nuxt
+- [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN(Mongo Express Vue Node)  Apps
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [Akryum/vue-mention](https://github.com/Akryum/vue-mention) - Mention component for Vue.js
+- [nivaldomartinez/link-prevue](https://github.com/nivaldomartinez/link-prevue) - Vue component for generate a link preview
+- [ignoreintuition/v-currency](https://github.com/ignoreintuition/v-currency) - A plugin for formatting currency for different countries in Vue
+- [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
+- [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+- [dzwillia/vue-grid](https://github.com/dzwillia/vue-grid) - A flexible grid component for Vue.js
+- [nicolasbeauvais/vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) - A renderless Vue.js component for sharing links to social networks, compatible with SSR
+- [hunterae/vue-table-for](https://github.com/hunterae/vue-table-for) - Easily build a table for your records
+- [alvarotrigo/vue-fullpage.js](https://github.com/alvarotrigo/vue-fullpage.js) - Official Vue.js wrapper for fullPage.js http://alvarotrigo.com/vue-fullpage/
+- [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
+- [dgrubelic/vue-authenticate](https://github.com/dgrubelic/vue-authenticate) - Simple Vue.js authentication library
+- [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
+- [apexcharts/vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - 📊 Vue.js component for ApexCharts
+- [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc
+- [JiriChara/vue-kindergarten](https://github.com/JiriChara/vue-kindergarten) - Modular security for Vue, Vuex, Vue-Router and Nuxt
+- [theomessin/vue-chat-scroll](https://github.com/theomessin/vue-chat-scroll) - 🖱️ Vue directive to keep things scrolled to the bottom.
+- [ppietris/vue-poll](https://github.com/ppietris/vue-poll) - A Vue.js component for voting
+- [Gomah/vue-places](https://github.com/Gomah/vue-places) - Places component is based on places.js for Vue 2.x. Turn any &lt;input&gt; into an address autocomplete.
+- [mrastiak/vue-notification-bell](https://github.com/mrastiak/vue-notification-bell) - Vue.js notification bell component.
+- [cosmicjs/vue-ecommerce](https://github.com/cosmicjs/vue-ecommerce) - Ecommerce app with Nuxt and Cosmic JS
+- [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
+- [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Created from react styleguidist for Vue Components with a living style guide
+- [vuelidate/vuelidate](https://github.com/vuelidate/vuelidate) - Simple, lightweight model-based validation for Vue.js
+- [websanova/vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
+- [mblarsen/vue-browser-acl](https://github.com/mblarsen/vue-browser-acl) - Easy user access control in Vue for better UX. Build on top of the browser-acl package.
+- [DominikSerafin/vuebar](https://github.com/DominikSerafin/vuebar) - (🗃️ Archived)  Vue 2 directive for custom scrollbar that uses native scroll behavior. Lightweight, performant, customizable and without dependencies. Used successfully in production on https://ggather
+- [michalbujalski/firebase-auth-demo](https://github.com/michalbujalski/firebase-auth-demo) - Simple set up using firebase, Vue and Vuex
+- [LucasLeandro1204/vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
+- [v1Labs/protovue](https://github.com/v1Labs/protovue) - A prototyping component library
+- [cferdinandi/reef](https://github.com/cferdinandi/reef) - A lightweight library for creating reactive, state-based components and UI.
+- [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+- [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
+- [euvl/vue-js-grid](https://github.com/euvl/vue-js-grid) - :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
+- [framework7io/framework7-vue](https://github.com/framework7io/framework7-vue) - Deprecated! Build full featured iOS & Android apps using Framework7 & Vue
+- [tamiat/tamiat](https://github.com/tamiat/tamiat) - :sailboat:  Vuejs and Golang based CMS
 
 ## web 
 
