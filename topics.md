@@ -90,6 +90,7 @@
 - [library](#library)
 - [linux](#linux)
 - [localization](#localization)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -1178,6 +1179,13 @@
 
 - [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript UI framework with unique declarative and functional architecture
 
+## mac 
+
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
+
 ## machine-learning 
 
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
@@ -1430,7 +1438,6 @@
 - [rohitpotato/svelte-command-palette](https://github.com/rohitpotato/svelte-command-palette) - Dead simple command palette for svelte
 - [soygcm/teki](https://github.com/soygcm/teki) - How to make a startup without having time
 - [andrewchilds/slack-notify](https://github.com/andrewchilds/slack-notify) - A Node.js wrapper around the Slack Webhook API.
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [oslabs-beta/Vuenique](https://github.com/oslabs-beta/Vuenique) - A reusable data visualization components library using D3 in Vue
 - [storyblok/storyblok-svelte](https://github.com/storyblok/storyblok-svelte) - 
 - [rdkls/gps-tracker-server](https://github.com/rdkls/gps-tracker-server) - 
