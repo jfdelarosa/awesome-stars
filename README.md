@@ -205,7 +205,6 @@
 - [nickheal/svelte-tour](https://github.com/nickheal/svelte-tour) - 
 - [shakyapeiris/AuthBee](https://github.com/shakyapeiris/AuthBee) - AuthBee is a NPM package to implement authentication logic for the front end of your JavaScript project
 - [PacktPublishing/Node.js-Design-Patterns-Third-Edition](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition) - Node.js Design Patterns Third Edition, published by Packt
-- [RobBrazier/svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
@@ -809,6 +808,7 @@
 - [storyblok/storyblok-js-client](https://github.com/storyblok/storyblok-js-client) - Universal JavaScript SDK for Storyblok's API
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [chainlist/svelte-forms](https://github.com/chainlist/svelte-forms) - Svelte forms validation made easy
+- [RobBrazier/svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome
 - [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [yugasun/x-chart](https://github.com/yugasun/x-chart) - 🚀 x-chart is a draggable & resizable data visualization system
 - [Flyrell/axios-auth-refresh](https://github.com/Flyrell/axios-auth-refresh) - Library that helps you implement automatic refresh of authorization via axios interceptors. You can easily intercept the original request when it fails, refresh the authorization and continue with the
