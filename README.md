@@ -71,6 +71,7 @@
 ## CSS 
 
 - [hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards) - A growing collection of text/image cards you can use/copy-paste in your tailwind css projects
+- [phosphor-icons/web](https://github.com/phosphor-icons/web) - A flexible icon family for the web
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
 - [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
@@ -133,7 +134,6 @@
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [immersive-web/webxr-samples](https://github.com/immersive-web/webxr-samples) - Samples to demonstrate use of the WebXR Device API
 - [drannex42/svelte-capacitor](https://github.com/drannex42/svelte-capacitor) - Build hybrid mobile apps using Svelte and CapacitorJS with live reloading on Android and iOS!
-- [phosphor-icons/web](https://github.com/phosphor-icons/web) - A flexible icon family for the web
 - [Orlandster/vue-page-transition](https://github.com/Orlandster/vue-page-transition) - A lightweight Vue.js plugin for page / route transitions.
 - [9elements/fancy-border-radius](https://github.com/9elements/fancy-border-radius) - When you use eight values specifying border-radius in CSS, you can build organic looking shapes. Simply use our Generator at
 - [Aposymbiont/split-keyboards](https://github.com/Aposymbiont/split-keyboards) - A collection of ergonomic split keyboards ⌨
@@ -805,7 +805,7 @@
 - [EvanPeterson1324/friendly-username-generator](https://github.com/EvanPeterson1324/friendly-username-generator) - A non-explicit username generator
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [sequin-io/stripe-billing-prisma](https://github.com/sequin-io/stripe-billing-prisma) - 
-- [storyblok/storyblok-js-client](https://github.com/storyblok/storyblok-js-client) - Universal JavaScript SDK for Storyblok's API
+- [storyblok/storyblok-js-client](https://github.com/storyblok/storyblok-js-client) - Universal JavaScript client for Storyblok's API
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [chainlist/svelte-forms](https://github.com/chainlist/svelte-forms) - Svelte forms validation made easy
 - [RobBrazier/svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome
@@ -848,7 +848,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
