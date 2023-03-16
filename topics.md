@@ -1411,6 +1411,8 @@
 
 ## others 
 
+- [heedrox/abbreviame](https://github.com/heedrox/abbreviame) - Get an abbreviated description made by an AI of you based on your latest tweets. What do other users perceive from what you tweet?
+- [resendlabs/resend-node](https://github.com/resendlabs/resend-node) - resend's node.js sdk
 - [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
 - [vitorlofonseca/microfrontend-vue-and-vite](https://github.com/vitorlofonseca/microfrontend-vue-and-vite) - 
 - [aiji42/zod-i18n](https://github.com/aiji42/zod-i18n) - Useful for translating zod error messages.
