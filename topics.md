@@ -1411,7 +1411,6 @@
 
 ## others 
 
-- [heedrox/abbreviame](https://github.com/heedrox/abbreviame) - Get an abbreviated description made by an AI of you based on your latest tweets. What do other users perceive from what you tweet?
 - [resendlabs/resend-node](https://github.com/resendlabs/resend-node) - resend's node.js sdk
 - [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
 - [vitorlofonseca/microfrontend-vue-and-vite](https://github.com/vitorlofonseca/microfrontend-vue-and-vite) - 
@@ -2112,6 +2111,7 @@
 
 ## twitter 
 
+- [heedrox/abbreviame](https://github.com/heedrox/abbreviame) - Get an abbreviated description made by an AI of you based on your latest tweets. What do other users perceive from what you tweet?
 - [draftbit/twitter-lite](https://github.com/draftbit/twitter-lite) - A tiny, full-featured, flexible client / server library for the Twitter API
 - [J7mbo/twitter-api-php](https://github.com/J7mbo/twitter-api-php) - The simplest PHP Wrapper for Twitter API v1.1 calls
 - [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google.
