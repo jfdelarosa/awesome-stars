@@ -201,7 +201,6 @@
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
-- [sw-yx/brain](https://github.com/sw-yx/brain) - Swyx's second brain!
 - [LikaloLLC/tourguide.js](https://github.com/LikaloLLC/tourguide.js) - A simple, lightweight, clean and small library for creating guided product tours for your web app.
 - [micha-lmxt/svelte-motion](https://github.com/micha-lmxt/svelte-motion) - An animation library for Svelte based on framer-motion.
 - [nickheal/svelte-tour](https://github.com/nickheal/svelte-tour) - 
@@ -536,6 +535,7 @@
 - [burggraf/supabase-user-password-migration](https://github.com/burggraf/supabase-user-password-migration) - How to migrate user passwords from an external authentication system to Supabase
 - [soygcm/teki](https://github.com/soygcm/teki) - How to make a startup without having time
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
+- [sw-yx/brain](https://github.com/sw-yx/brain) - Swyx's second brain!
 - [adonisjs-community/awesome-adonisjs](https://github.com/adonisjs-community/awesome-adonisjs) - A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the AdonisJS ecosystem.
 - [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS)
 - [tldraw/core](https://github.com/tldraw/core) - Renderer for tldraw and maybe you, too.
