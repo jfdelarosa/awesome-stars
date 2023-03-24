@@ -146,6 +146,7 @@
 - [bsssshhhhhhh/svelte-data-grid](https://github.com/bsssshhhhhhh/svelte-data-grid) - Lightweight and powerful data grid for svelte
 - [FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - [Book] 2019 edition of our front-end development handbook
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [documentcloud/pixel-ping](https://github.com/documentcloud/pixel-ping) - A Minimalist Pixel Tracker for Node.js
 - [ThemesGuide/bootstrap-themes](https://github.com/ThemesGuide/bootstrap-themes) - Free, open source Bootstrap 4 themes
 - [DominikSerafin/vuebar](https://github.com/DominikSerafin/vuebar) - (🗃️ Archived)  Vue 2 directive for custom scrollbar that uses native scroll behavior. Lightweight, performant, customizable and without dependencies. Used successfully in production on https://ggather
@@ -342,7 +343,6 @@
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-- [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
