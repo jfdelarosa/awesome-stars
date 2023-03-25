@@ -202,6 +202,7 @@
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
+- [storyblok/storyblok-js-client](https://github.com/storyblok/storyblok-js-client) - Universal JavaScript client for Storyblok's API
 - [LikaloLLC/tourguide.js](https://github.com/LikaloLLC/tourguide.js) - A simple, lightweight, clean and small library for creating guided product tours for your web app.
 - [micha-lmxt/svelte-motion](https://github.com/micha-lmxt/svelte-motion) - An animation library for Svelte based on framer-motion.
 - [nickheal/svelte-tour](https://github.com/nickheal/svelte-tour) - 
@@ -808,7 +809,6 @@
 - [EvanPeterson1324/friendly-username-generator](https://github.com/EvanPeterson1324/friendly-username-generator) - A non-explicit username generator
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [sequin-io/stripe-billing-prisma](https://github.com/sequin-io/stripe-billing-prisma) - 
-- [storyblok/storyblok-js-client](https://github.com/storyblok/storyblok-js-client) - Universal JavaScript client for Storyblok's API
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [chainlist/svelte-forms](https://github.com/chainlist/svelte-forms) - Svelte forms validation made easy
 - [RobBrazier/svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome
