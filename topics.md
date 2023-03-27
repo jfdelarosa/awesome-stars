@@ -1412,6 +1412,7 @@
 
 ## others 
 
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [resendlabs/resend-node](https://github.com/resendlabs/resend-node) - resend's node.js sdk
 - [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
 - [vitorlofonseca/microfrontend-vue-and-vite](https://github.com/vitorlofonseca/microfrontend-vue-and-vite) - 
