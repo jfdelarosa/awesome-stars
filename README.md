@@ -271,7 +271,6 @@
 - [ardakaracizmeli/design-system-checklist](https://github.com/ardakaracizmeli/design-system-checklist) - An open-source checklist to help you plan, build and grow your design system.
 - [arielsalminen/vue-design-system](https://github.com/arielsalminen/vue-design-system) - An open source tool for building UI Design Systems with Vue.js
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [joshjung/trie-search](https://github.com/joshjung/trie-search) - A trie implementation that maps keys to objects. Most common use will be for typeahead searches.
 - [davestewart/vuex-pathify](https://github.com/davestewart/vuex-pathify) - Vue / Vuex plugin providing a unified path syntax to Vuex stores
 - [sospedra/finite-state-machine-demo](https://github.com/sospedra/finite-state-machine-demo) - Find the slides here --&gt;
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
@@ -858,6 +857,7 @@
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+- [joshjung/trie-search](https://github.com/joshjung/trie-search) - A trie implementation that maps keys to objects. Most common use will be for typeahead searches.
 - [ream/ream](https://github.com/ream/ream) - A Vue 3 framework, powered by Vite.
 - [FactorJS/factor](https://github.com/FactorJS/factor) - [In development, please wait for updated public release] Next-generation JavaScript framework for JAMStack blogs, sites & apps.
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
