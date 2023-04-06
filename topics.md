@@ -1228,7 +1228,7 @@
 
 ## markdown 
 
-- [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - An opinionated note-taking system for thinking, writing, learning, and mindfulness
+- [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - The note-taking app for lifelong learners
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
