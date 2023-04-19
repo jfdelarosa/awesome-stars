@@ -282,6 +282,7 @@
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [fregante/Awesome-WebExtensions](https://github.com/fregante/Awesome-WebExtensions) - A curated list of awesome resources for WebExtensions development.
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
@@ -1054,6 +1055,7 @@
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [probstit/exceptional.js](https://github.com/probstit/exceptional.js) - Javascript exception handling library.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [WeAreGenki/minna-ui](https://github.com/WeAreGenki/minna-ui) - 😸 A fast, friendly, and fun web UI kit for everyone.
@@ -1137,7 +1139,6 @@
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [asseinfo/react-kanban](https://github.com/asseinfo/react-kanban) - Yet another Kanban/Trello board lib for React.
-- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [jfdelarosa/VanillaJS-components](https://github.com/jfdelarosa/VanillaJS-components) - Web components using vanilla JS only
 
 ## json 
@@ -1182,7 +1183,7 @@
 
 ## library 
 
-- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
+- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based UIs
 - [obadakhalili/visual-filter](https://github.com/obadakhalili/visual-filter) - :male_detective: A headless unopinionated advanced visual filtering component for Vue 2 and 3
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [ailon/markerjs2](https://github.com/ailon/markerjs2) - Add image annotation to your web apps.
@@ -1414,7 +1415,7 @@
 
 ## npm 
 
-- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
+- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based UIs
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -2061,7 +2062,7 @@
 - [janosh/svelte-multiselect](https://github.com/janosh/svelte-multiselect) - Keyboard-friendly, accessible and highly customizable multi-select component
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [agustinl/svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags
-- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
+- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based UIs
 - [andrelmlins/svelte-infinite-scroll](https://github.com/andrelmlins/svelte-infinite-scroll) - Infinite Scroll Component to Svelte
 - [michmich112/sveltekit-adapter-chrome-extension](https://github.com/michmich112/sveltekit-adapter-chrome-extension) - Sveltekit adapter for making chrome extensions
 - [untemps/svelte-use-tooltip](https://github.com/untemps/svelte-use-tooltip) - Svelte action to display a tooltip
@@ -2161,7 +2162,7 @@
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
 - [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster. (site coming soon)
-- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based flow diagrams
+- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - A lightweight Svelte component library for building interactive node-based UIs
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
 - [staart/ui](https://github.com/staart/ui) - 🏁🌐 Frontend Svelte PWA starter for SaaS startups
@@ -2198,6 +2199,7 @@
 - [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [google/clasp](https://github.com/google/clasp) - 🔗 Command Line Apps Script Projects
