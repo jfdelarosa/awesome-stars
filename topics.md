@@ -488,7 +488,7 @@
 - [codeAdrian/clay.css](https://github.com/codeAdrian/clay.css) - Easily add claymorphic styles to any HTML element with this micro class and SASS mixin.
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
-- [primocms/primo](https://github.com/primocms/primo) - Primo is a component-based CMS that makes it easy to build visually-editable static sites ⚡️
+- [primocms/primo](https://github.com/primocms/primo) - Primo is a next-gen monolithic CMS that makes it a blast to build pages, update content, and edit code a block at a time.
 - [lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout) - Popular layouts and patterns made with Tailwind CSS
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
@@ -885,7 +885,7 @@
 
 ## html 
 
-- [primocms/primo](https://github.com/primocms/primo) - Primo is a component-based CMS that makes it easy to build visually-editable static sites ⚡️
+- [primocms/primo](https://github.com/primocms/primo) - Primo is a next-gen monolithic CMS that makes it a blast to build pages, update content, and edit code a block at a time.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -2075,7 +2075,7 @@
 - [micha-lmxt/svelte-motion](https://github.com/micha-lmxt/svelte-motion) - An animation library for Svelte based on framer-motion.
 - [RobBrazier/svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome
 - [Oli8/spaper](https://github.com/Oli8/spaper) - PaperCSS components for Svelte
-- [primocms/primo](https://github.com/primocms/primo) - Primo is a component-based CMS that makes it easy to build visually-editable static sites ⚡️
+- [primocms/primo](https://github.com/primocms/primo) - Primo is a next-gen monolithic CMS that makes it a blast to build pages, update content, and edit code a block at a time.
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [navneetsharmaui/sveltekit-starter](https://github.com/navneetsharmaui/sveltekit-starter) - Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.
 - [mhkeller/layercake](https://github.com/mhkeller/layercake) - graphics framework for sveltejs
@@ -2490,7 +2490,7 @@
 
 - [TypeRocket/typerocket](https://github.com/TypeRocket/typerocket) - TypeRocket is a highly integrated MVC WordPress framework with beautiful UI components for the modern developer.
 - [ThemeFuse/Unyson](https://github.com/ThemeFuse/Unyson) - A WordPress framework that facilitates the development of WP themes
-- [primocms/primo](https://github.com/primocms/primo) - Primo is a component-based CMS that makes it easy to build visually-editable static sites ⚡️
+- [primocms/primo](https://github.com/primocms/primo) - Primo is a next-gen monolithic CMS that makes it a blast to build pages, update content, and edit code a block at a time.
 
 ## xcode 
 
