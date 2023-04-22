@@ -1207,7 +1207,7 @@
 
 ## localization 
 
-- [inlang/inlang](https://github.com/inlang/inlang) - localization infrastructure for software built on git
+- [inlang/inlang](https://github.com/inlang/inlang) - localization infrastructure for software and the next git
 - [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript UI framework with unique declarative and functional architecture
 
 ## mac 
