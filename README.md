@@ -752,7 +752,7 @@
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
-- [relatedcode/GraphQLite](https://github.com/relatedcode/GraphQLite) - Rapid GraphQL prototyping, development, and testing. Core Server, Admin Console, iOS SDK, Web SDK.
+- [relatedcode/awesome-mojo](https://github.com/relatedcode/awesome-mojo) - Awesome Mojo Programming Language
 
 ## TeX 
 
@@ -760,6 +760,7 @@
 
 ## TypeScript 
 
+- [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
 - [productdevbookcom/avvvatars-vue](https://github.com/productdevbookcom/avvvatars-vue) - Beautifully crafted unique avatar placeholder for your next vue project
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and display of forms easier than ever!
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
