@@ -1457,6 +1457,7 @@
 
 ## others 
 
+- [zernonia/nuxt-lego](https://github.com/zernonia/nuxt-lego) - NuxtLego is an open source UI component layer for building your Nuxt content quick & beautiful.
 - [codrops/Animocons](https://github.com/codrops/Animocons) - Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot ["Like Animation"](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Gin
 - [Dave136/vue-email](https://github.com/Dave136/vue-email) - Write email templates with vue
 - [Rich-Harris/sveltesnaps](https://github.com/Rich-Harris/sveltesnaps) - 
