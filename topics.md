@@ -175,6 +175,7 @@
 
 ## ai 
 
+- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🚀 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable t
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster. (site coming soon)
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
@@ -407,6 +408,7 @@
 
 ## chatgpt 
 
+- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🚀 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable t
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second 🤯🔫
 - [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
@@ -1378,6 +1380,7 @@
 
 ## nodejs 
 
+- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🚀 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable t
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
 - [zy445566/node-digital-watermarking](https://github.com/zy445566/node-digital-watermarking) - A digital watermark is a kind of marker covertly embedded in a noise-tolerant signal such as an audio, video or image data. It is typically used to identify ownership of the copyright of such signal. 
@@ -1438,6 +1441,7 @@
 
 ## open-source 
 
+- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🚀 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable t
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -2089,6 +2093,7 @@
 
 ## svelte 
 
+- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🚀 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable t
 - [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
 - [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and displaying forms easier than ever!
