@@ -1384,7 +1384,6 @@
 
 ## nodejs 
 
-- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🚀 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
 - [zy445566/node-digital-watermarking](https://github.com/zy445566/node-digital-watermarking) - A digital watermark is a kind of marker covertly embedded in a noise-tolerant signal such as an audio, video or image data. It is typically used to identify ownership of the copyright of such signal. 
@@ -1445,7 +1444,6 @@
 
 ## open-source 
 
-- [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🚀 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
