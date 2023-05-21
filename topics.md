@@ -1526,7 +1526,7 @@
 - [AlexBlade/vscode-time-tracker](https://github.com/AlexBlade/vscode-time-tracker) - The time tracking addon for Visual Studio Code
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
 - [EvanPeterson1324/friendly-username-generator](https://github.com/EvanPeterson1324/friendly-username-generator) - A non-explicit username generator
-- [sw-yx/brain](https://github.com/sw-yx/brain) - Swyx's second brain!
+- [swyxio/brain](https://github.com/swyxio/brain) - Swyx's second brain!
 - [sequin-io/stripe-billing-prisma](https://github.com/sequin-io/stripe-billing-prisma) - 
 - [srmullen/sveltekit-stripe](https://github.com/srmullen/sveltekit-stripe) - Integrating SvelteKit and Stripe Checkout
 - [storyblok/bootstrap-nuxt-demo](https://github.com/storyblok/bootstrap-nuxt-demo) - Storyblok Demo Website using Nuxt
