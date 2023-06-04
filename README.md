@@ -722,6 +722,7 @@
 
 ## Svelte 
 
+- [idris-maps/svelte-parts](https://github.com/idris-maps/svelte-parts) - Svelte components
 - [kbrgl/svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - 🍞🥂 Buttery smooth toast notifications for Svelte
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte.
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
