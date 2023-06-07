@@ -724,6 +724,7 @@
 
 ## Svelte 
 
+- [umaranis/svelte-lexical](https://github.com/umaranis/svelte-lexical) - A rich text editor for Svelte based on lexical
 - [idris-maps/svelte-parts](https://github.com/idris-maps/svelte-parts) - Svelte components
 - [kbrgl/svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - 🍞🥂 Buttery smooth toast notifications for Svelte
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte.
