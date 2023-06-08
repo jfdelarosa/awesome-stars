@@ -778,6 +778,7 @@
 
 ## TypeScript 
 
+- [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [remorses/lemonsqueezy-webhooks](https://github.com/remorses/lemonsqueezy-webhooks) - Types and utilities for handling lemon-squeezy webhooks in JavaScript and TypeScript
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [supabase-community/chatgpt-plugin-template-deno](https://github.com/supabase-community/chatgpt-plugin-template-deno) - Template for building ChatGPT Plugins in TypeScript that run on Supabase's custom Deno Edge Runtime.
