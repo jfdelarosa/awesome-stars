@@ -494,7 +494,7 @@
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [fedorovvvv/svelte-media-queries](https://github.com/fedorovvvv/svelte-media-queries) - A ✨light✨ and magical Svelte component for CSS media queries🐹
 - [yangshun/awesome-spinners](https://github.com/yangshun/awesome-spinners) - 💫 A curated collection of dazzling web spinners
-- [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as handy composable.
+- [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as a handy composable.
 - [codeAdrian/clay.css](https://github.com/codeAdrian/clay.css) - Easily add claymorphic styles to any HTML element with this micro class and SASS mixin.
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
@@ -2329,7 +2329,7 @@
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster. (site coming soon)
 - [Kong/swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue
-- [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as handy composable.
+- [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as a handy composable.
 - [MorevM/vue-transitions](https://github.com/MorevM/vue-transitions) - Interface transitions library for Vue 2/3
 - [wobsoriano/pinia-shared-state](https://github.com/wobsoriano/pinia-shared-state) - 🍍 Sync your Pinia state across browser tabs.
 - [victorybiz/vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
@@ -2462,7 +2462,7 @@
 - [fengyuanchen/vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - QR code component for Vue.js
 - [vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options (+Tailwind CSS support).
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
-- [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as handy composable.
+- [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as a handy composable.
 - [victorybiz/vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
 - [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.
 - [Tarektouati/vue-use-web](https://github.com/Tarektouati/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
