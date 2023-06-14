@@ -680,7 +680,7 @@
 - [davila7/youtube-gpt](https://github.com/davila7/youtube-gpt) - Youtube GPT: OpenAI Whisper + Embedding + Davinci
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [kevinle-1/olympic-api](https://github.com/kevinle-1/olympic-api) - Tokyo 2020 Olympic Rankings and Medals API
+- [kevle1/olympic-api](https://github.com/kevle1/olympic-api) - Tokyo 2020 Olympic Rankings and Medals API
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [pyserial/pyserial](https://github.com/pyserial/pyserial) - Python serial port access library
