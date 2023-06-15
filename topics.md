@@ -1275,7 +1275,7 @@
 ## markdown 
 
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
-- [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - The note-taking app for lifelong learners
+- [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A note-taking app for lifelong learners
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
