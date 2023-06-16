@@ -724,6 +724,8 @@
 
 ## Svelte 
 
+- [allilk/milkbox-remastered](https://github.com/allilk/milkbox-remastered) - A alternative Web UI for Google Drive, built with Svelte!
+- [allilk/milkbox-svelte](https://github.com/allilk/milkbox-svelte) - A alternative Web UI for Google Drive, built with Svelte!
 - [umaranis/svelte-lexical](https://github.com/umaranis/svelte-lexical) - A rich text editor for Svelte based on lexical
 - [idris-maps/svelte-parts](https://github.com/idris-maps/svelte-parts) - Svelte components
 - [kbrgl/svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - 🍞🥂 Buttery smooth toast notifications for Svelte
