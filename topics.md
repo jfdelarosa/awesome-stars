@@ -773,6 +773,7 @@
 
 ## git 
 
+- [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [gitthermal/thermal](https://github.com/gitthermal/thermal) - One stop to manage all git repository
@@ -835,6 +836,7 @@
 
 ## hacktoberfest 
 
+- [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 - [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine) - 🔤 Font metric overrides to reduce CLS
@@ -906,6 +908,7 @@
 
 ## html 
 
+- [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte, and static site generator.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
@@ -999,6 +1002,7 @@
 
 ## javascript 
 
+- [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [allilk/milkbox-svelte](https://github.com/allilk/milkbox-svelte) - A alternative Web UI for Google Drive, built with Svelte!
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [adityadees/sveltekit-js-docker](https://github.com/adityadees/sveltekit-js-docker) - skelton dockerized sveltekit JS HMR dev and build multi adapter for node server and static build SSG
@@ -1484,6 +1488,7 @@
 
 ## others 
 
+- [Webstrates/Webstrates](https://github.com/Webstrates/Webstrates) - Webstrates is a research prototype enabling collaborative editing of websites through DOM manipulations.
 - [remorses/lemonsqueezy-webhooks](https://github.com/remorses/lemonsqueezy-webhooks) - Types and utilities for handling lemon-squeezy webhooks in JavaScript and TypeScript
 - [kbrgl/svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - 🍞🥂 Buttery smooth toast notifications for Svelte
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte.
@@ -2242,6 +2247,7 @@
 
 ## typescript 
 
+- [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
