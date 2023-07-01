@@ -167,6 +167,7 @@
 
 ## JavaScript 
 
+- [kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 A powerful client-side JavaScript library for ChatGPT
 - [Webstrates/Webstrates](https://github.com/Webstrates/Webstrates) - Webstrates is a research prototype enabling collaborative editing of websites through DOM manipulations.
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [joshnuss/sveltekit-stripe-subscriptions](https://github.com/joshnuss/sveltekit-stripe-subscriptions) - Example of Stripe Subscriptions & PaymentElement with SvelteKit
@@ -984,6 +985,7 @@
 
 ## Vue 
 
+- [fayazara/emailjar](https://github.com/fayazara/emailjar) - 
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
 - [nuxtlabs/ui](https://github.com/nuxtlabs/ui) - Fully styled and customizable components for Nuxt.
 - [zernonia/nuxt-lego](https://github.com/zernonia/nuxt-lego) - NuxtLego is an open source UI component layer for building your Nuxt content quick & beautiful.
