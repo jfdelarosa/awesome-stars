@@ -985,7 +985,7 @@
 
 ## Vue 
 
-- [fayazara/emailjar](https://github.com/fayazara/emailjar) - 
+- [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - 
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
 - [nuxtlabs/ui](https://github.com/nuxtlabs/ui) - Fully styled and customizable components for Nuxt.
 - [zernonia/nuxt-lego](https://github.com/zernonia/nuxt-lego) - NuxtLego is an open source UI component layer for building your Nuxt content quick & beautiful.
