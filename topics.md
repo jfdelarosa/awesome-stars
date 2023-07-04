@@ -1502,7 +1502,7 @@
 
 ## others 
 
-- [fayazara/emailjar](https://github.com/fayazara/emailjar) - 
+- [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - 
 - [Webstrates/Webstrates](https://github.com/Webstrates/Webstrates) - Webstrates is a research prototype enabling collaborative editing of websites through DOM manipulations.
 - [remorses/lemonsqueezy-webhooks](https://github.com/remorses/lemonsqueezy-webhooks) - Types and utilities for handling lemon-squeezy webhooks in JavaScript and TypeScript
 - [kbrgl/svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - 🍞🥂 Buttery smooth toast notifications for Svelte
