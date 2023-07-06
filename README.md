@@ -167,6 +167,8 @@
 
 ## JavaScript 
 
+- [sholinaty/freepbx_items](https://github.com/sholinaty/freepbx_items) - a place to store relevant freepbx items
+- [flexie-crm/freepbx-webhooks](https://github.com/flexie-crm/freepbx-webhooks) - FreePBX integration with Flexie CRM, using real time events and webhooks
 - [kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 A powerful client-side JavaScript library for ChatGPT
 - [Webstrates/Webstrates](https://github.com/Webstrates/Webstrates) - Webstrates is a research prototype enabling collaborative editing of websites through DOM manipulations.
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
@@ -621,6 +623,7 @@
 
 ## PHP 
 
+- [FreePBX/api](https://github.com/FreePBX/api) - 
 - [mike42/escpos-php](https://github.com/mike42/escpos-php) - PHP library for printing to ESC/POS-compatible thermal and impact printers
 - [TypeRocket/typerocket](https://github.com/TypeRocket/typerocket) - TypeRocket is a highly integrated MVC WordPress framework with beautiful UI components for the modern developer.
 - [ThemeFuse/Unyson](https://github.com/ThemeFuse/Unyson) - A WordPress framework that facilitates the development of WP themes
