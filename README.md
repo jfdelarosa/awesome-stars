@@ -787,6 +787,7 @@
 
 ## TypeScript 
 
+- [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A desktop-oriented web client for Meta's new Threads app
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
@@ -802,7 +803,7 @@
 - [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
-- [inlang/inlang](https://github.com/inlang/inlang) - globalization infrastructure for software and the next version control system (lisa)
+- [inlang/inlang](https://github.com/inlang/inlang) - globalization infrastructure for software and a new next version control system called lisa
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
@@ -858,7 +859,7 @@
 - [sibiraj-s/svelte-tiptap](https://github.com/sibiraj-s/svelte-tiptap) - Svelte components for tiptap v2
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
 - [EvanPeterson1324/friendly-username-generator](https://github.com/EvanPeterson1324/friendly-username-generator) - A non-explicit username generator
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [sequin-io/stripe-billing-prisma](https://github.com/sequin-io/stripe-billing-prisma) - 
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [chainlist/svelte-forms](https://github.com/chainlist/svelte-forms) - Svelte forms validation made easy
