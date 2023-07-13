@@ -787,7 +787,8 @@
 
 ## TypeScript 
 
-- [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A desktop-oriented web client for Meta's new Threads app
+- [mxkaske/openstatus](https://github.com/mxkaske/openstatus) - 
+- [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A web client for Meta's new Threads app
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
