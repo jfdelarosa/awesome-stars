@@ -1383,7 +1383,7 @@
 
 ## nextjs 
 
-- [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A desktop-oriented web client for Meta's new Threads app
+- [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A web client for Meta's new Threads app
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [sauravhathi/atsresume](https://github.com/sauravhathi/atsresume) - ATSResume | Get hired with an ATS-optimized resume
@@ -1406,7 +1406,7 @@
 
 ## node 
 
-- [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A desktop-oriented web client for Meta's new Threads app
+- [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A web client for Meta's new Threads app
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
@@ -1506,6 +1506,7 @@
 
 ## others 
 
+- [mxkaske/openstatus](https://github.com/mxkaske/openstatus) - 
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.
 - [sholinaty/freepbx_items](https://github.com/sholinaty/freepbx_items) - a place to store relevant freepbx items
 - [flexie-crm/freepbx-webhooks](https://github.com/flexie-crm/freepbx-webhooks) - FreePBX integration with Flexie CRM, using real time events and webhooks
@@ -2560,7 +2561,7 @@
 
 ## web 
 
-- [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A desktop-oriented web client for Meta's new Threads app
+- [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A web client for Meta's new Threads app
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster. (docs coming soon)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
