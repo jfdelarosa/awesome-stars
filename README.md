@@ -733,6 +733,7 @@
 
 ## Svelte 
 
+- [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
 - [allilk/milkbox-remastered](https://github.com/allilk/milkbox-remastered) - A alternative Web UI for Google Drive, built with Svelte!
 - [allilk/milkbox-svelte](https://github.com/allilk/milkbox-svelte) - A alternative Web UI for Google Drive, built with Svelte!
 - [umaranis/svelte-lexical](https://github.com/umaranis/svelte-lexical) - A rich text editor for Svelte based on lexical
@@ -787,7 +788,8 @@
 
 ## TypeScript 
 
-- [mxkaske/openstatus](https://github.com/mxkaske/openstatus) - 
+- [yudai-nkt/awesome-hono](https://github.com/yudai-nkt/awesome-hono) - A curated list of awesome stuff related to @honojs
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 
 - [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A web client for Meta's new Threads app
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
