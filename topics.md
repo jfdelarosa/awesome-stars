@@ -1255,7 +1255,7 @@
 
 ## localization 
 
-- [inlang/inlang](https://github.com/inlang/inlang) - globalization infrastructure for software and a new next version control system called lisa
+- [inlang/inlang](https://github.com/inlang/inlang) - globalization infrastructure for software AND version control for apps (project lisa)
 - [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript UI framework with unique declarative and functional architecture
 
 ## mac 
@@ -1388,6 +1388,7 @@
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [sauravhathi/atsresume](https://github.com/sauravhathi/atsresume) - ATSResume | Get hired with an ATS-optimized resume
+- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [souranalytics/pickle-old](https://github.com/souranalytics/pickle-old) - Privacy and developer-first analytics
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -1507,8 +1508,9 @@
 
 ## others 
 
+- [sooluh/bloks-parser](https://github.com/sooluh/bloks-parser) - :sunglasses: Response parser utility for Meta's Bloks Framework.
 - [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source status page
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.
 - [sholinaty/freepbx_items](https://github.com/sholinaty/freepbx_items) - a place to store relevant freepbx items
 - [flexie-crm/freepbx-webhooks](https://github.com/flexie-crm/freepbx-webhooks) - FreePBX integration with Flexie CRM, using real time events and webhooks
