@@ -474,7 +474,6 @@
 
 ## code 
 
-- [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
 - [mozilla/thimble.mozilla.org](https://github.com/mozilla/thimble.mozilla.org) - UPDATE: This project is no longer maintained. Please check out Glitch.com instead.
 
 ## coding 
@@ -1014,6 +1013,7 @@
 
 ## javascript 
 
+- [reimax/dockModal](https://github.com/reimax/dockModal) - A vanilla JS customisable dialog plugin
 - [kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [allilk/milkbox-svelte](https://github.com/allilk/milkbox-svelte) - A alternative Web UI for Google Drive, built with Svelte!
@@ -1509,6 +1509,8 @@
 
 ## others 
 
+- [robinparisi/tingle](https://github.com/robinparisi/tingle) - ⚡ 2kB vanilla modal plugin, no dependencies and easy-to-use
+- [scaleflex/filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor) - Edit, resize, and filter any image! Any questions or issues, please report to https://github.com/scaleflex/filerobot-image-editor/issues
 - [sooluh/bloks-parser](https://github.com/sooluh/bloks-parser) - :sunglasses: Response parser utility for Meta's Bloks Framework.
 - [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source status page
