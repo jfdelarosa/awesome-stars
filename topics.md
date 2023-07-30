@@ -1258,7 +1258,7 @@
 
 ## localization 
 
-- [inlang/inlang](https://github.com/inlang/inlang) - globalization infrastructure for software AND version control for apps (project lisa)
+- [inlang/inlang](https://github.com/inlang/inlang) - globalization infrastructure for software && version control for apps
 - [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript UI framework with unique declarative and functional architecture
 
 ## mac 
