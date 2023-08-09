@@ -842,7 +842,7 @@
 - [OneSignal/onesignal-vue3](https://github.com/OneSignal/onesignal-vue3) - Vue 3 OneSignal Plugin: Make it easy to integrate OneSignal with your Vue App!
 - [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 📘 Quick and Easy TypeScript Express Starter
 - [wobsoriano/vuemoji-picker](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
-- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
+- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 - [souranalytics/pickle-js](https://github.com/souranalytics/pickle-js) - Official Pickle library for JavaScript.
 - [nuxt-modules/turnstile](https://github.com/nuxt-modules/turnstile) - 🔥 Cloudflare Turnstile integration for Nuxt
 - [kevinmarrec/nuxt-pwa-module](https://github.com/kevinmarrec/nuxt-pwa-module) - Zero config PWA solution for Nuxt 3
