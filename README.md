@@ -811,6 +811,7 @@
 - [remorses/lemonsqueezy-webhooks](https://github.com/remorses/lemonsqueezy-webhooks) - Types and utilities for handling lemon-squeezy webhooks in JavaScript and TypeScript
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [supabase-community/chatgpt-plugin-template-deno](https://github.com/supabase-community/chatgpt-plugin-template-deno) - Template for building ChatGPT Plugins in TypeScript that run on Supabase's custom Deno Edge Runtime.
+- [Dave136/vue-email](https://github.com/Dave136/vue-email) - Write email templates with vue
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
 - [productdevbookcom/avvvatars-vue](https://github.com/productdevbookcom/avvvatars-vue) - Beautifully crafted unique avatar placeholder for your next vue project
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and displaying of forms easier than ever!
@@ -1014,7 +1015,6 @@
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
 - [nuxtlabs/ui](https://github.com/nuxtlabs/ui) - Fully styled and customizable components for Nuxt.
 - [zernonia/nuxt-lego](https://github.com/zernonia/nuxt-lego) - NuxtLego is an open source UI component layer for building your Nuxt content quick & beautiful.
-- [Dave136/vue-email](https://github.com/Dave136/vue-email) - Write email templates with vue
 - [unlayer/vue-email-editor](https://github.com/unlayer/vue-email-editor) - Drag-n-Drop Email Editor Component for Vue.js
 - [vitorlofonseca/microfrontend-vue-and-vite](https://github.com/vitorlofonseca/microfrontend-vue-and-vite) - 
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
