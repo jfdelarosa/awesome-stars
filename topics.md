@@ -297,8 +297,8 @@
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
-- [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) - List of applications and tools that make my iOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
+- [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) - Apps/tools I use on iOS
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -977,8 +977,7 @@
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place. Cloud is now available in public beta. 🌩
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
-- [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) - List of applications and tools that make my iOS experience even more amazing
+- [nikitavoloboev/my-ios](https://github.com/nikitavoloboev/my-ios) - Apps/tools I use on iOS
 - [jogboms/flutter_offline](https://github.com/jogboms/flutter_offline) - ✈️ A tidy utility to handle offline/online connectivity like a Boss
 - [aagarwal1012/Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) - 🔁 A custom refresh indicator for flutter.
 - [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - [Example APPS] Basic Flutter apps, for flutter devs.
@@ -1287,7 +1286,7 @@
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - Apps/tools I use on macOS
 - [gitthermal/thermal](https://github.com/gitthermal/thermal) - One stop to manage all git repository
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
@@ -1385,6 +1384,7 @@
 ## nextjs 
 
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Supercharges Prisma ORM with access control layer 🔐 and auto-generated CRUD API & hooks
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring service
 - [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A web client for Meta's new Threads app
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
@@ -1492,6 +1492,7 @@
 
 ## open-source 
 
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring service
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -1520,7 +1521,6 @@
 - [scaleflex/filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor) - Edit, resize, and filter any image! Any questions or issues, please report to https://github.com/scaleflex/filerobot-image-editor/issues
 - [sooluh/bloks-parser](https://github.com/sooluh/bloks-parser) - :sunglasses: Response parser utility for Meta's Bloks Framework.
 - [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source status page
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.
 - [sholinaty/freepbx_items](https://github.com/sholinaty/freepbx_items) - a place to store relevant freepbx items
 - [flexie-crm/freepbx-webhooks](https://github.com/flexie-crm/freepbx-webhooks) - FreePBX integration with Flexie CRM, using real time events and webhooks
