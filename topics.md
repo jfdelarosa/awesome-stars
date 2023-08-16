@@ -182,7 +182,6 @@
 - [kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster. (docs coming soon)
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 
 ## ajax 
@@ -417,6 +416,7 @@
 
 ## chatgpt 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [kudoai/chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
@@ -1145,7 +1145,6 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [jfdelarosa/VanillaJS-components](https://github.com/jfdelarosa/VanillaJS-components) - Web components using vanilla JS only
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
-- [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
@@ -1383,6 +1382,7 @@
 
 ## nextjs 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Supercharges Prisma ORM with access control layer 🔐 and auto-generated CRUD API & hooks
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring service
 - [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A web client for Meta's new Threads app
@@ -1512,6 +1512,8 @@
 
 ## others 
 
+- [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
+- [dufu1991/stdf](https://github.com/dufu1991/stdf) - Mobile web component library based on Svelte and Tailwind
 - [cloudinary-community/svelte-cloudinary](https://github.com/cloudinary-community/svelte-cloudinary) - ⚡️ High-performance image delivery and uploading at scale in Svelte powered by Cloudinary.
 - [xiaoluoboding/vue-command-palette](https://github.com/xiaoluoboding/vue-command-palette) - ⌨️ A fast, composable, unstyled command palette interface for Vue.
 - [lewebsimple/nuxt-zenstack](https://github.com/lewebsimple/nuxt-zenstack) - ZenStack boilerplate for Nuxt
