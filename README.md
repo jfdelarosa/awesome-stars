@@ -735,6 +735,7 @@
 
 ## Svelte 
 
+- [dufu1991/stdf](https://github.com/dufu1991/stdf) - Mobile web component library based on Svelte and Tailwind
 - [cloudinary-community/svelte-cloudinary](https://github.com/cloudinary-community/svelte-cloudinary) - ⚡️ High-performance image delivery and uploading at scale in Svelte powered by Cloudinary.
 - [zenstackhq/sample-todo-sveltekit](https://github.com/zenstackhq/sample-todo-sveltekit) - A comprehensive TODO sample using SvelteKit + ZenStack + TanStack Query
 - [animotionjs/animotion](https://github.com/animotionjs/animotion) - 🪄 Create beautiful presentations with Svelte
@@ -794,6 +795,8 @@
 
 ## TypeScript 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Supercharges Prisma ORM with access control layer 🔐 and auto-generated CRUD API & hooks
 - [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications
