@@ -462,7 +462,7 @@
 - [colorjs/javascript-yellow](https://github.com/colorjs/javascript-yellow) - The official color of the JavaScript logo
 - [CodingTrain/Toy-Neural-Network-JS](https://github.com/CodingTrain/Toy-Neural-Network-JS) - Neural Network JavaScript library for Coding Train tutorials
 - [jfdelarosa/VanillaJS-components](https://github.com/jfdelarosa/VanillaJS-components) - Web components using vanilla JS only
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [celestialaly/summernote-plugins](https://github.com/celestialaly/summernote-plugins) - Some summernote plugins
 - [dbushell/Nestable](https://github.com/dbushell/Nestable) - Drag & drop hierarchical list with mouse and touch compatibility (jQuery plugin)
 - [madebymany/sir-trevor-js](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web
