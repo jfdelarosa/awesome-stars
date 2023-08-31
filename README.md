@@ -751,6 +751,7 @@
 - [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
 - [Rich-Harris/sveltesnaps](https://github.com/Rich-Harris/sveltesnaps) - 
 - [dominikg/summit-2023](https://github.com/dominikg/summit-2023) - 
+- [CaptainCodeman/svelte-headlessui](https://github.com/CaptainCodeman/svelte-headlessui) - HeadlessUI components for Svelte
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [mskocik/svelecte](https://github.com/mskocik/svelecte) - Selectize-like component written in Svelte, also usable as custom-element 💪⚡
 - [agustinl/svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags
@@ -787,7 +788,7 @@
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
-- [relatedcode/Midjourney](https://github.com/relatedcode/Midjourney) - Midjourney Showcase iOS app
+- [relatedcode/Midjourney](https://github.com/relatedcode/Midjourney) - Midjourney Showcase iOS app (550k images)
 
 ## TeX 
 
@@ -846,7 +847,6 @@
 - [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A note-taking app for lifelong learners, based on the Zettelkasten Method
 - [paoloricciuti/sveltekit-search-params](https://github.com/paoloricciuti/sveltekit-search-params) - The easiest way to read and WRITE from query parameters in sveltekit.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
-- [CaptainCodeman/svelte-headlessui](https://github.com/CaptainCodeman/svelte-headlessui) - HeadlessUI components for Svelte
 - [aklinker1/vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) - Vite plugin for developing Chrome/Web Extensions
 - [OneSignal/onesignal-vue3](https://github.com/OneSignal/onesignal-vue3) - Vue 3 OneSignal Plugin: Make it easy to integrate OneSignal with your Vue App!
 - [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 📘 Quick and Easy TypeScript Express Starter
@@ -891,7 +891,7 @@
 - [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 - [yugasun/x-chart](https://github.com/yugasun/x-chart) - 🚀 x-chart is a draggable & resizable data visualization system
 - [Flyrell/axios-auth-refresh](https://github.com/Flyrell/axios-auth-refresh) - Library that helps you implement automatic refresh of authorization via axios interceptors. You can easily intercept the original request when it fails, refresh the authorization and continue with the
-- [antfu/unplugin-icons](https://github.com/antfu/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
+- [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [ArweaveTeam/arweave-js](https://github.com/ArweaveTeam/arweave-js) - Browser and Nodejs client for general interaction with the arweave protocol and gateways
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
