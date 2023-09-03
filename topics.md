@@ -1537,6 +1537,7 @@
 
 ## others 
 
+- [maietta/SvelteKit-Prisma-Foundation-Boilerplate](https://github.com/maietta/SvelteKit-Prisma-Foundation-Boilerplate) - SvelteKit Template for CapRover deployments. Includes Foundation, Tailwind, Prisma and SendGrid wired Contact Form examples. Zod implimented.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
