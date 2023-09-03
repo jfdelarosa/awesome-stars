@@ -718,6 +718,7 @@
 
 ## SCSS 
 
+- [maietta/SvelteKit-Prisma-Foundation-Boilerplate](https://github.com/maietta/SvelteKit-Prisma-Foundation-Boilerplate) - SvelteKit Template for CapRover deployments. Includes Foundation, Tailwind, Prisma and SendGrid wired Contact Form examples. Zod implimented.
 - [codeAdrian/clay.css](https://github.com/codeAdrian/clay.css) - Easily add claymorphic styles to any HTML element with this micro class and SASS mixin.
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
 - [iconify/iconify-figma](https://github.com/iconify/iconify-figma) - Import Material Design Icons, Font Awesome, Dashicons, Noto Emoji, Twitter Emoji and thousands of other icons to Figma project as vectors.
