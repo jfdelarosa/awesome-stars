@@ -123,6 +123,7 @@
 
 ## Go 
 
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
@@ -810,6 +811,10 @@
 
 ## TypeScript 
 
+- [multiplehats/jaydens-stack](https://github.com/multiplehats/jaydens-stack) - A modern, efficient, and feature-packed monorepo boilerplate. Uses SvelteKit, tRPC, Shadcn, Tailwind CSS and Turborepo
+- [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
+- [bryanmylee/svelte-headless-table](https://github.com/bryanmylee/svelte-headless-table) - Unopinionated and extensible data tables for Svelte
+- [PuruVJ/neoconfetti](https://github.com/PuruVJ/neoconfetti) - Confetti in Svelte
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [syntaxfm/hackweek-md-multiplayer-editor](https://github.com/syntaxfm/hackweek-md-multiplayer-editor) - Sentry.io Hackweek Submisison - A multiplayer editor for .md files that comits directly to GitHub
 - [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
