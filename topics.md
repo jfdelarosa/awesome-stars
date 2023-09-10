@@ -845,6 +845,7 @@
 
 ## graphql 
 
+- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-nati
 - [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 📘 Quick and Easy TypeScript Express Starter
 - [sandorTuranszky/production-ready-expressjs-server](https://github.com/sandorTuranszky/production-ready-expressjs-server) - Express.js server that implements production-ready error handling and logging following latest best practices.
 - [catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma) - A collection of awesome things regarding Prisma ecosystem.
@@ -1543,6 +1544,8 @@
 
 ## others 
 
+- [rkanik/sveltuse](https://github.com/rkanik/sveltuse) - Collection of essential Svelte Composition Utilities for Svelte and Sveltekit
+- [j4w8n/supakit](https://github.com/j4w8n/supakit) - A Supabase authentication helper for SvelteKit
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [PuruVJ/neoconfetti](https://github.com/PuruVJ/neoconfetti) - Confetti in Svelte
 - [TGlide/novel-svelte](https://github.com/TGlide/novel-svelte) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -2046,7 +2049,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [bangle-io/bangle.dev](https://github.com/bangle-io/bangle.dev) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
+- [bangle-io/bangle-editor](https://github.com/bangle-io/bangle-editor) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
