@@ -196,7 +196,7 @@
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
-- [nuxt-community/google-analytics-module](https://github.com/nuxt-community/google-analytics-module) - Google Analytics Module
+- [nuxt-community/google-analytics-module](https://github.com/nuxt-community/google-analytics-module) - Google Analytics Module for Nuxt 2
 - [vudash/vudash](https://github.com/vudash/vudash) - Powerful, Flexible, Open Source dashboards for anything
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [ankane/ahoy.js](https://github.com/ankane/ahoy.js) - Simple, powerful JavaScript analytics
@@ -1743,7 +1743,7 @@
 - [avibrazil/RDM](https://github.com/avibrazil/RDM) - Easily set Mac Retina display to higher unsupported resolutions
 - [gvital3230/tailwindcss-tooltip-arrow-after](https://github.com/gvital3230/tailwindcss-tooltip-arrow-after) - 
 - [nuxt-modules/color-mode](https://github.com/nuxt-modules/color-mode) - Dark and Light mode with auto detection made easy with Nuxt 🌗
-- [nuxt-community/sentry-module](https://github.com/nuxt-community/sentry-module) - Sentry module for NuxtJS
+- [nuxt-community/sentry-module](https://github.com/nuxt-community/sentry-module) - Sentry module for Nuxt 2
 - [antony/svelte-meetup-talk-oct-2019](https://github.com/antony/svelte-meetup-talk-oct-2019) - 
 - [aerni/tailwindcss-rfs](https://github.com/aerni/tailwindcss-rfs) - This is a Tailwind CSS plugin to generate utility classes for RFS
 - [sveltejs/prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your svelte components using prettier.
