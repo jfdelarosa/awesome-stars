@@ -341,7 +341,7 @@
 - [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript UI framework with unique declarative and functional architecture
 - [vuejs-tips/vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (&lt;2k gzipped) and dependency free mask input for Vue.js
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
-- [nuxt-community/google-analytics-module](https://github.com/nuxt-community/google-analytics-module) - Google Analytics Module
+- [nuxt-community/google-analytics-module](https://github.com/nuxt-community/google-analytics-module) - Google Analytics Module for Nuxt 2
 - [Etheryte/nuxt-dropzone](https://github.com/Etheryte/nuxt-dropzone) - A Nuxt SSR-compatible Dropzone component.
 - [BrockReece/vue-kanban](https://github.com/BrockReece/vue-kanban) - A vue based drag and drop kanban board
 - [Vivify-Ideas/vue-simple-markdown](https://github.com/Vivify-Ideas/vue-simple-markdown) - A Simple and Highspeed Markdown Parser for Vue
@@ -987,7 +987,7 @@
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [nuxt-modules/color-mode](https://github.com/nuxt-modules/color-mode) - Dark and Light mode with auto detection made easy with Nuxt 🌗
 - [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) - I18n module for Nuxt
-- [nuxt-community/sentry-module](https://github.com/nuxt-community/sentry-module) - Sentry module for NuxtJS
+- [nuxt-community/sentry-module](https://github.com/nuxt-community/sentry-module) - Sentry module for Nuxt 2
 - [wemake-services/wemake-vue-template](https://github.com/wemake-services/wemake-vue-template) - Bleeding edge vue template focused on code quality and developer happiness.
 - [sveltejs/prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your svelte components using prettier.
 - [Safort/svelte-dnd](https://github.com/Safort/svelte-dnd) - Drag and Drop for Svelte
