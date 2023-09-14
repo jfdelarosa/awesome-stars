@@ -548,6 +548,7 @@
 
 ## Others 
 
+- [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [guettli/open-source-paas](https://github.com/guettli/open-source-paas) - Open Source PaaS List
 - [m1guelpf/threads-re](https://github.com/m1guelpf/threads-re) - Reverse-engineering Instagram's Threads private APIs.
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
