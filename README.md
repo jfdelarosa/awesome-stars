@@ -170,6 +170,7 @@
 
 ## JavaScript 
 
+- [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [lewebsimple/nuxt-zenstack](https://github.com/lewebsimple/nuxt-zenstack) - ZenStack boilerplate for Nuxt
