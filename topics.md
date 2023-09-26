@@ -1548,6 +1548,7 @@
 
 ## others 
 
+- [TheGammaSqueeze/GammaOS](https://github.com/TheGammaSqueeze/GammaOS) - LineageOS based firmware for Anbernic Unisoc T618 devices
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [replicate/rtv](https://github.com/replicate/rtv) - 
 - [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
@@ -2364,7 +2365,7 @@
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Supercharges Prisma ORM with access control layer 🔐 and auto-generated CRUD API & hooks
-- [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications
+- [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications:  sidebase is a web app development kit to build production ready fullstack apps quickly. We build sidebase to provide a modular, 
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
@@ -2439,7 +2440,7 @@
 
 ## vue 
 
-- [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications
+- [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications:  sidebase is a web app development kit to build production ready fullstack apps quickly. We build sidebase to provide a modular, 
 - [sidebase/nuxt-session](https://github.com/sidebase/nuxt-session) - Nuxt session middleware to get a persistent session per app user, e.g., to store data across multiple requests. The nuxt session module provides the useSession() composable out of the box and sets up 
 - [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs.
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
@@ -2587,7 +2588,7 @@
 
 ## vuejs 
 
-- [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications
+- [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications:  sidebase is a web app development kit to build production ready fullstack apps quickly. We build sidebase to provide a modular, 
 - [unlayer/vue-email-editor](https://github.com/unlayer/vue-email-editor) - Drag-n-Drop Email Editor Component for Vue.js
 - [productdevbookcom/avvvatars-vue](https://github.com/productdevbookcom/avvvatars-vue) - Beautifully crafted unique avatar placeholder for your next vue project
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
