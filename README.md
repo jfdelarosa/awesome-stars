@@ -7,6 +7,7 @@
 
 - [Adblock Filter List](#adblock-filter-list)
 - [ApacheConf](#apacheconf)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -43,6 +44,10 @@
 ## ApacheConf 
 
 - [fuelphp-storage/fuelphp](https://github.com/fuelphp-storage/fuelphp) - FuelPHP framework
+
+## Batchfile 
+
+- [TheGammaSqueeze/GammaOS](https://github.com/TheGammaSqueeze/GammaOS) - LineageOS based firmware for Anbernic Unisoc T618 devices
 
 ## C 
 
@@ -828,7 +833,7 @@
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Supercharges Prisma ORM with access control layer 🔐 and auto-generated CRUD API & hooks
-- [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications
+- [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications:  sidebase is a web app development kit to build production ready fullstack apps quickly. We build sidebase to provide a modular, 
 - [sidebase/nuxt-session](https://github.com/sidebase/nuxt-session) - Nuxt session middleware to get a persistent session per app user, e.g., to store data across multiple requests. The nuxt session module provides the useSession() composable out of the box and sets up 
 - [jfdelarosa/tweet-to-threads-extension](https://github.com/jfdelarosa/tweet-to-threads-extension) - Cross-post your tweets to Threads.net
 - [sooluh/bloks-parser](https://github.com/sooluh/bloks-parser) - :sunglasses: Response parser utility for Meta's Bloks Framework.
