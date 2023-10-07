@@ -753,6 +753,7 @@
 
 ## Svelte 
 
+- [techniq/svelte-ux](https://github.com/techniq/svelte-ux) - Large collection of Svelte components, actions, stores, and utilities to build highly interactive applications.
 - [TGlide/novel-svelte](https://github.com/TGlide/novel-svelte) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [dufu1991/stdf](https://github.com/dufu1991/stdf) - Mobile web component library based on Svelte and Tailwind
@@ -815,6 +816,8 @@
 
 ## TypeScript 
 
+- [swyxio/svelte-actions](https://github.com/swyxio/svelte-actions) - prototype official actions for Svelte
+- [Hugos68/svelte-maskify](https://github.com/Hugos68/svelte-maskify) - Svelte action wrapper for masking inputs.
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [rkanik/sveltuse](https://github.com/rkanik/sveltuse) - Collection of essential Svelte Composition Utilities for Svelte and Sveltekit
 - [j4w8n/supakit](https://github.com/j4w8n/supakit) - A Supabase authentication helper for SvelteKit
