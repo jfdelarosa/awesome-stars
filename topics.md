@@ -1564,6 +1564,9 @@
 
 ## others 
 
+- [swyxio/svelte-actions](https://github.com/swyxio/svelte-actions) - prototype official actions for Svelte
+- [techniq/svelte-ux](https://github.com/techniq/svelte-ux) - Large collection of Svelte components, actions, stores, and utilities to build highly interactive applications.
+- [Hugos68/svelte-maskify](https://github.com/Hugos68/svelte-maskify) - Svelte action wrapper for masking inputs.
 - [TheGammaSqueeze/GammaOS](https://github.com/TheGammaSqueeze/GammaOS) - LineageOS based firmware for Anbernic Unisoc T618 devices
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [replicate/rtv](https://github.com/replicate/rtv) - 
