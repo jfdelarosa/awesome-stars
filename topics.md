@@ -223,7 +223,7 @@
 
 ## angular 
 
-- [antoine92190/vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - A beautiful chat rooms web component compatible with all Javascript frameworks
+- [advanced-chat/vue-advanced-chat](https://github.com/advanced-chat/vue-advanced-chat) - A beautiful chat rooms web component compatible with all Javascript frameworks
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
@@ -1069,7 +1069,7 @@
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [ines/spacy-js](https://github.com/ines/spacy-js) - 🎀 JavaScript API for spaCy with Python REST API
-- [antoine92190/vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - A beautiful chat rooms web component compatible with all Javascript frameworks
+- [advanced-chat/vue-advanced-chat](https://github.com/advanced-chat/vue-advanced-chat) - A beautiful chat rooms web component compatible with all Javascript frameworks
 - [shentao/vue-multiselect](https://github.com/shentao/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
@@ -1565,7 +1565,7 @@
 ## others 
 
 - [swyxio/svelte-actions](https://github.com/swyxio/svelte-actions) - prototype official actions for Svelte
-- [techniq/svelte-ux](https://github.com/techniq/svelte-ux) - Large collection of Svelte components, actions, stores, and utilities to build highly interactive applications.
+- [techniq/svelte-ux](https://github.com/techniq/svelte-ux) - Collection of Svelte components, actions, stores, and utilities to build highly interactive applications.
 - [Hugos68/svelte-maskify](https://github.com/Hugos68/svelte-maskify) - Svelte action wrapper for masking inputs.
 - [TheGammaSqueeze/GammaOS](https://github.com/TheGammaSqueeze/GammaOS) - LineageOS based firmware for Anbernic Unisoc T618 devices
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
@@ -2058,7 +2058,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
-- [antoine92190/vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - A beautiful chat rooms web component compatible with all Javascript frameworks
+- [advanced-chat/vue-advanced-chat](https://github.com/advanced-chat/vue-advanced-chat) - A beautiful chat rooms web component compatible with all Javascript frameworks
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
@@ -2471,7 +2471,7 @@
 - [BastiaanJansen/simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
 - [wobsoriano/vuemoji-picker](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
 - [delowardev/vue3-emoji-picker](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3
-- [antoine92190/vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - A beautiful chat rooms web component compatible with all Javascript frameworks
+- [advanced-chat/vue-advanced-chat](https://github.com/advanced-chat/vue-advanced-chat) - A beautiful chat rooms web component compatible with all Javascript frameworks
 - [shentao/vue-multiselect](https://github.com/shentao/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js
 - [sttatusx/vue-share-modal](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue3 (SFC)
 - [huntersofbook/huntersofbook](https://github.com/huntersofbook/huntersofbook) - We open the tools we use in our projects to all developers.
@@ -2614,7 +2614,7 @@
 - [productdevbookcom/avvvatars-vue](https://github.com/productdevbookcom/avvvatars-vue) - Beautifully crafted unique avatar placeholder for your next vue project
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [BastiaanJansen/simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
-- [antoine92190/vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - A beautiful chat rooms web component compatible with all Javascript frameworks
+- [advanced-chat/vue-advanced-chat](https://github.com/advanced-chat/vue-advanced-chat) - A beautiful chat rooms web component compatible with all Javascript frameworks
 - [maciejpedzich/vue-supabase-tpa-demo](https://github.com/maciejpedzich/vue-supabase-tpa-demo) - Third-Party Authentication (Github) demo Vue 3 + TypeScript + Pinia app using Supabase
 - [fengyuanchen/vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - QR code component for Vue.js
 - [vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options (+Tailwind CSS support).
