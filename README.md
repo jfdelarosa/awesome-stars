@@ -175,6 +175,7 @@
 
 ## JavaScript 
 
+- [ImBIOS/tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator) - Generate custom css and tailwind filter property to achieve any target color 🎨
 - [replicate/rtv](https://github.com/replicate/rtv) - 
 - [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
