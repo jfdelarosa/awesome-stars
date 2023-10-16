@@ -826,7 +826,7 @@
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [bryanmylee/svelte-headless-table](https://github.com/bryanmylee/svelte-headless-table) - Unopinionated and extensible data tables for Svelte
 - [PuruVJ/neoconfetti](https://github.com/PuruVJ/neoconfetti) - Confetti in Svelte
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Shopify Sidekick alternative.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [syntaxfm/hackweek-md-multiplayer-editor](https://github.com/syntaxfm/hackweek-md-multiplayer-editor) - Sentry.io Hackweek Submisison - A multiplayer editor for .md files that comits directly to GitHub
 - [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
