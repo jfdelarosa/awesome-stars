@@ -882,6 +882,7 @@
 - [ImBIOS/tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator) - Generate custom css and tailwind filter property to achieve any target color 🎨
 - [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Shopify Sidekick alternative.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [cloudinary-community/svelte-cloudinary](https://github.com/cloudinary-community/svelte-cloudinary) - ⚡️ High-performance image delivery and uploading at scale in Svelte powered by Cloudinary.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimal code by defining data model and authorization in schema closer to database
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
@@ -898,7 +899,7 @@
 - [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
-- [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
+- [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [shakyapeiris/AuthBee](https://github.com/shakyapeiris/AuthBee) - AuthBee is a NPM package to implement authentication logic for the front end of your JavaScript project
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
