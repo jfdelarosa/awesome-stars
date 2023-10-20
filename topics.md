@@ -752,7 +752,7 @@
 
 ## framework 
 
-- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with minimum code by defining authorization and validation rules inside the data schema that closer to the database
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
@@ -1585,7 +1585,7 @@
 - [TGlide/novel-svelte](https://github.com/TGlide/novel-svelte) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [maietta/SvelteKit-Prisma-Foundation-Boilerplate](https://github.com/maietta/SvelteKit-Prisma-Foundation-Boilerplate) - SvelteKit Template for CapRover deployments. Includes Foundation, Tailwind, Prisma and SendGrid wired Contact Form examples. Zod implimented.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [syntaxfm/hackweek-md-multiplayer-editor](https://github.com/syntaxfm/hackweek-md-multiplayer-editor) - Sentry.io Hackweek Submisison - A multiplayer editor for .md files that comits directly to GitHub
 - [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
@@ -2386,7 +2386,7 @@
 
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
-- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web backend with minimum code by defining authorization and validation rules inside the data schema that closer to the database
@@ -2682,7 +2682,7 @@
 ## web 
 
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A web client for Meta's new Threads app
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
