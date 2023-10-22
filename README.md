@@ -824,6 +824,9 @@
 
 ## TypeScript 
 
+- [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library written for creating user tours and on-boarding steps for your apps.
+- [josias-r/boarding.js](https://github.com/josias-r/boarding.js) - A light-weight, no-dependency, vanilla JavaScript engine to create powerful onboardings and drive the user's focus across the page
+- [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Product Onboarding, and Customer Engagement Platform. Open Source alternative to Appcues / Pendo /  Braze /  One Signal / Customer Io . Use Laudspeaker to design produc
 - [swyxio/svelte-actions](https://github.com/swyxio/svelte-actions) - prototype official actions for Svelte
 - [Hugos68/svelte-maskify](https://github.com/Hugos68/svelte-maskify) - Svelte action wrapper for masking inputs.
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
