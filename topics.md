@@ -150,6 +150,7 @@
 - [software](#software)
 - [sql](#sql)
 - [sql-server](#sql-server)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [sublime-text](#sublime-text)
@@ -513,6 +514,7 @@
 
 ## css 
 
+- [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [fedorovvvv/svelte-media-queries](https://github.com/fedorovvvv/svelte-media-queries) - A ✨light✨ and magical Svelte component for CSS media queries🐹
@@ -971,6 +973,7 @@
 
 ## html 
 
+- [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
@@ -2275,6 +2278,15 @@
 
 ## sql-server 
 
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+
+## sqlite 
+
+- [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs.
+- [michael/editable-website](https://github.com/michael/editable-website) - A SvelteKit template for building CMS-free editable websites
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
+- [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
 ## statistics 
