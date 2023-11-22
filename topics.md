@@ -1487,6 +1487,7 @@
 
 ## node 
 
+- [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A web client for Meta's new Threads app
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
@@ -2419,6 +2420,7 @@
 
 ## testing 
 
+- [joshnuss/prisma-database-cleaner](https://github.com/joshnuss/prisma-database-cleaner) - Utility for cleaning Prisma databases between test runs
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [sapegin/jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) - Jest cheat sheet
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
