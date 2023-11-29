@@ -939,7 +939,6 @@
 - [mdauner/sveltejs-forms](https://github.com/mdauner/sveltejs-forms) - Declarative forms for Svelte
 - [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-- [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [ismail9k/vue3-spring](https://github.com/ismail9k/vue3-spring) - A spring-physics based animation library, and more
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
