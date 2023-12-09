@@ -244,7 +244,7 @@
 ## api 
 
 - [otiai10/ocrserver](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema that closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
@@ -768,7 +768,7 @@
 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema that closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
@@ -1088,7 +1088,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema that closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
 - [reimax/dockModal](https://github.com/reimax/dockModal) - A vanilla JS customisable dialog plugin
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs.
@@ -1471,7 +1471,7 @@
 
 - [mikemajara/nextjs-prisma-next-auth-credentials](https://github.com/mikemajara/nextjs-prisma-next-auth-credentials) - NextJS Application with Prisma & Nextauth ready to use
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema that closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source monitoring platform with incident management  🏓
 - [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A web client for Meta's new Threads app
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
@@ -1521,7 +1521,7 @@
 
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema that closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
 - [threadsjs/threads.js](https://github.com/threadsjs/threads.js) - A Node.js library for the Threads API
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
@@ -2199,7 +2199,7 @@
 
 ## rest-api 
 
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema that closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
 - [ines/spacy-js](https://github.com/ines/spacy-js) - 🎀 JavaScript API for spaCy with Python REST API
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
@@ -2466,7 +2466,7 @@
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
-- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema that closer to the database
+- [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Build scalable web apps with minimum code by defining authorization and validation rules inside the data schema, closer to the database
 - [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications:  sidebase is a web app development kit to build production ready fullstack apps quickly. We build sidebase to provide a modular, 
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
@@ -2547,7 +2547,7 @@
 - [sidebase/nuxt-session](https://github.com/sidebase/nuxt-session) - Nuxt session middleware to get a persistent session per app user, e.g., to store data across multiple requests. The nuxt session module provides the useSession() composable out of the box and sets up 
 - [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs.
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
-- [nuxt/ui](https://github.com/nuxt/ui) - Fully styled and customizable components for Nuxt.
+- [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & TailwindCSS.
 - [Dave136/vue-email](https://github.com/Dave136/vue-email) - Write email templates with vue
 - [unlayer/vue-email-editor](https://github.com/unlayer/vue-email-editor) - Drag-n-Drop Email Editor Component for Vue.js
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
