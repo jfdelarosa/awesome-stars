@@ -1665,7 +1665,7 @@
 - [rlk/whitemark](https://github.com/rlk/whitemark) - Steganographic encoding of a watermark in the whitespace of text
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
-- [resendlabs/resend-node](https://github.com/resendlabs/resend-node) - resend's node.js sdk
+- [resend/resend-node](https://github.com/resend/resend-node) - resend's node.js sdk
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
 - [vitorlofonseca/microfrontend-vue-and-vite](https://github.com/vitorlofonseca/microfrontend-vue-and-vite) - 
 - [aiji42/zod-i18n](https://github.com/aiji42/zod-i18n) - Useful for translating zod error messages.
