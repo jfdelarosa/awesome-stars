@@ -715,7 +715,6 @@
 
 ## Python 
 
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [davila7/youtube-gpt](https://github.com/davila7/youtube-gpt) - Youtube GPT: OpenAI Whisper + Embedding + Davinci
@@ -755,6 +754,7 @@
 
 ## Shell 
 
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [ready4mars/n8n-render](https://github.com/ready4mars/n8n-render) - Deploying n8n on Render (render.com) hosting, using separate Web Service (with Docker and Persistent Disk Storage) + Postgres DB.
