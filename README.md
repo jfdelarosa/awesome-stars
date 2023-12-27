@@ -907,7 +907,7 @@
 - [fedorovvvv/svelte-floating-ui](https://github.com/fedorovvvv/svelte-floating-ui) - Svelte✨ Floating UI 🎈
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [grail-ui/grail-ui](https://github.com/grail-ui/grail-ui) - A library of accessible component primitives, actions and utilities for Svelte.
-- [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A free, open-source note-taking app based on the Zettelkasten Method
+- [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A free, open-source note-taking app based for lifelong learners
 - [paoloricciuti/sveltekit-search-params](https://github.com/paoloricciuti/sveltekit-search-params) - The easiest way to read and WRITE from query parameters in sveltekit.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [CaptainCodeman/svelte-headlessui](https://github.com/CaptainCodeman/svelte-headlessui) - HeadlessUI components for Svelte
