@@ -344,7 +344,6 @@
 - [Yibarr/cinta-negra-b47](https://github.com/Yibarr/cinta-negra-b47) - Repositorio que incluye todas las clases de la primera sección de Cinta negra.
 - [postcss/postcss-100vh-fix](https://github.com/postcss/postcss-100vh-fix) - PostCSS plugin to fix height/min-height: 100vh on iOS
 - [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [jaredpalmer/minimum-viable-saas](https://github.com/jaredpalmer/minimum-viable-saas) - A multi-tier membership SaaS in less than 500 lines of code w/Stripe and Firebase
 - [richardeschloss/nuxt-socket-io](https://github.com/richardeschloss/nuxt-socket-io) - Nuxt Socket IO - socket.io client and server module for Nuxt
 - [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN(Mongo Express Vue Node)  Apps
@@ -692,7 +691,7 @@
 - [jamierumbelow/codeigniter-base-model](https://github.com/jamierumbelow/codeigniter-base-model) - ⛔️DEPRECATED CodeIgniter base CRUD model to remove repetition and increase productivity
 - [panique/mini](https://github.com/panique/mini) - Just an extremely simple naked PHP application, useful for small projects and quick prototypes. Some might call it a micro framework :)
 - [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
-- [mikecao/flight](https://github.com/mikecao/flight) - An extensible micro-framework for PHP
+- [flightphp/core](https://github.com/flightphp/core) - An extensible micro-framework for PHP
 - [codecasts/spa-starter-kit](https://github.com/codecasts/spa-starter-kit) - A highly opinionated starter kit for building Single Page Applications with Laravel and Vue.js
 - [jodacame/youtube-music-engine](https://github.com/jodacame/youtube-music-engine) - Youtube Music Engine Script PHP
 - [PHPFusion/PHPFusion](https://github.com/PHPFusion/PHPFusion) - PHPFusion Official Development Repository
@@ -893,7 +892,7 @@
 - [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
-- [inlang/monorepo](https://github.com/inlang/monorepo) - globalization infrastructure for software && change control for apps
+- [opral/monorepo](https://github.com/opral/monorepo) - globalization infrastructure for software && change control for apps
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
@@ -1012,10 +1011,11 @@
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [oakserver/oak](https://github.com/oakserver/oak) - A middleware framework for handling HTTP with Deno 🐿️ 🦕
 - [bradgarropy/hue-sdk](https://github.com/bradgarropy/hue-sdk) - 💡 philips hue sdk
 - [agenda/agenda](https://github.com/agenda/agenda) - Lightweight job scheduling for Node.js
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total cov
