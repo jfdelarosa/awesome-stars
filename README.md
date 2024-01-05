@@ -769,7 +769,6 @@
 
 ## Svelte 
 
-- [rossrobino/uico](https://github.com/rossrobino/uico) - UI components for TailwindCSS projects
 - [pbrahmac/funances-v3](https://github.com/pbrahmac/funances-v3) - 
 - [ngoldack/azubi-toolbox](https://github.com/ngoldack/azubi-toolbox) - 
 - [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
@@ -836,6 +835,7 @@
 ## TypeScript 
 
 - [penxio/penx](https://github.com/penxio/penx) - A structured note-taking app for personal use.
+- [rossrobino/uico](https://github.com/rossrobino/uico) - UI components for TailwindCSS projects
 - [Hugos68/capkit](https://github.com/Hugos68/capkit) - CLI to integrate Capacitor into SvelteKit
 - [spences10/sveltekit-embed](https://github.com/spences10/sveltekit-embed) - SvelteKit embed components
 - [ciscoheat/sveltekit-flash-message](https://github.com/ciscoheat/sveltekit-flash-message) - Send temporary data after redirect, usually from endpoints. Works with both SSR and client.
