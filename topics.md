@@ -1709,7 +1709,7 @@
 - [soygcm/teki](https://github.com/soygcm/teki) - How to make a startup without having time
 - [andrewchilds/slack-notify](https://github.com/andrewchilds/slack-notify) - A Node.js wrapper around the Slack Webhook API.
 - [oslabs-beta/Vuenique](https://github.com/oslabs-beta/Vuenique) - A reusable data visualization components library using D3 in Vue
-- [storyblok/storyblok-svelte](https://github.com/storyblok/storyblok-svelte) - 
+- [storyblok/storyblok-svelte](https://github.com/storyblok/storyblok-svelte) - Svelte SDK for Storyblok CMS
 - [rdkls/gps-tracker-server](https://github.com/rdkls/gps-tracker-server) - 
 - [omer-g/persistent-svelte-store](https://github.com/omer-g/persistent-svelte-store) - A generic persistent store according to the Svelte store contract
 - [patak-dev/vite-plugin-terminal](https://github.com/patak-dev/vite-plugin-terminal) - Log in the node terminal from the browser
