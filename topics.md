@@ -170,6 +170,7 @@
 - [web](#web)
 - [web-assembly](#web-assembly)
 - [web-components](#web-components)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -1390,6 +1391,7 @@
 ## markdown 
 
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A simple note-taking app for better thinking
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [pd4d10/hashmd](https://github.com/pd4d10/hashmd) - Hackable Markdown Editor and Viewer
@@ -1676,7 +1678,6 @@
 - [dominikg/summit-2023](https://github.com/dominikg/summit-2023) - 
 - [rlk/whitemark](https://github.com/rlk/whitemark) - Steganographic encoding of a watermark in the whitespace of text
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
-- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [resend/resend-node](https://github.com/resend/resend-node) - resend's node.js sdk
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 
 - [vitorlofonseca/microfrontend-vue-and-vite](https://github.com/vitorlofonseca/microfrontend-vue-and-vite) - 
@@ -2810,6 +2811,12 @@
 
 - [WeAreGenki/minna-ui](https://github.com/WeAreGenki/minna-ui) - 😸 A fast, friendly, and fun web UI kit for everyone.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+
+## web-development 
+
+- [redom/redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
+- [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 
 ## webapp 
 
