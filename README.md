@@ -777,6 +777,7 @@
 
 ## Svelte 
 
+- [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
 - [pbrahmac/funances-v3](https://github.com/pbrahmac/funances-v3) - 
 - [ngoldack/azubi-toolbox](https://github.com/ngoldack/azubi-toolbox) - 
 - [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
