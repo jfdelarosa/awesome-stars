@@ -127,7 +127,7 @@
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -839,6 +839,7 @@
 
 ## TypeScript 
 
+- [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - An advanced headless evaluator and parser of Excel formulas. Built with TypeScript. Supported by the Handsontable team.
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
@@ -900,7 +901,7 @@
 - [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
-- [opral/monorepo](https://github.com/opral/monorepo) - globalization infrastructure for software && change control for apps
+- [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control backend
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
@@ -917,6 +918,7 @@
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [grail-ui/grail-ui](https://github.com/grail-ui/grail-ui) - A library of accessible component primitives, actions and utilities for Svelte.
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
+- [sidebase/nuxt-pdf](https://github.com/sidebase/nuxt-pdf) - 📄 A easy to use, pdf exporting module to convert Nuxt 3 components into downloadable PDFs.
 - [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A simple note-taking app for better thinking
 - [paoloricciuti/sveltekit-search-params](https://github.com/paoloricciuti/sveltekit-search-params) - The easiest way to read and WRITE from query parameters in sveltekit.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
@@ -1102,11 +1104,10 @@
 - [unlayer/vue-email-editor](https://github.com/unlayer/vue-email-editor) - Drag-n-Drop Email Editor Component for Vue.js
 - [vitorlofonseca/microfrontend-vue-and-vite](https://github.com/vitorlofonseca/microfrontend-vue-and-vite) - 
 - [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
-- [sidebase/nuxt-pdf](https://github.com/sidebase/nuxt-pdf) - 📄 A easy to use, pdf exporting module to convert Nuxt 3 components into downloadable PDFs.
 - [nuxt/nuxt.new](https://github.com/nuxt/nuxt.new) - Create a new Nuxt project from your address bar.
 - [BastiaanJansen/simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
 - [delowardev/vue3-emoji-picker](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3
-- [sttatusx/vue-share-modal](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue3 (SFC)
+- [freakingeek/vue-share-modal](https://github.com/freakingeek/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue3 (SFC)
 - [P4sca1/nuxt-headlessui](https://github.com/P4sca1/nuxt-headlessui) - Headless UI integration for Nuxt. Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [ndrbrt/vue-auth-ui](https://github.com/ndrbrt/vue-auth-ui) - Pre-built Auth UI for Vue
 - [zernonia/simple-log](https://github.com/zernonia/simple-log) - SimpleLog - Event tracking all in 1 place! Free & Open Source
