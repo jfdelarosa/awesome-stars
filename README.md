@@ -773,6 +773,7 @@
 
 ## Svelte 
 
+- [janosh/svelte-bricks](https://github.com/janosh/svelte-bricks) - Naive Svelte Masonry component without column balancing (ragged columns at the bottom)
 - [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
 - [pbrahmac/funances-v3](https://github.com/pbrahmac/funances-v3) - 
 - [ngoldack/azubi-toolbox](https://github.com/ngoldack/azubi-toolbox) - 
@@ -839,6 +840,7 @@
 
 ## TypeScript 
 
+- [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - An advanced headless evaluator and parser of Excel formulas. Built with TypeScript. Supported by the Handsontable team.
@@ -865,7 +867,7 @@
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [bryanmylee/svelte-headless-table](https://github.com/bryanmylee/svelte-headless-table) - Unopinionated and extensible data tables for Svelte
 - [PuruVJ/neoconfetti](https://github.com/PuruVJ/neoconfetti) - Confetti in Svelte
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Siri, but for your  own product. ship an AI copilot for your product in minutes.
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Ship an AI copilot for your product in minutes.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [syntaxfm/hackweek-md-multiplayer-editor](https://github.com/syntaxfm/hackweek-md-multiplayer-editor) - Sentry.io Hackweek Submisison - A multiplayer editor for .md files that comits directly to GitHub
 - [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
