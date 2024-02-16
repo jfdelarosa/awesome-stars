@@ -832,7 +832,7 @@
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [DevUtilsApp/DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) - All-in-one Toolbox for Developers. Native macOS app.
-- [relatedcode/Midjourney](https://github.com/relatedcode/Midjourney) - Midjourney Showcase iOS app (550k images)
+- [relatedcode/Midjourney](https://github.com/relatedcode/Midjourney) - Midjourney Showcase iOS app - 1M+ images ‼️
 
 ## TeX 
 
@@ -897,7 +897,7 @@
 - [vue-email/vue-email](https://github.com/vue-email/vue-email) - 💌 Write email templates with vue
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
 - [productdevbookcom/avvvatars-vue](https://github.com/productdevbookcom/avvvatars-vue) - Beautifully crafted unique avatar placeholder for your next vue project
-- [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit validation and displaying of forms a pleasure!
+- [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
