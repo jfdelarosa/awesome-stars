@@ -842,7 +842,7 @@
 
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - An advanced headless evaluator and parser of Excel formulas. Built with TypeScript. Supported by the Handsontable team.
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [penxio/penx](https://github.com/penxio/penx) - A structured note-taking app for personal use.
