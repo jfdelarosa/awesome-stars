@@ -840,6 +840,7 @@
 
 ## TypeScript 
 
+- [logbun/logbun](https://github.com/logbun/logbun) - 
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
@@ -1013,7 +1014,7 @@
 - [FactorJS/factor](https://github.com/FactorJS/factor) - [In development, please wait for updated public release] Next-generation JavaScript framework for JAMStack blogs, sites & apps.
 - [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
 - [bangle-io/bangle-editor](https://github.com/bangle-io/bangle-editor) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
-- [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
+- [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 - [ismail9k/vue3-spring](https://github.com/ismail9k/vue3-spring) - A spring-physics based animation library, and more
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
