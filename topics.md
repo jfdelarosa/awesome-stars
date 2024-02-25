@@ -1734,7 +1734,6 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [burggraf/supabase-user-password-migration](https://github.com/burggraf/supabase-user-password-migration) - How to migrate user passwords from an external authentication system to Supabase
 - [motiondivision/motionone](https://github.com/motiondivision/motionone) - 
-- [mskocik/svelecte](https://github.com/mskocik/svelecte) - Selectize-like component written in Svelte, also usable as custom-element 💪⚡
 - [rohitpotato/svelte-command-palette](https://github.com/rohitpotato/svelte-command-palette) - Dead simple command palette for svelte
 - [soygcm/teki](https://github.com/soygcm/teki) - How to make a startup without having time
 - [andrewchilds/slack-notify](https://github.com/andrewchilds/slack-notify) - A Node.js wrapper around the Slack Webhook API.
@@ -2413,6 +2412,7 @@
 - [CaptainCodeman/svelte-headlessui](https://github.com/CaptainCodeman/svelte-headlessui) - HeadlessUI components for Svelte
 - [janosh/svelte-multiselect](https://github.com/janosh/svelte-multiselect) - Keyboard-friendly, accessible and highly customizable multi-select component
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
+- [mskocik/svelecte](https://github.com/mskocik/svelecte) - Flexible autocomplete/select component written in Svelte,
 - [agustinl/svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [andrelmlins/svelte-infinite-scroll](https://github.com/andrelmlins/svelte-infinite-scroll) - Infinite Scroll Component to Svelte
