@@ -876,7 +876,7 @@
 - [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
-- [sveltor/nextlint](https://github.com/sveltor/nextlint) - A rich text editor,  notion like Editor, build with svelte + tiptap. Enhance writing experiences with ChatGPT
+- [sveltor/nextlint](https://github.com/sveltor/nextlint) - Rich text editor (WYSIWYG) written in Svelte. Build on top of tiptap, prosemirror. Dark/Light theme support
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [raycharius/slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI.
