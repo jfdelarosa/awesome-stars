@@ -216,7 +216,7 @@
 - [codrops/Animocons](https://github.com/codrops/Animocons) - Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot ["Like Animation"](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Gin
 - [rlk/whitemark](https://github.com/rlk/whitemark) - Steganographic encoding of a watermark in the whitespace of text
 - [zy445566/node-digital-watermarking](https://github.com/zy445566/node-digital-watermarking) - A digital watermark is a kind of marker covertly embedded in a noise-tolerant signal such as an audio, video or image data. It is typically used to identify ownership of the copyright of such signal. 
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Modern Git-based headless CMS. Fast & lightweight. Free & open source. UX-driven development. Made with Svelte.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Modern, fast, lightweight, Git-based headless CMS. Free & open source. UX-driven development. Made with Svelte.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [heedrox/abbreviame](https://github.com/heedrox/abbreviame) - Get an abbreviated description made by an AI of you based on your latest tweets. What do other users perceive from what you tweet?
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
@@ -778,6 +778,7 @@
 
 ## Svelte 
 
+- [Rich-Harris/sveltekit-movies-demo](https://github.com/Rich-Harris/sveltekit-movies-demo) - Movies demo
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [selemondev/svelte-marquee](https://github.com/selemondev/svelte-marquee) - A Beautiful Marquee component for Svelte ✨
 - [janosh/svelte-bricks](https://github.com/janosh/svelte-bricks) - Naive Svelte Masonry component without column balancing (ragged columns at the bottom)
