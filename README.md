@@ -29,6 +29,7 @@
 - [Reason](#reason)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [SVG](#svg)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Svelte](#svelte)
@@ -761,6 +762,10 @@
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 
+## SVG 
+
+- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
+
 ## Shell 
 
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
@@ -1109,7 +1114,7 @@
 
 ## Vue 
 
-- [chefidelis/nuxt-mailer](https://github.com/chefidelis/nuxt-mailer) - Send emails from your Nuxtjs App using Nodemailer
+- [funwiche/nuxt-mailer](https://github.com/funwiche/nuxt-mailer) - Send emails from your Nuxtjs App using Nodemailer
 - [xiaoluoboding/vue-command-palette](https://github.com/xiaoluoboding/vue-command-palette) - ⌨️ A fast, composable, unstyled command palette interface for Vue.
 - [Boluwatife2904/auth-ui-vue](https://github.com/Boluwatife2904/auth-ui-vue) - Auth UI is a pre-built Vue component for authenticating users with Supabase. It supports custom themes and extensible styles to match your brand and aesthetic.
 - [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs.
