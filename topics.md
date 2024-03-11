@@ -1646,6 +1646,7 @@
 
 ## others 
 
+- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [Rich-Harris/sveltekit-movies-demo](https://github.com/Rich-Harris/sveltekit-movies-demo) - Movies demo
 - [ocluf/justship](https://github.com/ocluf/justship) - 
 - [selemondev/svelte-marquee](https://github.com/selemondev/svelte-marquee) - A Beautiful Marquee component for Svelte ✨
@@ -1661,7 +1662,7 @@
 - [pbrahmac/funances-v3](https://github.com/pbrahmac/funances-v3) - 
 - [ngoldack/azubi-toolbox](https://github.com/ngoldack/azubi-toolbox) - 
 - [jurassicjs/nuxt-mailer](https://github.com/jurassicjs/nuxt-mailer) - A module for sending Emails from a nuxt app
-- [chefidelis/nuxt-mailer](https://github.com/chefidelis/nuxt-mailer) - Send emails from your Nuxtjs App using Nodemailer
+- [funwiche/nuxt-mailer](https://github.com/funwiche/nuxt-mailer) - Send emails from your Nuxtjs App using Nodemailer
 - [jurassicjs/nuxt-scheduler](https://github.com/jurassicjs/nuxt-scheduler) - Create scheduled jobs with human readable time settings
 - [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library for creating user tours and on-boarding steps for your apps.
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
