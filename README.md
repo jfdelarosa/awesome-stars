@@ -857,6 +857,7 @@
 
 ## TypeScript 
 
+- [rocicorp/byob-starter](https://github.com/rocicorp/byob-starter) - Bring Your Own Backend Starter
 - [ocluf/justship](https://github.com/ocluf/justship) - 
 - [LogSnag/logsnag.js](https://github.com/LogSnag/logsnag.js) - 
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
