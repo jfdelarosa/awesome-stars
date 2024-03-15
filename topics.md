@@ -1651,6 +1651,7 @@
 
 ## others 
 
+- [rocicorp/byob-starter](https://github.com/rocicorp/byob-starter) - Bring Your Own Backend Starter
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 - [Rich-Harris/sveltekit-movies-demo](https://github.com/Rich-Harris/sveltekit-movies-demo) - Movies demo
 - [ocluf/justship](https://github.com/ocluf/justship) - 
