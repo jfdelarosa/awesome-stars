@@ -857,6 +857,7 @@
 
 ## TypeScript 
 
+- [hywax/vite-vanilla-library-template](https://github.com/hywax/vite-vanilla-library-template) - Template for creating a library with a fully customized environment.
 - [rocicorp/byob-starter](https://github.com/rocicorp/byob-starter) - Bring Your Own Backend Starter
 - [ocluf/justship](https://github.com/ocluf/justship) - 
 - [LogSnag/logsnag.js](https://github.com/LogSnag/logsnag.js) - 
