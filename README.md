@@ -858,6 +858,7 @@
 
 ## TypeScript 
 
+- [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [advanced-astro/astro-min](https://github.com/advanced-astro/astro-min) - Extremely ⚡ Fast and Smart HTML 🟠 JS 🟡 CSS 🔵 SVG 🟣 Minification
 - [Playform/AstroCompress](https://github.com/Playform/AstroCompress) - 🗜️ Compress Astro.
 - [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip and brotli compressor for Astro
