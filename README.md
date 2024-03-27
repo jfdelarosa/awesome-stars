@@ -589,7 +589,7 @@
 - [m1guelpf/threads-re](https://github.com/m1guelpf/threads-re) - Reverse-engineering Instagram's Threads private APIs.
 - [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 - [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
-- [halfmage/majesticons](https://github.com/halfmage/majesticons) - Majesticons Free – A versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.
+- [halfmage/majesticons](https://github.com/halfmage/majesticons) - 👑 Free Version – A versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.
 - [huntersofbook/huntersofbook](https://github.com/huntersofbook/huntersofbook) - We open the tools we use in our projects to all developers.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
