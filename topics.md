@@ -521,7 +521,7 @@
 
 ## css 
 
-- [Playform/CompressAstro](https://github.com/Playform/CompressAstro) - 🗜️ Compress Astro.
+- [Playform/CompressAstro](https://github.com/Playform/CompressAstro) - 🗜️ Compress Astro.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [Kamona-WD/tailwindcss-perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - A little bit of utility classes related to css 3d transform
@@ -1108,7 +1108,7 @@
 
 ## javascript 
 
-- [Playform/CompressAstro](https://github.com/Playform/CompressAstro) - 🗜️ Compress Astro.
+- [Playform/CompressAstro](https://github.com/Playform/CompressAstro) - 🗜️ Compress Astro.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
