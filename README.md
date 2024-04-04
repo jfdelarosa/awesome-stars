@@ -312,7 +312,6 @@
 - [fregante/chrome-webstore-upload](https://github.com/fregante/chrome-webstore-upload) - Upload Chrome Extensions to the Chrome Web Store
 - [simov/chrome-webstore](https://github.com/simov/chrome-webstore) - Google Chrome Web Store HTTP Client
 - [algolia/places](https://github.com/algolia/places) - :globe_with_meridians: Turn any &lt;input&gt; into an address autocomplete
-- [rishabhp/bideo.js](https://github.com/rishabhp/bideo.js) - Fullscreen HTML5 Background Video for the Web.
 - [utherpally/svelte-scrollto](https://github.com/utherpally/svelte-scrollto) - Animating vertical and horizontal scrolling. Inspired by rigor789/vue-scrollto and uses some of its code and functionality!!
 - [yustarandomname/svelte-supabase-quickstart](https://github.com/yustarandomname/svelte-supabase-quickstart) - This is a project to quickstart your development with supabase combined with the svelte framework
 - [rustyzone/Supabase-Chrome-Ext-Auth](https://github.com/rustyzone/Supabase-Chrome-Ext-Auth) - 
