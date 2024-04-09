@@ -541,7 +541,7 @@
 - [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
 - [lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout) - Popular layouts and patterns made with Tailwind CSS
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
@@ -957,7 +957,7 @@
 - [adonisjs-community/awesome-adonisjs](https://github.com/adonisjs-community/awesome-adonisjs) - A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the AdonisJS ecosystem.
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [souranalytics/pickle-old](https://github.com/souranalytics/pickle-old) - Privacy and developer-first analytics
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [Kholid060/projectile](https://github.com/Kholid060/projectile) - An app for managing your JavaScript projects
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -974,7 +974,6 @@
 - [ismail9k/vue3-spring](https://github.com/ismail9k/vue3-spring) - A spring-physics based animation library, and more
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
@@ -1017,7 +1016,7 @@
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
@@ -1163,7 +1162,7 @@
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. CURRENTLY LIVE ON KICKSTARTER! 👇👇👇
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [Kholid060/projectile](https://github.com/Kholid060/projectile) - An app for managing your JavaScript projects
 - [drannex42/svelte-capacitor](https://github.com/drannex42/svelte-capacitor) - Build hybrid mobile apps using Svelte and CapacitorJS with live reloading on Android and iOS!
@@ -1528,6 +1527,7 @@
 
 ## nextjs 
 
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [mikemajara/nextjs-prisma-next-auth-credentials](https://github.com/mikemajara/nextjs-prisma-next-auth-credentials) - NextJS Application with Prisma & Nextauth ready to use
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Typescript toolkit on top of Prisma ORM, offering flexible and declarative Access Control Policy(Authorization/Permission) for RBAC/ABAC/PBAC/ReBAC with auto-generated type-safe APIs and frontend hook
@@ -2189,6 +2189,7 @@
 
 ## react 
 
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
@@ -2554,6 +2555,7 @@
 
 ## typescript 
 
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [hywax/vite-vanilla-library-template](https://github.com/hywax/vite-vanilla-library-template) - Template for creating a library with a fully customized environment.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [janosh/svelte-bricks](https://github.com/janosh/svelte-bricks) - Naive Svelte Masonry component without column balancing (ragged columns at the bottom)
