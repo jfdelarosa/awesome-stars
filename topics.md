@@ -156,6 +156,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [sublime-text](#sublime-text)
@@ -2030,7 +2031,6 @@
 - [tuckbloor/html-5-image-editor](https://github.com/tuckbloor/html-5-image-editor) - 
 - [ericdrowell/KineticJS](https://github.com/ericdrowell/KineticJS) - KineticJS is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [andyvr/picEdit](https://github.com/andyvr/picEdit) - An attempt to create a simple front-end image editor jQuery plugin that would replace a file-upload input box in a HTML form.
-- [relatedcode/Midjourney](https://github.com/relatedcode/Midjourney) - Midjourney Showcase iOS app - 1M+ images ‼️
 - [akakie/TinyMVC](https://github.com/akakie/TinyMVC) - A micro-sized MVC framework for little projects that need a bit more organization.
 - [techwarriorz/PHP_AngularJS_Authentication_Tutorial](https://github.com/techwarriorz/PHP_AngularJS_Authentication_Tutorial) - The code from the PHP/AngularJS Tutorial video that we put on youtube (https://www.youtube.com/watch?v=DkOss1ThwYI&feature=youtu.be)
 - [szwacz/electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Boilerplate application for Electron runtime
@@ -2405,6 +2405,10 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+
+## stable-diffusion 
+
+- [relatedcode/Midjourney](https://github.com/relatedcode/Midjourney) - Midjourney Showcase iOS app - 1M+ images ‼️
 
 ## statistics 
 
