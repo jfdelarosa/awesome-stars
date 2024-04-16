@@ -867,7 +867,7 @@
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [advanced-astro/astro-min](https://github.com/advanced-astro/astro-min) - Extremely ⚡ Fast and Smart HTML 🟠 JS 🟡 CSS 🔵 SVG 🟣 Minification
-- [Playform/Compress](https://github.com/Playform/Compress) - 🗜️ Compress
+- [Playform/Compress](https://github.com/Playform/Compress) - 🗜️ Compress.
 - [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip and brotli compressor for Astro
 - [paoloricciuti/optimistikit](https://github.com/paoloricciuti/optimistikit) - Optimistic UI in sveltekit made easy
 - [hywax/vite-vanilla-library-template](https://github.com/hywax/vite-vanilla-library-template) - Template for creating a library with a fully customized environment.
