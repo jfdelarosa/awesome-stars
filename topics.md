@@ -85,7 +85,6 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
-- [jquery](#jquery)
 - [js](#js)
 - [json](#json)
 - [koa](#koa)
@@ -1288,10 +1287,6 @@
 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
-## jquery 
-
-- [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop website builder javascript library.
-
 ## js 
 
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
@@ -1685,7 +1680,7 @@
 - [logbun/logbun](https://github.com/logbun/logbun) - 
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
-- [penxio/penx](https://github.com/penxio/penx) - A structured note-taking app for personal use.
+- [penxio/penx](https://github.com/penxio/penx) - A Local-First digital assets wallet for geeks.
 - [paolotiu/tailwind-intellisense-regex-list](https://github.com/paolotiu/tailwind-intellisense-regex-list) - 
 - [wesbos/hot-tips](https://github.com/wesbos/hot-tips) - The code behind my hot tips
 - [brettgullan/tailwindcss-scrims](https://github.com/brettgullan/tailwindcss-scrims) - Configurable Tailwind plugin for generating scrim classes.
