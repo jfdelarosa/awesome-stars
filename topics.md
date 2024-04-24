@@ -1479,7 +1479,7 @@
 
 ## monitoring 
 
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source website & API monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [vudash/vudash](https://github.com/vudash/vudash) - Powerful, Flexible, Open Source dashboards for anything
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -1525,11 +1525,11 @@
 
 ## nextjs 
 
-- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [mikemajara/nextjs-prisma-next-auth-credentials](https://github.com/mikemajara/nextjs-prisma-next-auth-credentials) - NextJS Application with Prisma & Nextauth ready to use
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Typescript toolkit on top of Prisma ORM, offering flexible and declarative Access Control Policy(Authorization/Permission) for RBAC/ABAC/PBAC/ReBAC with auto-generated type-safe APIs and frontend hook
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source website & API monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
 - [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A web client for Meta's new Threads app
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
@@ -1647,7 +1647,7 @@
 
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source website & API monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
 - [sauravhathi/atsresume](https://github.com/sauravhathi/atsresume) - ATSResume | Get hired with an ATS-optimized resume
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
@@ -2191,7 +2191,7 @@
 ## react 
 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
-- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
@@ -2565,7 +2565,7 @@
 
 ## typescript 
 
-- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [hywax/vite-vanilla-library-template](https://github.com/hywax/vite-vanilla-library-template) - Template for creating a library with a fully customized environment.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [janosh/svelte-bricks](https://github.com/janosh/svelte-bricks) - Naive Svelte Masonry component without column balancing (ragged columns at the bottom)
