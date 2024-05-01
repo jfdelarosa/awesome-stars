@@ -127,6 +127,7 @@
 
 ## Elixir 
 
+- [svycal/og-image](https://github.com/svycal/og-image) - An open graph image generator, by SavvyCal ✨
 - [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.
 
 ## Go 
@@ -865,6 +866,7 @@
 
 ## TypeScript 
 
+- [tegarimansyah/astro-pocketbase-template](https://github.com/tegarimansyah/astro-pocketbase-template) - Quick Web App with Astro, React, Tailwind, Shadcn ui and Pocketbase
 - [okupter/kitforstartups](https://github.com/okupter/kitforstartups) - The Open Source SvelteKit SaaS boilerplate.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform.
 - [oliverdunk/web-extension-playground](https://github.com/oliverdunk/web-extension-playground) - Playground for building Web Extensions
@@ -873,7 +875,7 @@
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [advanced-astro/astro-min](https://github.com/advanced-astro/astro-min) - Extremely ⚡ Fast and Smart HTML 🟠 JS 🟡 CSS 🔵 SVG 🟣 Minification
-- [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ Compress —
+- [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ — Compress —
 - [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip and brotli compressor for Astro
 - [paoloricciuti/optimistikit](https://github.com/paoloricciuti/optimistikit) - Optimistic UI in sveltekit made easy
 - [hywax/vite-vanilla-library-template](https://github.com/hywax/vite-vanilla-library-template) - Template for creating a library with a fully customized environment.
