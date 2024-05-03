@@ -1672,7 +1672,7 @@
 
 - [tegarimansyah/astro-pocketbase-template](https://github.com/tegarimansyah/astro-pocketbase-template) - Quick Web App with Astro, React, Tailwind, Shadcn ui and Pocketbase
 - [svycal/og-image](https://github.com/svycal/og-image) - An open graph image generator, by SavvyCal ✨
-- [stolinski/slick-kit](https://github.com/stolinski/slick-kit) - This is a bare starter kit for PocketBase / Svelte 5 / SvelteKit with lots of extras
+- [stolinski/drop-in](https://github.com/stolinski/drop-in) - This is a bare starter kit for PocketBase / Svelte 5 / SvelteKit with lots of extras
 - [okupter/kitforstartups](https://github.com/okupter/kitforstartups) - The Open Source SvelteKit SaaS boilerplate.
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [oliverdunk/web-extension-playground](https://github.com/oliverdunk/web-extension-playground) - Playground for building Web Extensions
