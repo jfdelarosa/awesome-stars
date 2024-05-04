@@ -1111,6 +1111,7 @@
 
 ## javascript 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ — Compress —
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
@@ -1670,6 +1671,7 @@
 
 ## others 
 
+- [kilroyjones/sveltekit-pocketbase](https://github.com/kilroyjones/sveltekit-pocketbase) - 
 - [tegarimansyah/astro-pocketbase-template](https://github.com/tegarimansyah/astro-pocketbase-template) - Quick Web App with Astro, React, Tailwind, Shadcn ui and Pocketbase
 - [svycal/og-image](https://github.com/svycal/og-image) - An open graph image generator, by SavvyCal ✨
 - [stolinski/drop-in](https://github.com/stolinski/drop-in) - This is a bare starter kit for PocketBase / Svelte 5 / SvelteKit with lots of extras
