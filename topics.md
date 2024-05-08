@@ -525,7 +525,7 @@
 
 ## css 
 
-- [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ — Compress —
+- [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ Compress —
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [Kamona-WD/tailwindcss-perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - A little bit of utility classes related to css 3d transform
@@ -533,7 +533,7 @@
 - [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
 - [rossrobino/uico](https://github.com/rossrobino/uico) - UI components for TailwindCSS projects
 - [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [fedorovvvv/svelte-media-queries](https://github.com/fedorovvvv/svelte-media-queries) - A ✨light✨ and magical Svelte component for CSS media queries🐹
 - [yangshun/awesome-spinners](https://github.com/yangshun/awesome-spinners) - 💫 A curated collection of dazzling web spinners
@@ -939,7 +939,7 @@
 - [paoloricciuti/sveltekit-view-transition](https://github.com/paoloricciuti/sveltekit-view-transition) - Start using view transitions without any hassle!
 - [friendsofgo/killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go
 - [ImBIOS/tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator) - Generate custom css and tailwind filter property to achieve any target color 🎨
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [cloudinary-community/svelte-cloudinary](https://github.com/cloudinary-community/svelte-cloudinary) - ⚡️ High-performance image delivery and uploading at scale in Svelte powered by Cloudinary.
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
@@ -1015,10 +1015,10 @@
 
 ## html 
 
-- [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ — Compress —
+- [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ Compress —
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
@@ -1116,7 +1116,7 @@
 ## javascript 
 
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
-- [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ — Compress —
+- [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ Compress —
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
@@ -1128,7 +1128,7 @@
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [josias-r/boarding.js](https://github.com/josias-r/boarding.js) - A light-weight, no-dependency, vanilla JavaScript engine to create powerful onboardings and drive the user's focus across the page
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
@@ -1585,7 +1585,7 @@
 
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Typescript toolkit on top of Prisma ORM, offering flexible and declarative Access Control Policy(Authorization/Permission) for RBAC/ABAC/PBAC/ReBAC with auto-generated type-safe APIs and frontend hook
 - [threadsjs/threads.js](https://github.com/threadsjs/threads.js) - A Node.js library for the Threads API
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -1684,7 +1684,7 @@
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [oliverdunk/web-extension-playground](https://github.com/oliverdunk/web-extension-playground) - Playground for building Web Extensions
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
-- [advanced-astro/astro-min](https://github.com/advanced-astro/astro-min) - Extremely ⚡ Fast and Smart HTML 🟠 JS 🟡 CSS 🔵 SVG 🟣 Minification
+- [advanced-astro/min](https://github.com/advanced-astro/min) - Extremely ⚡ Fast and Smart HTML 🟠 JS 🟡 CSS 🔵 SVG 🟣 Minification
 - [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip and brotli compressor for Astro
 - [paoloricciuti/optimistikit](https://github.com/paoloricciuti/optimistikit) - Optimistic UI in sveltekit made easy
 - [rocicorp/byob-starter](https://github.com/rocicorp/byob-starter) - Bring Your Own Backend Starter
@@ -2215,7 +2215,7 @@
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
@@ -2294,7 +2294,7 @@
 ## reactjs 
 
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [asseinfo/react-kanban](https://github.com/asseinfo/react-kanban) - Yet another Kanban/Trello board lib for React.
@@ -2597,7 +2597,7 @@
 - [josias-r/boarding.js](https://github.com/josias-r/boarding.js) - A light-weight, no-dependency, vanilla JavaScript engine to create powerful onboardings and drive the user's focus across the page
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
