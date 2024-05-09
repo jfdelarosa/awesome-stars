@@ -95,6 +95,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [localization](#localization)
 - [low-code](#low-code)
 - [mac](#mac)
@@ -952,7 +953,7 @@
 - [Developmint/nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS! A neat PurgeCSS wrapper for Nuxt.js
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [nuxt-modules/ionic](https://github.com/nuxt-modules/ionic) - Batteries-included, zero-config Ionic integration for Nuxt
-- [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
+- [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
@@ -1155,7 +1156,7 @@
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
-- [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
+- [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [agustinl/svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [extend-chrome/notify](https://github.com/extend-chrome/notify) - Create notifications in your Chrome extension with ease.
@@ -1377,6 +1378,12 @@
 - [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+
+## llm 
+
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Language-to-actions engine
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 
 ## localization 
 
@@ -1720,7 +1727,6 @@
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [PuruVJ/neoconfetti](https://github.com/PuruVJ/neoconfetti) - Confetti in Svelte
 - [TGlide/novel-svelte](https://github.com/TGlide/novel-svelte) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Language-to-actions engine
 - [maietta/SvelteKit-Prisma-Foundation-Boilerplate](https://github.com/maietta/SvelteKit-Prisma-Foundation-Boilerplate) - SvelteKit Template for CapRover deployments. Includes Foundation, Tailwind, Prisma and SendGrid wired Contact Form examples. Zod implimented.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
@@ -2618,7 +2624,7 @@
 - [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 📘 Quick and Easy TypeScript Express Starter
 - [huntersofbook/huntersofbook](https://github.com/huntersofbook/huntersofbook) - We open the tools we use in our projects to all developers.
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
-- [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
+- [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
