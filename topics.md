@@ -47,6 +47,7 @@
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -675,6 +676,10 @@
 - [vue-styleguidist/vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Created from react styleguidist for Vue Components with a living style guide
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+
+## dotfiles 
+
+- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..
 
 ## education 
 
