@@ -225,7 +225,6 @@
 - [codrops/Animocons](https://github.com/codrops/Animocons) - Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot ["Like Animation"](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Gin
 - [rlk/whitemark](https://github.com/rlk/whitemark) - Steganographic encoding of a watermark in the whitespace of text
 - [zy445566/node-digital-watermarking](https://github.com/zy445566/node-digital-watermarking) - A digital watermark is a kind of marker covertly embedded in a noise-tolerant signal such as an audio, video or image data. It is typically used to identify ownership of the copyright of such signal. 
-- [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Modern, fast, lightweight, Git-based headless CMS. Free & open source. UX-driven development. Made with Svelte.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 - [heedrox/abbreviame](https://github.com/heedrox/abbreviame) - Get an abbreviated description made by an AI of you based on your latest tweets. What do other users perceive from what you tweet?
@@ -953,6 +952,7 @@
 - [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+- [opral/monorepo](https://github.com/opral/monorepo) - globalization ecosystem && change control SDK
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
