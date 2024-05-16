@@ -652,6 +652,7 @@
 
 ## docker 
 
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [polaroidkidd/cloudkit](https://github.com/polaroidkidd/cloudkit) - Advanced SvelteKit Template with Lucia, Redis, Thumbor & Prisma
 - [muchobien/pocketbase-docker](https://github.com/muchobien/pocketbase-docker) - Pocketbase docker image
 - [otiai10/ocrserver](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well
@@ -994,7 +995,6 @@
 - [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [ignoreintuition/v-currency](https://github.com/ignoreintuition/v-currency) - A plugin for formatting currency for different countries in Vue
@@ -1332,6 +1332,7 @@
 
 ## kubernetes 
 
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
 ## laravel 
@@ -1403,7 +1404,7 @@
 
 ## mac 
 
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform.
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -1419,6 +1420,7 @@
 
 ## macos 
 
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [aheze/Squirrel](https://github.com/aheze/Squirrel) - Enable scrolling in the Xcode Simulator!
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -1663,7 +1665,7 @@
 
 ## open-source 
 
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform.
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
@@ -1708,7 +1710,7 @@
 - [logbun/logbun](https://github.com/logbun/logbun) - 
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
-- [penxio/penx](https://github.com/penxio/penx) - A structured knowledge base for personal use.
+- [penxio/penx](https://github.com/penxio/penx) - Your personal database
 - [paolotiu/tailwind-intellisense-regex-list](https://github.com/paolotiu/tailwind-intellisense-regex-list) - 
 - [wesbos/hot-tips](https://github.com/wesbos/hot-tips) - The code behind my hot tips
 - [brettgullan/tailwindcss-scrims](https://github.com/brettgullan/tailwindcss-scrims) - Configurable Tailwind plugin for generating scrim classes.
@@ -1911,6 +1913,7 @@
 - [vuepress/vuepress-plugin-blog](https://github.com/vuepress/vuepress-plugin-blog) - Official blog plugin for VuePress
 - [abinoda/assignee-to-reviewer-action](https://github.com/abinoda/assignee-to-reviewer-action) - GitHub Action that assigns reviewers based on assignees
 - [rwaldron/io-plugins](https://github.com/rwaldron/io-plugins) - Documentation and discussion point for IO Plugins
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [vuepress/awesome-vuepress](https://github.com/vuepress/awesome-vuepress) - 🎉 A curated list of awesome things related to VuePress
 - [BrockReece/vue-kanban](https://github.com/BrockReece/vue-kanban) - A vue based drag and drop kanban board
@@ -2216,7 +2219,7 @@
 
 ## react 
 
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform.
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
@@ -2594,7 +2597,7 @@
 
 ## typescript 
 
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Effortless, instant screen sharing. Open-source and cross-platform.
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [hywax/vite-vanilla-library-template](https://github.com/hywax/vite-vanilla-library-template) - Template for creating a library with a fully customized environment.
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
@@ -2691,6 +2694,7 @@
 
 ## vue 
 
+- [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Pinia
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
 - [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications:  sidebase is a web app development kit to build production ready fullstack apps quickly. We build sidebase to provide a modular, 
