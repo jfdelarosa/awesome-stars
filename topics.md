@@ -1011,7 +1011,6 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [nicolasbeauvais/vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) - A renderless Vue.js component for sharing links to social networks, compatible with SSR
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [TalAter/annyang](https://github.com/TalAter/annyang) - :speech_balloon: Speech recognition for your site
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
@@ -1976,6 +1975,7 @@
 - [patmood/wildcard-subdomains](https://github.com/patmood/wildcard-subdomains) - Handle dynamic subdomains in Node.js and Express
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
+- [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
 - [Jexordexan/vue-slicksort](https://github.com/Jexordexan/vue-slicksort) - A set of vue mixins to turn any list into an animated, touch-friendly, sortable list ✌️
 - [jlord/sheetsee.js](https://github.com/jlord/sheetsee.js) - :eyes: :chart_with_upwards_trend: Visualize Data from a Google Spreadsheet
 - [anburocky3/Stripe-Payment-Gateway-Integration-CodeIgniter](https://github.com/anburocky3/Stripe-Payment-Gateway-Integration-CodeIgniter) - Integrating Stripe Payment Gateway in CodeIgniter 3.1.10 with Bootstrap 4.3.1 layout on the go!
