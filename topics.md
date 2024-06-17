@@ -35,6 +35,7 @@
 - [coding](#coding)
 - [compiler](#compiler)
 - [covid-19](#covid-19)
+- [cryptography](#cryptography)
 - [css](#css)
 - [dart](#dart)
 - [data](#data)
@@ -531,6 +532,10 @@
 
 - [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 
+## cryptography 
+
+- [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+
 ## css 
 
 - [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ Compress —
@@ -611,7 +616,6 @@
 ## database 
 
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
-- [penxio/penx](https://github.com/penxio/penx) - PenX is a cross-platform productivity App built on open-source and Web3.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
@@ -1735,6 +1739,7 @@
 - [logbun/logbun](https://github.com/logbun/logbun) - 
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
+- [penxio/penx](https://github.com/penxio/penx) - PenX is a cross-platform productivity App built on open-source and Web3.
 - [paolotiu/tailwind-intellisense-regex-list](https://github.com/paolotiu/tailwind-intellisense-regex-list) - 
 - [wesbos/hot-tips](https://github.com/wesbos/hot-tips) - The code behind my hot tips
 - [brettgullan/tailwindcss-scrims](https://github.com/brettgullan/tailwindcss-scrims) - Configurable Tailwind plugin for generating scrim classes.
