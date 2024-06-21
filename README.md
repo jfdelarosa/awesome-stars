@@ -192,6 +192,7 @@
 
 ## JavaScript 
 
+- [dashpilot/vue-pagebuilder](https://github.com/dashpilot/vue-pagebuilder) - A modular pagebuilder for Vue 3, uses ES Modules instead of single-file-components
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
@@ -655,7 +656,7 @@
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management) - A curated list of product management advice for technical people.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [carbon-design-system/carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, iconography, color palettes, grids, templates).
+- [carbon-design-system/carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) - A versioned, comprehensive kit of the Carbon Design System visual assets (components, icons, pictograms, text styles, color styles, grid templates).
 - [douglasg14b/awesome-semantic-ui](https://github.com/douglasg14b/awesome-semantic-ui) - A curated list of Semantic-UI & Fomantic-UI resources and related projects
 - [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
 - [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
