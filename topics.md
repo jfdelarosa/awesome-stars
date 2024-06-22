@@ -1719,6 +1719,7 @@
 
 ## others 
 
+- [NicolaSpadari/nuxtor](https://github.com/NicolaSpadari/nuxtor) - Build tiny desktop apps with Tauri, Nuxt 3 and UnoCSS
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [airbadge-dev/airbadge](https://github.com/airbadge-dev/airbadge) - 
