@@ -804,6 +804,7 @@
 
 ## Svelte 
 
+- [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Components using Tailwind CSS & Framer Motion
 - [pchynoweth/svelte-share-buttons-component](https://github.com/pchynoweth/svelte-share-buttons-component) - 
 - [engageintellect/spatz](https://github.com/engageintellect/spatz) - An opinionated template for building full-stack Svelte applications ridiculously fast. Includes auth, database, admin panel, user dashboard, themes, icons, and more.
 - [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
