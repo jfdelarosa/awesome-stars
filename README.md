@@ -1235,7 +1235,7 @@
 - [mikatalk/responsive-dashboard](https://github.com/mikatalk/responsive-dashboard) - Tutorial: building a responsive dashboard with vuejs & SVG
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
 - [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
-- [apexcharts/vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - 📊 Vue.js component for ApexCharts
+- [apexcharts/vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - 📊 Vue 2 component for ApexCharts
 - [dwqs/v2-table](https://github.com/dwqs/v2-table) - A simple table component based Vue 2.x: https://dwqs.github.io/v2-table/
 - [xaksis/vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc
 - [risan/vue-chart-example](https://github.com/risan/vue-chart-example) - 📊 Vue Chart Component Example with Chart.js
