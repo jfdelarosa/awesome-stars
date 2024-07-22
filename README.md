@@ -889,6 +889,7 @@
 
 ## TypeScript 
 
+- [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [unsend-dev/unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
