@@ -1740,6 +1740,7 @@
 
 ## others 
 
+- [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [unsend-dev/unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
 - [CerebriumAI/examples](https://github.com/CerebriumAI/examples) - 
