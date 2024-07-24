@@ -1740,6 +1740,9 @@
 
 ## others 
 
+- [OllieJT/create-sva](https://github.com/OllieJT/create-sva) - 
+- [OllieJT/schemeta](https://github.com/OllieJT/schemeta) - 
+- [mynameisvasco/sveltekit-boilerplate](https://github.com/mynameisvasco/sveltekit-boilerplate) - Sveltekit boilerplate that includes shadcn, Lucia auth, drizzle and bullmq
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [unsend-dev/unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
