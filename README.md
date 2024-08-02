@@ -810,6 +810,7 @@
 
 ## Svelte 
 
+- [arrowban/sveltekit-pocketbase-turborepo-template](https://github.com/arrowban/sveltekit-pocketbase-turborepo-template) - A template for an extensible SvelteKit + Pocketbase + Turborepo codebase.
 - [mynameisvasco/sveltekit-boilerplate](https://github.com/mynameisvasco/sveltekit-boilerplate) - Sveltekit boilerplate that includes shadcn, Lucia auth, drizzle and bullmq
 - [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Components using Tailwind CSS & Framer Motion
 - [pchynoweth/svelte-share-buttons-component](https://github.com/pchynoweth/svelte-share-buttons-component) - 
@@ -891,6 +892,7 @@
 
 ## TypeScript 
 
+- [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend
 - [dnnsjsk/glaze](https://github.com/dnnsjsk/glaze) - The utility-based animation framework for the web.
 - [SikandarJODD/portfolio-template](https://github.com/SikandarJODD/portfolio-template) - Minimalist Developer Portfolio Template using Svelte, Inspired from Magic UI
