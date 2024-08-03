@@ -892,6 +892,7 @@
 
 ## TypeScript 
 
+- [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates geared towards creating landing pages and user
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend
 - [dnnsjsk/glaze](https://github.com/dnnsjsk/glaze) - The utility-based animation framework for the web.
@@ -1201,6 +1202,7 @@
 
 ## Vue 
 
+- [zackha/supaAuth](https://github.com/zackha/supaAuth) - A Nuxt3 + Supabase starter template. Add Login and Register page into your Nuxt 3 project using Supabase authentication.
 - [GlobalHive/vuejs-tour](https://github.com/GlobalHive/vuejs-tour) - VueJS Tour is a lightweight, simple and customizable tour plugin. It provides a quick and easy way to guide your users through your application.
 - [IgorHalfeld/migrating-nuxt2-legacy-project](https://github.com/IgorHalfeld/migrating-nuxt2-legacy-project) - This is a sample project that shows how to migrate a Nuxt 2 (nuxt-bridge) w/ Vuetify 2 project to Nuxt 3
 - [NicolaSpadari/nuxtor](https://github.com/NicolaSpadari/nuxtor) - Build tiny desktop apps with Tauri, Nuxt 3 and UnoCSS
