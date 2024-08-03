@@ -1753,6 +1753,7 @@
 
 ## others 
 
+- [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates geared towards creating landing pages and user
 - [apilylabs/ophiuchi-desktop](https://github.com/apilylabs/ophiuchi-desktop) - A local https proxy server using docker as backend
 - [dnnsjsk/glaze](https://github.com/dnnsjsk/glaze) - The utility-based animation framework for the web.
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works on node, browser and workers.
@@ -2809,6 +2810,7 @@
 
 ## vue 
 
+- [zackha/supaAuth](https://github.com/zackha/supaAuth) - A Nuxt3 + Supabase starter template. Add Login and Register page into your Nuxt 3 project using Supabase authentication.
 - [dashpilot/vue-pagebuilder](https://github.com/dashpilot/vue-pagebuilder) - A modular pagebuilder for Vue 3, uses ES Modules instead of single-file-components
 - [MelihAltintas/vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Web map Vue 3.x components with the power of OpenLayers
 - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨
