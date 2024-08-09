@@ -810,7 +810,8 @@
 
 ## Svelte 
 
-- [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - spatz... but with shadcn-svelte, magic-ui, and svelte-superforms
+- [SikandarJODD/startup-template](https://github.com/SikandarJODD/startup-template) - Start Up Template Inspired from Magic UI
+- [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - spatz... but with shadcn-svelte, svelte-animations, and svelte-superforms
 - [arrowban/sveltekit-pocketbase-turborepo-template](https://github.com/arrowban/sveltekit-pocketbase-turborepo-template) - A template for an extensible SvelteKit + Pocketbase + Turborepo codebase.
 - [mynameisvasco/sveltekit-boilerplate](https://github.com/mynameisvasco/sveltekit-boilerplate) - Sveltekit boilerplate that includes shadcn, Lucia auth, drizzle and bullmq
 - [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Components using Tailwind CSS & Framer Motion
