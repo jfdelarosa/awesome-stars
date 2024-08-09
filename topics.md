@@ -194,7 +194,7 @@
 
 ## ai 
 
-- [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - spatz... but with shadcn-svelte, magic-ui, and svelte-superforms
+- [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - spatz... but with shadcn-svelte, svelte-animations, and svelte-superforms
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [engageintellect/spatz](https://github.com/engageintellect/spatz) - An opinionated template for building full-stack Svelte applications ridiculously fast. Includes auth, database, admin panel, user dashboard, themes, icons, and more.
@@ -462,7 +462,7 @@
 
 ## chatgpt 
 
-- [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - spatz... but with shadcn-svelte, magic-ui, and svelte-superforms
+- [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - spatz... but with shadcn-svelte, svelte-animations, and svelte-superforms
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [engageintellect/spatz](https://github.com/engageintellect/spatz) - An opinionated template for building full-stack Svelte applications ridiculously fast. Includes auth, database, admin panel, user dashboard, themes, icons, and more.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
@@ -2570,7 +2570,8 @@
 
 ## svelte 
 
-- [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - spatz... but with shadcn-svelte, magic-ui, and svelte-superforms
+- [SikandarJODD/startup-template](https://github.com/SikandarJODD/startup-template) - Start Up Template Inspired from Magic UI
+- [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - spatz... but with shadcn-svelte, svelte-animations, and svelte-superforms
 - [arrowban/sveltekit-pocketbase-turborepo-template](https://github.com/arrowban/sveltekit-pocketbase-turborepo-template) - A template for an extensible SvelteKit + Pocketbase + Turborepo codebase.
 - [SikandarJODD/portfolio-template](https://github.com/SikandarJODD/portfolio-template) - Minimalist Developer Portfolio Template using Svelte, Inspired from Magic UI
 - [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Components using Tailwind CSS & Framer Motion
