@@ -59,6 +59,7 @@
 
 ## C++ 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [tjwoon/csZBar](https://github.com/tjwoon/csZBar) - Cordova plugin to integrate with the ZBar barcode scanning library.
@@ -157,6 +158,7 @@
 
 ## HTML 
 
+- [chrispsn/mesh-spreadsheet](https://github.com/chrispsn/mesh-spreadsheet) - A data and code editor that feels like a spreadsheet.
 - [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder for Next.js 🅧. Zero-config deployment 🚀. React now supported!
 - [wesbos/hot-tips](https://github.com/wesbos/hot-tips) - The code behind my hot tips
 - [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
@@ -564,6 +566,7 @@
 
 ## Jupyter Notebook 
 
+- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
 - [RodolfoFerro/DevDayMid2019](https://github.com/RodolfoFerro/DevDayMid2019) - Repositorio del taller "Redes Neuronales Convolucionales en Acción" para el Dev Day Mérida 2019.
 
 ## MDX 
@@ -894,6 +897,7 @@
 
 ## TypeScript 
 
+- [BrunoHenrique00/ear](https://github.com/BrunoHenrique00/ear) - Ear is a desktop app that will help you transcribe what is playing on your computer!
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open Source alternative to Webflow, check out our CMS launch https://webstudio.is/cms
 - [zenstackhq/sample-todo-nuxt](https://github.com/zenstackhq/sample-todo-nuxt) - A complete Todo app sample built with ZenStack and Nuxt 3
