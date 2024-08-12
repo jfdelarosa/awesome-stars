@@ -198,6 +198,7 @@
 
 ## JavaScript 
 
+- [vercel/hazel](https://github.com/vercel/hazel) - Lightweight update server for Electron apps
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [metafloor/bwip-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 - [kwhitley/apicache](https://github.com/kwhitley/apicache) - Simple API-caching middleware for Express/Node.
@@ -897,6 +898,7 @@
 
 ## TypeScript 
 
+- [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [BrunoHenrique00/ear](https://github.com/BrunoHenrique00/ear) - Ear is a desktop app that will help you transcribe what is playing on your computer!
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open Source alternative to Webflow, check out our CMS launch https://webstudio.is/cms
