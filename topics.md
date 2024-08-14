@@ -1759,6 +1759,7 @@
 
 ## others 
 
+- [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus) - A Nuxt module that enables complex routing for Nuxt Pages.
 - [chrispsn/mesh-spreadsheet](https://github.com/chrispsn/mesh-spreadsheet) - A data and code editor that feels like a spreadsheet.
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
@@ -2864,7 +2865,7 @@
 - [obadakhalili/visual-filter](https://github.com/obadakhalili/visual-filter) - :male_detective: A headless unopinionated advanced visual filtering component for Vue 2 and 3
 - [antoniandre/simple-syntax-highlighter](https://github.com/antoniandre/simple-syntax-highlighter) - No chi-chi syntax highlighter for Vue.js (3 & 2).
 - [antoniandre/vue-cal](https://github.com/antoniandre/vue-cal) - A Vue 2 & 3 full calendar, no dependency, no BS. :metal:
-- [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.
+- [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
 - [Tarektouati/vue-use-web](https://github.com/Tarektouati/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [staart/ui](https://github.com/staart/ui) - 🏁🌐 Frontend Svelte PWA starter for SaaS startups
@@ -2996,7 +2997,7 @@
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for Vue and React that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
 - [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as a handy composable.
 - [victorybiz/vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
-- [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 2 & 3 reliable, simple and touch-ready panes splitter / resizer.
+- [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
 - [Tarektouati/vue-use-web](https://github.com/Tarektouati/vue-use-web) - 🕸 Web APIs implemented as Vue.js composition functions
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [arielsalminen/vue-design-system](https://github.com/arielsalminen/vue-design-system) - An open source tool for building UI Design Systems with Vue.js
