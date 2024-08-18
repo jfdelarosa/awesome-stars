@@ -79,6 +79,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
 - [ios](#ios)
@@ -1115,6 +1116,12 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [FranckFreiburger/http-vue-loader](https://github.com/FranckFreiburger/http-vue-loader) - load .vue files from your html/js
 
+## https 
+
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
+- [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
+
 ## icon-font 
 
 - [phosphor-icons/web](https://github.com/phosphor-icons/web) - A flexible icon family for the web
@@ -1361,6 +1368,7 @@
 
 ## json 
 
+- [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, CSV, GitHub, Notion, Airtable, etc.) with SQL
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [kwhitley/apicache](https://github.com/kwhitley/apicache) - Simple API-caching middleware for Express/Node.
@@ -1497,6 +1505,7 @@
 
 ## markdown 
 
+- [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A simple note-taking app for better thinking
@@ -1601,6 +1610,7 @@
 
 ## nextjs 
 
+- [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder for Next.js 🅧. Zero-config deployment 🚀. React now supported!
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
@@ -1663,6 +1673,7 @@
 
 ## nodejs 
 
+- [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [BrunoHenrique00/ear](https://github.com/BrunoHenrique00/ear) - Ear is a desktop app that will help you transcribe what is playing on your computer!
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [TephlonDude/n8n-pi](https://github.com/TephlonDude/n8n-pi) - Tools and Images to Build a Raspberry Pi n8n server
@@ -2054,7 +2065,6 @@
 - [AbdulRahmanAlHamali/flutter_typeahead](https://github.com/AbdulRahmanAlHamali/flutter_typeahead) - A TypeAhead widget for Flutter, where you can show suggestions to users as they type
 - [AndreHaueisen/flushbar](https://github.com/AndreHaueisen/flushbar) - Custom widget for Flutter
 - [Ivaskuu/tinder_cards](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect with Flutter.
-- [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
 - [zurb/tribute](https://github.com/zurb/tribute) - ES6 Native @mentions
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -2072,7 +2082,6 @@
 - [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [patmood/wildcard-subdomains](https://github.com/patmood/wildcard-subdomains) - Handle dynamic subdomains in Node.js and Express
 - [creativetimofficial/vue-paper-dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) - Creative Tim Paper Dashboard made for Vue
-- [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
 - [Jexordexan/vue-slicksort](https://github.com/Jexordexan/vue-slicksort) - A set of vue mixins to turn any list into an animated, touch-friendly, sortable list ✌️
 - [jlord/sheetsee.js](https://github.com/jlord/sheetsee.js) - :eyes: :chart_with_upwards_trend: Visualize Data from a Google Spreadsheet
@@ -2323,6 +2332,7 @@
 
 ## react 
 
+- [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
@@ -2586,6 +2596,7 @@
 
 ## svelte 
 
+- [jasongitmail/super-sitemap](https://github.com/jasongitmail/super-sitemap) - SvelteKit sitemap focused on ease of use and making it impossible to forget to add your paths.
 - [SikandarJODD/startup-template](https://github.com/SikandarJODD/startup-template) - Start Up Template Inspired from Magic UI
 - [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - spatz... but with shadcn-svelte, svelte-animations, and svelte-superforms
 - [arrowban/sveltekit-pocketbase-turborepo-template](https://github.com/arrowban/sveltekit-pocketbase-turborepo-template) - A template for an extensible SvelteKit + Pocketbase + Turborepo codebase.
