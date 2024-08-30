@@ -132,7 +132,7 @@
 ## Elixir 
 
 - [svycal/og-image](https://github.com/svycal/og-image) - An open graph image generator, by SavvyCal ✨
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync subsets of your Postgres data into local apps and services.
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
 
 ## Go 
 
@@ -904,6 +904,7 @@
 
 ## TypeScript 
 
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [jasongitmail/super-sitemap](https://github.com/jasongitmail/super-sitemap) - SvelteKit sitemap focused on ease of use and making it impossible to forget to add your paths.
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
