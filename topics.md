@@ -1188,6 +1188,7 @@
 
 ## javascript 
 
+- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [kwhitley/apicache](https://github.com/kwhitley/apicache) - Simple API-caching middleware for Express/Node.
@@ -2353,6 +2354,7 @@
 
 ## react 
 
+- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
@@ -2813,6 +2815,7 @@
 
 ## typescript 
 
+- [jasongitmail/super-sitemap](https://github.com/jasongitmail/super-sitemap) - SvelteKit sitemap focused on ease of use and making it impossible to forget to add your paths.
 - [BrunoHenrique00/ear](https://github.com/BrunoHenrique00/ear) - Ear is a desktop app that will help you transcribe what is playing on your computer!
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
@@ -2915,6 +2918,7 @@
 
 ## vue 
 
+- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [zackha/supaAuth](https://github.com/zackha/supaAuth) - A Nuxt3 + Supabase starter template. Add Login and Register page into your Nuxt 3 project using Supabase authentication.
 - [NicolaSpadari/nuxtor](https://github.com/NicolaSpadari/nuxtor) - Build tiny desktop apps with Tauri, Nuxt 3 and UnoCSS
 - [dashpilot/vue-pagebuilder](https://github.com/dashpilot/vue-pagebuilder) - A modular pagebuilder for Vue 3, uses ES Modules instead of single-file-components
