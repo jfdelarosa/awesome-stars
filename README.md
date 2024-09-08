@@ -137,7 +137,7 @@
 
 ## Go 
 
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, CSV, GitHub, Notion, Airtable, etc.) with SQL
+- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (JSON, CSV, GitHub, Notion, Airtable, GSheets, emails, etc.) with SQL
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -201,6 +201,7 @@
 
 ## JavaScript 
 
+- [Hugo-Dz/on-device-transcription](https://github.com/Hugo-Dz/on-device-transcription) - A ready-to-use, minimal app that converts any speech into text.
 - [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [metaskills/experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
 - [vercel/hazel](https://github.com/vercel/hazel) - Lightweight update server for Electron apps
@@ -827,6 +828,7 @@
 
 ## Svelte 
 
+- [wilkerlucio/media-looper](https://github.com/wilkerlucio/media-looper) - 
 - [n00ki/sveltekit-omakase](https://github.com/n00ki/sveltekit-omakase) - 
 - [cowboycodr/kiankit](https://github.com/cowboycodr/kiankit) - SvelteKit + Supabase starter kit
 - [SikandarJODD/startup-template](https://github.com/SikandarJODD/startup-template) - Start Up Template Inspired from Magic UI
@@ -913,6 +915,8 @@
 
 ## TypeScript 
 
+- [braden-w/whispering](https://github.com/braden-w/whispering) - 
+- [kakajuro/tidytube](https://github.com/kakajuro/tidytube) - An open source browser extension to help declutter Youtube's UI
 - [etherCorps/svelte-h2j](https://github.com/etherCorps/svelte-h2j) - A library which uses svelte compiler to convert html & css to jsx. Useful for using satori with svelte & Kit
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
