@@ -1804,6 +1804,7 @@
 
 ## others 
 
+- [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
 - [wilkerlucio/media-looper](https://github.com/wilkerlucio/media-looper) - 
 - [audeering/w2v2-age-gender-how-to](https://github.com/audeering/w2v2-age-gender-how-to) - How to use our public wav2vec2 age and gender model
 - [n00ki/sveltekit-omakase](https://github.com/n00ki/sveltekit-omakase) - 
