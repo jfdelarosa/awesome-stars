@@ -2672,7 +2672,7 @@
 - [jfdelarosa/tweet-to-threads-extension](https://github.com/jfdelarosa/tweet-to-threads-extension) - Cross-post your tweets to Threads.net
 - [allilk/milkbox-remastered](https://github.com/allilk/milkbox-remastered) - A alternative Web UI for Google Drive, built with Svelte!
 - [allilk/milkbox-svelte](https://github.com/allilk/milkbox-svelte) - A alternative Web UI for Google Drive, built with Svelte!
-- [umaranis/svelte-lexical](https://github.com/umaranis/svelte-lexical) - A rich text editor for Svelte based on lexical
+- [umaranis/svelte-lexical](https://github.com/umaranis/svelte-lexical) - Rich text editor for Svelte based on lexical
 - [idris-maps/svelte-parts](https://github.com/idris-maps/svelte-parts) - Svelte components
 - [joshnuss/sveltekit-stripe-subscriptions](https://github.com/joshnuss/sveltekit-stripe-subscriptions) - Example of Stripe Subscriptions & PaymentElement with SvelteKit
 - [adityadees/sveltekit-js-docker](https://github.com/adityadees/sveltekit-js-docker) - skelton dockerized sveltekit JS HMR dev and build multi adapter for node server and static build SSG
