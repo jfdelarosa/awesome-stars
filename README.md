@@ -347,7 +347,7 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [ardakaracizmeli/design-system-checklist](https://github.com/ardakaracizmeli/design-system-checklist) - An open-source checklist to help you plan, build and grow your design system.
 - [arielsalminen/vue-design-system](https://github.com/arielsalminen/vue-design-system) - An open source tool for building UI Design Systems with Vue.js
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [davestewart/vuex-pathify](https://github.com/davestewart/vuex-pathify) - Vue / Vuex plugin providing a unified path syntax to Vuex stores
 - [sospedra/finite-state-machine-demo](https://github.com/sospedra/finite-state-machine-demo) - Find the slides here --&gt;
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
