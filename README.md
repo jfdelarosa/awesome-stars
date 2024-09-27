@@ -368,7 +368,7 @@
 - [bradtraversy/real-time-tweet-stream](https://github.com/bradtraversy/real-time-tweet-stream) - Get real-time tweets and display on webpage with socket.io
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [GoogleChromeLabs/web-vitals-report](https://github.com/GoogleChromeLabs/web-vitals-report) - Measure and report on your Web Vitals data in Google Analytics
-- [Aminerman/vue-kinesis](https://github.com/Aminerman/vue-kinesis) - Easily create complex interactive animations with Vue.js
+- [amineyrman/vue-kinesis](https://github.com/amineyrman/vue-kinesis) - Easily create complex interactive animations with Vue.js
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [Yibarr/cinta-negra-b47](https://github.com/Yibarr/cinta-negra-b47) - Repositorio que incluye todas las clases de la primera sección de Cinta negra.
@@ -789,7 +789,7 @@
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [osohq/oso](https://github.com/osohq/oso) - Oso is a batteries-included framework for building authorization in your application.
+- [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
@@ -987,7 +987,7 @@
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - HyperFormula is an open-source headless spreadsheet for business web apps. It comes with over 400 formulas, CRUD operations, undo-redo, clipboard support, and sorting.
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
-- [penxio/penx](https://github.com/penxio/penx) - The space for web3 creators.
+- [RespaceLabs/penx](https://github.com/RespaceLabs/penx) - The space for web3 creators.
 - [Hugos68/capkit](https://github.com/Hugos68/capkit) - CLI to integrate Capacitor into SvelteKit
 - [spences10/sveltekit-embed](https://github.com/spences10/sveltekit-embed) - SvelteKit embed components
 - [ciscoheat/sveltekit-flash-message](https://github.com/ciscoheat/sveltekit-flash-message) - Send temporary data after redirect, usually from endpoints. Works with both SSR and client.
