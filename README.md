@@ -915,6 +915,8 @@
 
 ## TypeScript 
 
+- [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - Interactive YouTube extension built with React, Tailwind CSS, and Plasmo. It integrates with the OpenAI API to enable real-time video chat, providing summaries, Q&A, and context-aware responses direct
+- [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker) - A simple shadcn/ui TimePicker component
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [sereneinserenade/tiptap-comment-extension](https://github.com/sereneinserenade/tiptap-comment-extension) - Google-Docs 📄🔥 like commenting 💬 solution for Tiptap 2(https://tiptap.dev)
 - [theproductfactory/handy-arrows](https://github.com/theproductfactory/handy-arrows) - A gallery of hand-drawn arrows and other design resources as SVGs that can be easily copied as SVG code or React components for use in your projects.
@@ -1240,6 +1242,7 @@
 
 ## Vue 
 
+- [leoMirandaa/shadcn-vue-landing-page](https://github.com/leoMirandaa/shadcn-vue-landing-page) - New design 🎉  Vue + Shadcn-vue + TypeScript + Tailwind. Landing page template ease-to-use, In progress...
 - [wefixers/nuxt-stripe](https://github.com/wefixers/nuxt-stripe) - Nuxt module for Stripe, with local webhook testing support out of the box.
 - [CyanSalt/roughness](https://github.com/CyanSalt/roughness) - A Vue component library with hand-drawn appearance
 - [CyberCowboy404/nuxtgain](https://github.com/CyberCowboy404/nuxtgain) - Nuxt3 + Supabase; Production ready SaaS boilerplate
