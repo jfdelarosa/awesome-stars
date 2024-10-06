@@ -838,7 +838,7 @@
 - [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, content-filtering, and more.
 - [arrowban/sveltekit-pocketbase-turborepo-template](https://github.com/arrowban/sveltekit-pocketbase-turborepo-template) - A template for an extensible SvelteKit + Pocketbase + Turborepo codebase.
 - [mynameisvasco/sveltekit-boilerplate](https://github.com/mynameisvasco/sveltekit-boilerplate) - Sveltekit boilerplate that includes shadcn, Lucia auth, drizzle and bullmq
-- [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Components using Tailwind CSS & Framer Motion
+- [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion
 - [pchynoweth/svelte-share-buttons-component](https://github.com/pchynoweth/svelte-share-buttons-component) - 
 - [engageintellect/spatz](https://github.com/engageintellect/spatz) - An opinionated template for building full-stack Svelte applications ridiculously fast. Includes auth, database, admin panel, user dashboard, themes, icons, and more.
 - [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
