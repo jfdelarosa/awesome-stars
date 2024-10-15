@@ -997,6 +997,7 @@
 
 ## graphql 
 
+- [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 📘 Quick and Easy TypeScript Express Starter
 - [sandorTuranszky/production-ready-expressjs-server](https://github.com/sandorTuranszky/production-ready-expressjs-server) - Express.js server that implements production-ready error handling and logging following latest best practices.
 - [catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma) - A collection of awesome things regarding Prisma ecosystem.
@@ -1445,6 +1446,7 @@
 
 ## laravel 
 
+- [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [ploi/roadmap](https://github.com/ploi/roadmap) - Open source roadmapping software
 - [inertiajs/pingcrm](https://github.com/inertiajs/pingcrm) - A demo application to illustrate how Inertia.js works.
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
@@ -1665,6 +1667,7 @@
 
 ## nextjs 
 
+- [AlexGarrixen/Cool-Contrast](https://github.com/AlexGarrixen/Cool-Contrast) - Inspect the contrast in color combinations, making sure to comply with the accessibility guidelines established by WCAG.
 - [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker) - A simple shadcn/ui TimePicker component
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
@@ -2295,6 +2298,7 @@
 
 ## php 
 
+- [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [ploi/roadmap](https://github.com/ploi/roadmap) - Open source roadmapping software
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -2413,6 +2417,7 @@
 
 ## react 
 
+- [AlexGarrixen/Cool-Contrast](https://github.com/AlexGarrixen/Cool-Contrast) - Inspect the contrast in color combinations, making sure to comply with the accessibility guidelines established by WCAG.
 - [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker) - A simple shadcn/ui TimePicker component
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [sereneinserenade/tiptap-comment-extension](https://github.com/sereneinserenade/tiptap-comment-extension) - Google-Docs 📄🔥 like commenting 💬 solution for Tiptap 2(https://tiptap.dev)
@@ -3161,6 +3166,7 @@
 
 ## vuejs 
 
+- [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 - [MelihAltintas/vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Web map Vue 3.x components with the power of OpenLayers
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
