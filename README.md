@@ -56,7 +56,6 @@
 
 ## C 
 
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
@@ -66,6 +65,7 @@
 
 ## C++ 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [tjwoon/csZBar](https://github.com/tjwoon/csZBar) - Cordova plugin to integrate with the ZBar barcode scanning library.
@@ -411,6 +411,7 @@
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [simov/slugify](https://github.com/simov/slugify) - Slugifies a string
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [wotamann/vuetify-form-base](https://github.com/wotamann/vuetify-form-base) - Schema-based Form Generator - Vue.js 2.0 Component based on Vuetify 2.0
 - [jbaysolutions/vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [ignoreintuition/v-currency](https://github.com/ignoreintuition/v-currency) - A plugin for formatting currency for different countries in Vue
@@ -811,7 +812,7 @@
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
-- [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+- [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 
 ## SVG 
 
@@ -922,6 +923,7 @@
 
 ## TypeScript 
 
+- [tfkhdyt/with-catch](https://github.com/tfkhdyt/with-catch) - Utilities that wrap promise or synchronous function to catch the error then return the result and error in consistent tuple format.
 - [AlexGarrixen/Cool-Contrast](https://github.com/AlexGarrixen/Cool-Contrast) - Inspect the contrast in color combinations, making sure to comply with the accessibility guidelines established by WCAG.
 - [w3cj/stoker](https://github.com/w3cj/stoker) - Utilities for hono and @hono/zod-openapi
 - [pilcrowonpaper/arctic](https://github.com/pilcrowonpaper/arctic) - OAuth 2.0 clients for popular providers
@@ -961,7 +963,7 @@
 - [OllieJT/create-sva](https://github.com/OllieJT/create-sva) - 
 - [OllieJT/schemeta](https://github.com/OllieJT/schemeta) - 
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
-- [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Scale utilities smoothly between breakpoints with CSS clamp().
+- [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
 - [unsend-dev/unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [rrd108/vue-mess-detector](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for detecting code smells and best practice violations in Vue.js and Nuxt.js projects
@@ -1005,7 +1007,7 @@
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - HyperFormula is an open-source headless spreadsheet for business web apps. It comes with over 400 formulas, CRUD operations, undo-redo, clipboard support, and sorting.
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
-- [RespaceLabs/penx](https://github.com/RespaceLabs/penx) - The space for web3 creators.
+- [respace-labs/penx](https://github.com/respace-labs/penx) - The space for web3 creators.
 - [Hugos68/capkit](https://github.com/Hugos68/capkit) - CLI to integrate Capacitor into SvelteKit
 - [spences10/sveltekit-embed](https://github.com/spences10/sveltekit-embed) - SvelteKit embed components
 - [ciscoheat/sveltekit-flash-message](https://github.com/ciscoheat/sveltekit-flash-message) - Send temporary data after redirect, usually from endpoints. Works with both SSR and client.
@@ -1208,7 +1210,6 @@
 - [sveltejs/prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) - Format your svelte components using prettier.
 - [Safort/svelte-dnd](https://github.com/Safort/svelte-dnd) - Drag and Drop for Svelte
 - [vuese/vuese](https://github.com/vuese/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [hoangvvo/next-session](https://github.com/hoangvvo/next-session) - Simple promise-based session middleware for Next.js, micro, Express, and more
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
