@@ -843,7 +843,7 @@
 - [n00ki/sveltekit-omakase](https://github.com/n00ki/sveltekit-omakase) - 
 - [cowboycodr/kiankit](https://github.com/cowboycodr/kiankit) - SvelteKit + Supabase starter kit
 - [SikandarJODD/startup-template](https://github.com/SikandarJODD/startup-template) - Start Up Template Inspired from Magic UI
-- [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, content-filtering, and more.
+- [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
 - [arrowban/sveltekit-pocketbase-turborepo-template](https://github.com/arrowban/sveltekit-pocketbase-turborepo-template) - A template for an extensible SvelteKit + Pocketbase + Turborepo codebase.
 - [mynameisvasco/sveltekit-boilerplate](https://github.com/mynameisvasco/sveltekit-boilerplate) - Sveltekit boilerplate that includes shadcn, Lucia auth, drizzle and bullmq
 - [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion
@@ -984,7 +984,7 @@
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
 - [tegarimansyah/astro-pocketbase-template](https://github.com/tegarimansyah/astro-pocketbase-template) - Quick Web App with Astro, React, Tailwind, Shadcn ui and Pocketbase
-- [stolinski/drop-in](https://github.com/stolinski/drop-in) - A platform for building apps rapidly with Svelte 5, Svelte Kit and if you'd like Pocketbase. Includes a hyper modern bespoke component library and a next level CSS framework. Use as a starter kit or t
+- [stolinski/drop-in](https://github.com/stolinski/drop-in) - A platform for building apps rapidly with Svelte 5, Svelte Kit and if you'd like Pocketbase or Zero. Includes a modern bespoke component template library and a next level CSS. Use as a starter kit or 
 - [okupter/kitforstartups](https://github.com/okupter/kitforstartups) - The Open Source SvelteKit SaaS boilerplate.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [oliverdunk/web-extension-playground](https://github.com/oliverdunk/web-extension-playground) - Playground for building Web Extensions
