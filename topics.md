@@ -579,6 +579,7 @@
 
 ## css 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first, open-source library of UI components that works as a standalone or as a Tailwind CSS plugin. It is compatible with UIkit 3. The design is influenced by shadcn/ui.
 - [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ Compress —
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -1108,6 +1109,7 @@
 
 ## html 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ Compress —
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
@@ -1221,6 +1223,8 @@
 
 ## javascript 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
+- [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript
 - [OpenFrenchFries/supasveltekit](https://github.com/OpenFrenchFries/supasveltekit) - Where Svelte's elegance meets Supabase's might!
 - [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
@@ -2611,6 +2615,7 @@
 
 ## serverless 
 
+- [becem-gharbi/nuxt-s3](https://github.com/becem-gharbi/nuxt-s3) - Edge compatible S3 client for Nuxt
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
@@ -2814,6 +2819,7 @@
 
 ## tailwindcss 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 - [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - Interactive YouTube extension built with React, Tailwind CSS, and Plasmo. It integrates with the OpenAI API to enable real-time video chat, providing summaries, Q&A, and context-aware responses direct
 - [leoMirandaa/shadcn-vue-landing-page](https://github.com/leoMirandaa/shadcn-vue-landing-page) - New design 🎉  Vue + Shadcn-vue + TypeScript + Tailwind. Landing page template ease-to-use, In progress...
@@ -2897,6 +2903,7 @@
 
 ## typescript 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [w3cj/hono-open-api-starter](https://github.com/w3cj/hono-open-api-starter) - A starter template for building fully documented type-safe JSON APIs with Hono and Open API
 - [pilcrowonpaper/arctic](https://github.com/pilcrowonpaper/arctic) - OAuth 2.0 clients for popular providers
 - [ankurrsinghal/svelte-legos](https://github.com/ankurrsinghal/svelte-legos) - A framework for Svelte Utilities 💡 Current status: 87 utilities.
@@ -3283,6 +3290,7 @@
 
 ## webpack 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [vue-macros/vue-macros](https://github.com/vue-macros/vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [Developmint/nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS! A neat PurgeCSS wrapper for Nuxt.js
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
