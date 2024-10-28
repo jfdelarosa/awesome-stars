@@ -1269,7 +1269,7 @@
 
 - [hieuhani/nuxt-multi-tenancy](https://github.com/hieuhani/nuxt-multi-tenancy) - Nuxt Multi Tenancy Module - multi-tenancy by sub domain for Nuxt application
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
-- [leoMirandaa/shadcn-vue-landing-page](https://github.com/leoMirandaa/shadcn-vue-landing-page) - New design 🎉  Vue + Shadcn-vue + TypeScript + Tailwind. Landing page template ease-to-use, In progress...
+- [leoMirandaa/shadcn-vue-landing-page](https://github.com/leoMirandaa/shadcn-vue-landing-page) - New design 🎉  Vue + Shadcn-vue + TypeScript + Tailwind. Landing page template ease-to-use, RELEASED...
 - [wefixers/nuxt-stripe](https://github.com/wefixers/nuxt-stripe) - Nuxt module for Stripe, with local webhook testing support out of the box.
 - [CyanSalt/roughness](https://github.com/CyanSalt/roughness) - A Vue component library with hand-drawn appearance
 - [CyberCowboy404/nuxtgain](https://github.com/CyberCowboy404/nuxtgain) - Nuxt3 + Supabase; Production ready SaaS boilerplate
