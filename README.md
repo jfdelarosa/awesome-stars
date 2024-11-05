@@ -925,6 +925,7 @@
 
 ## TypeScript 
 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [selemondev/spark-ui](https://github.com/selemondev/spark-ui) - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨
 - [pruvious/pruvious](https://github.com/pruvious/pruvious) - A reliable CMS for your Nuxt app.
