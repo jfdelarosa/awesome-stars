@@ -1050,7 +1050,6 @@
 - [paoloricciuti/sveltekit-search-params](https://github.com/paoloricciuti/sveltekit-search-params) - The easiest way to read and WRITE from query parameters in sveltekit.
 - [nuxt-modules/turnstile](https://github.com/nuxt-modules/turnstile) - 🔥 Cloudflare Turnstile integration for Nuxt
 - [Developmint/nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS! A neat PurgeCSS wrapper for Nuxt.js
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [nuxt-modules/ionic](https://github.com/nuxt-modules/ionic) - Batteries-included, zero-config Ionic integration for Nuxt
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
