@@ -2480,7 +2480,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [bangle-io/bangle-editor](https://github.com/bangle-io/bangle-editor) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
+- [bangle-io/banger-editor](https://github.com/bangle-io/banger-editor) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
