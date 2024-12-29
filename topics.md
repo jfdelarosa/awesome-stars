@@ -156,6 +156,7 @@
 - [rust](#rust)
 - [sass](#sass)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
@@ -1868,6 +1869,7 @@
 
 ## others 
 
+- [Jettonn/originui-vue](https://github.com/Jettonn/originui-vue) - 
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [mainmatter/sheepdog](https://github.com/mainmatter/sheepdog) - Sheepdog – herd your async tasks!
 - [selemondev/spark-ui](https://github.com/selemondev/spark-ui) - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨
@@ -2481,7 +2483,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [bangle-io/banger-editor](https://github.com/bangle-io/banger-editor) - Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
+- [bangle-io/banger-editor](https://github.com/bangle-io/banger-editor) - (previously bangle-editor) Collection of higher level rich text editing tools. It powers the local only note taking app https://bangle.io
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
@@ -2540,7 +2542,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder for Next.js 🅧. Zero-config deployment 🚀. React now supported!
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -2578,6 +2580,7 @@
 
 ## rust 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
@@ -2604,6 +2607,11 @@
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [nette/latte](https://github.com/nette/latte) - ☕ Latte: the safest & truly intuitive templates for PHP. Engine for those who want the most secure PHP sites.
+
+## security-tools 
+
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 
 ## self-hosted 
 
@@ -2849,7 +2857,7 @@
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [ocluf/justship](https://github.com/ocluf/justship) - A svelte 5 and sveltekit saas boilerplate. Including database, authentication, email, analytics
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [brettgullan/tailwindcss-scrims](https://github.com/brettgullan/tailwindcss-scrims) - Configurable Tailwind plugin for generating scrim classes.
 - [Kamona-WD/tailwindcss-perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - A little bit of utility classes related to css 3d transform
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
@@ -2941,7 +2949,7 @@
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [janosh/svelte-bricks](https://github.com/janosh/svelte-bricks) - Naive Svelte Masonry component without column balancing (ragged columns at the bottom)
 - [formkit/tempo](https://github.com/formkit/tempo) - 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - HyperFormula is an open-source headless spreadsheet for business web apps. It comes with over 400 formulas, CRUD operations, undo-redo, clipboard support, and sorting.
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
