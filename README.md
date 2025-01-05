@@ -211,6 +211,7 @@
 
 ## JavaScript 
 
+- [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
 - [mainmatter/sheepdog](https://github.com/mainmatter/sheepdog) - Sheepdog – herd your async tasks!
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
@@ -1313,7 +1314,7 @@
 - [zernonia/simple-log](https://github.com/zernonia/simple-log) - SimpleLog - Event tracking all in 1 place! Free & Open Source
 - [headmandev/vue3-side-panel](https://github.com/headmandev/vue3-side-panel) - Easy to use and flexible modal sidebar component for Vue3
 - [rlemaigre/vue3-promise-dialog](https://github.com/rlemaigre/vue3-promise-dialog) - Dialogs meet promises in Vue 3 !
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Progressive full-stack framework for Web Artisans. Develop modern apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Progressive full-stack framework. Develop modern apps, clouds & framework-agnostic libraries—faster. For Web Artisans.
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [obadakhalili/visual-filter](https://github.com/obadakhalili/visual-filter) - :male_detective: A headless unopinionated advanced visual filtering component for Vue 2 and 3
 - [antoniandre/simple-syntax-highlighter](https://github.com/antoniandre/simple-syntax-highlighter) - No chi-chi syntax highlighter for Vue.js (3 & 2).
