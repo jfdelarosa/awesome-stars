@@ -1575,6 +1575,7 @@
 
 ## markdown 
 
+- [receiptline/receiptline](https://github.com/receiptline/receiptline) - Markdown for receipts. Printable digital receipts. Generate receipt printer commands and images.
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
