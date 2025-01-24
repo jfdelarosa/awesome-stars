@@ -806,7 +806,7 @@
 
 - [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
@@ -926,7 +926,7 @@
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
-- [relatedcode/Midjourney](https://github.com/relatedcode/Midjourney) - Midjourney Showcase - 4.2M+ images
+- [relatedcode/Midjourney](https://github.com/relatedcode/Midjourney) - Midjourney
 
 ## TeX 
 
@@ -942,7 +942,7 @@
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [selemondev/spark-ui](https://github.com/selemondev/spark-ui) - Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨
 - [pruvious/pruvious](https://github.com/pruvious/pruvious) - A reliable CMS for your Nuxt app.
-- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - React Components for AI Chat 💬 🚀
+- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React library for AI Chat 💬 🚀
 - [becem-gharbi/nuxt-s3](https://github.com/becem-gharbi/nuxt-s3) - Edge compatible S3 client for Nuxt
 - [w3cj/hono-open-api-starter](https://github.com/w3cj/hono-open-api-starter) - A starter template for building fully documented type-safe JSON APIs with Hono and Open API
 - [tfkhdyt/with-catch](https://github.com/tfkhdyt/with-catch) - Utilities that wrap promise or synchronous function to catch the error then return the result and error in consistent tuple format.
