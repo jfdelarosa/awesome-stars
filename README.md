@@ -156,7 +156,7 @@
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -210,6 +210,7 @@
 
 ## JavaScript 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iFrames sized to their content.
 - [receiptline/receiptline](https://github.com/receiptline/receiptline) - Markdown for receipts. Printable digital receipts. Generate receipt printer commands and images.
 - [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
@@ -890,7 +891,7 @@
 - [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
 - [Rich-Harris/sveltesnaps](https://github.com/Rich-Harris/sveltesnaps) - 
 - [dominikg/summit-2023](https://github.com/dominikg/summit-2023) - 
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - An adaptive design system and component solution built around Tailwind.
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 - [agustinl/svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [andrelmlins/svelte-infinite-scroll](https://github.com/andrelmlins/svelte-infinite-scroll) - Infinite Scroll Component to Svelte
@@ -935,6 +936,7 @@
 
 ## TypeScript 
 
+- [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - 👾 LM Studio CLI
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [unovue/motion-vue](https://github.com/unovue/motion-vue) - A animation library for Vue
