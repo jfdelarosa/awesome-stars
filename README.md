@@ -214,7 +214,6 @@
 - [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iFrames sized to their content.
 - [receiptline/receiptline](https://github.com/receiptline/receiptline) - Markdown for receipts. Printable digital receipts. Generate receipt printer commands and images.
 - [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
-- [mainmatter/sheepdog](https://github.com/mainmatter/sheepdog) - Sheepdog – herd your async tasks!
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
 - [Hugo-Dz/on-device-transcription](https://github.com/Hugo-Dz/on-device-transcription) - A ready-to-use, minimal app that converts any speech into text.
@@ -940,6 +939,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [unovue/motion-vue](https://github.com/unovue/motion-vue) - A animation library for Vue
+- [mainmatter/sheepdog](https://github.com/mainmatter/sheepdog) - Sheepdog – herd your async tasks!
 - [hywax/nuxt-cron](https://github.com/hywax/nuxt-cron) - A Nuxt module for cron jobs in your app.
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
