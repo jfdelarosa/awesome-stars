@@ -315,7 +315,7 @@
 - [Eomm/notification-remover](https://github.com/Eomm/notification-remover) - Clean your inbox notification, on the go, when you need!
 - [webmatze/hyperborder](https://github.com/webmatze/hyperborder) - adds a gradient border to the Hyper terminal
 - [navi1995/Chrome-Webstore-Stats](https://github.com/navi1995/Chrome-Webstore-Stats) - 
-- [weave-cms/weavecms](https://github.com/weave-cms/weavecms) - Weave (formerly Primo) is a visual CMS that makes it simpler than ever to build, manage, and publish static sites.
+- [weave-cms/weavecms](https://github.com/weave-cms/weavecms) - Weave (formerly Primo) is a visual CMS that simplifies building, managing, and publishing static sites.
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [breejs/bree](https://github.com/breejs/bree) - Bree is a Node.js and JavaScript job task scheduler with worker threads, cron, Date, and human syntax. Built for @ladjs, @forwardemail, @spamscanner, @cabinjs.
@@ -1295,6 +1295,7 @@
 
 ## Vue 
 
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [Eckhardt-D/blanq](https://github.com/Eckhardt-D/blanq) - An opinionated Nuxt starter to avoid the boilerplate work and ship faster
 - [Barbapapazes/gavarnie](https://github.com/Barbapapazes/gavarnie) - SaaS - Pre-configured and ready-to-use features to help you start your full-stack NuxtHub project faster.
 - [Jettonn/originui-vue](https://github.com/Jettonn/originui-vue) - 
@@ -1333,7 +1334,7 @@
 - [zernonia/simple-log](https://github.com/zernonia/simple-log) - SimpleLog - Event tracking all in 1 place! Free & Open Source
 - [headmandev/vue3-side-panel](https://github.com/headmandev/vue3-side-panel) - Easy to use and flexible modal sidebar component for Vue3
 - [rlemaigre/vue3-promise-dialog](https://github.com/rlemaigre/vue3-promise-dialog) - Dialogs meet promises in Vue 3 !
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Progressive full-stack framework. Develop modern apps, clouds & framework-agnostic libraries—faster. For Web Artisans.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster. Progressive Web Artisans.
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [obadakhalili/visual-filter](https://github.com/obadakhalili/visual-filter) - :male_detective: A headless unopinionated advanced visual filtering component for Vue 2 and 3
 - [antoniandre/simple-syntax-highlighter](https://github.com/antoniandre/simple-syntax-highlighter) - No chi-chi syntax highlighter for Vue.js (3 & 2).
