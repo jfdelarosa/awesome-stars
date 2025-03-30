@@ -315,7 +315,7 @@
 - [Eomm/notification-remover](https://github.com/Eomm/notification-remover) - Clean your inbox notification, on the go, when you need!
 - [webmatze/hyperborder](https://github.com/webmatze/hyperborder) - adds a gradient border to the Hyper terminal
 - [navi1995/Chrome-Webstore-Stats](https://github.com/navi1995/Chrome-Webstore-Stats) - 
-- [weave-cms/weavecms](https://github.com/weave-cms/weavecms) - Weave (formerly Primo) is a visual CMS that simplifies building, managing, and publishing static sites.
+- [palacms/PalaCMS](https://github.com/palacms/PalaCMS) - Pala (formerly Primo) is a visual CMS that simplifies building, managing, and publishing static sites.
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [breejs/bree](https://github.com/breejs/bree) - Bree is a Node.js and JavaScript job task scheduler with worker threads, cron, Date, and human syntax. Built for @ladjs, @forwardemail, @spamscanner, @cabinjs.
@@ -902,7 +902,6 @@
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [andrelmlins/svelte-infinite-scroll](https://github.com/andrelmlins/svelte-infinite-scroll) - Infinite Scroll Component to Svelte
 - [rohitpotato/svelte-command-palette](https://github.com/rohitpotato/svelte-command-palette) - Dead simple command palette for svelte
-- [storyblok/storyblok-svelte](https://github.com/storyblok/storyblok-svelte) - Svelte SDK for Storyblok CMS
 - [staart/ui](https://github.com/staart/ui) - 🏁🌐 Frontend Svelte PWA starter for SaaS startups
 - [srmullen/sveltekit-stripe](https://github.com/srmullen/sveltekit-stripe) - Integrating SvelteKit and Stripe Checkout
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
@@ -940,6 +939,7 @@
 
 ## TypeScript 
 
+- [cherfia/chromiumly](https://github.com/cherfia/chromiumly) - A lightweight Typescript library that interacts with Gotenberg's different modules to convert a variety of document formats to PDF files.
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
 - [ManuelGil/vscode-marketplace-client](https://github.com/ManuelGil/vscode-marketplace-client) - A TypeScript library for fetching and managing Visual Studio Code extensions, with version querying, VSIX downloads, and robust error handling.
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
@@ -1149,6 +1149,7 @@
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 - [Kong/swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue
 - [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as a handy composable.
+- [storyblok/storyblok-svelte](https://github.com/storyblok/storyblok-svelte) - Svelte SDK for Storyblok CMS
 - [omer-g/persistent-svelte-store](https://github.com/omer-g/persistent-svelte-store) - A generic persistent store according to the Svelte store contract
 - [patak-dev/vite-plugin-terminal](https://github.com/patak-dev/vite-plugin-terminal) - Log in the node terminal from the browser
 - [wobsoriano/pinia-shared-state](https://github.com/wobsoriano/pinia-shared-state) - 🍍 Sync your Pinia state across browser tabs.
@@ -1302,6 +1303,7 @@
 
 ## Vue 
 
+- [BayBreezy/ui-thing](https://github.com/BayBreezy/ui-thing) - A set of components created with Radix-Vue. Inspired by shadcn/ui & shadcn-vue.
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [Eckhardt-D/blanq](https://github.com/Eckhardt-D/blanq) - An opinionated Nuxt starter to avoid the boilerplate work and ship faster
 - [Barbapapazes/gavarnie](https://github.com/Barbapapazes/gavarnie) - SaaS - Pre-configured and ready-to-use features to help you start your full-stack NuxtHub project faster.
