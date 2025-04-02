@@ -1124,7 +1124,6 @@
 - [aagarwal1012/Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) - 🔁 A custom refresh indicator for flutter.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [nicolasbeauvais/vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) - A renderless Vue.js component for sharing links to social networks, compatible with SSR
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -1540,7 +1539,7 @@
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and let LLMs (ChatGPT, Claude) connect to these apps
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [openchatai/copilot](https://github.com/openchatai/copilot) - 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 
@@ -1800,7 +1799,6 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [TephlonDude/n8n-pi](https://github.com/TephlonDude/n8n-pi) - Tools and Images to Build a Raspberry Pi n8n server
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product
