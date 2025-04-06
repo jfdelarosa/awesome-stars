@@ -263,7 +263,7 @@
 - [codrops/Animocons](https://github.com/codrops/Animocons) - Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot ["Like Animation"](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Gin
 - [rlk/whitemark](https://github.com/rlk/whitemark) - Steganographic encoding of a watermark in the whitespace of text
 - [zy445566/node-digital-watermarking](https://github.com/zy445566/node-digital-watermarking) - A digital watermark is a kind of marker covertly embedded in a noise-tolerant signal such as an audio, video or image data. It is typically used to identify ownership of the copyright of such signal. 
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support + 100s of improvements. Open source & free. Made with Svelte but framework agnostic.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support + 100s of improvements. Open source & free. Framework-agnostic.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [heedrox/abbreviame](https://github.com/heedrox/abbreviame) - Get an abbreviated description made by an AI of you based on your latest tweets. What do other users perceive from what you tweet?
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
@@ -938,6 +938,7 @@
 
 ## TypeScript 
 
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [kadumedim/bun-hono](https://github.com/kadumedim/bun-hono) - 
 - [cherfia/chromiumly](https://github.com/cherfia/chromiumly) - A lightweight Typescript library that interacts with Gotenberg's different modules to convert a variety of document formats to PDF files.
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
