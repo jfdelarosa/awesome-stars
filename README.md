@@ -198,6 +198,7 @@
 - [documentcloud/pixel-ping](https://github.com/documentcloud/pixel-ping) - A Minimalist Pixel Tracker for Node.js
 - [ThemesGuide/bootstrap-themes](https://github.com/ThemesGuide/bootstrap-themes) - Free, open source Bootstrap 4 themes
 - [DominikSerafin/vuebar](https://github.com/DominikSerafin/vuebar) - (🗃️ Archived)  Vue 2 directive for custom scrollbar that uses native scroll behavior. Lightweight, performant, customizable and without dependencies. Used successfully in production on https://ggather
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [shiffman/Learning-p5.js](https://github.com/shiffman/Learning-p5.js) - A repo for porting Learning Processing book to p5.js
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
@@ -604,7 +605,6 @@
 
 - [cloudinary-community/svelte-cloudinary](https://github.com/cloudinary-community/svelte-cloudinary) - ⚡️ High-performance image delivery and uploading at scale in Svelte powered by Cloudinary.
 - [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Markdown 
 
@@ -1151,6 +1151,7 @@
 - [motiondivision/motionone](https://github.com/motiondivision/motionone) - 
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [Kong/swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue
 - [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as a handy composable.
 - [storyblok/storyblok-svelte](https://github.com/storyblok/storyblok-svelte) - Svelte SDK for Storyblok CMS
@@ -1347,7 +1348,6 @@
 - [zernonia/simple-log](https://github.com/zernonia/simple-log) - SimpleLog - Event tracking all in 1 place! Free & Open Source
 - [headmandev/vue3-side-panel](https://github.com/headmandev/vue3-side-panel) - Easy to use and flexible modal sidebar component for Vue3
 - [rlemaigre/vue3-promise-dialog](https://github.com/rlemaigre/vue3-promise-dialog) - Dialogs meet promises in Vue 3 !
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [obadakhalili/visual-filter](https://github.com/obadakhalili/visual-filter) - :male_detective: A headless unopinionated advanced visual filtering component for Vue 2 and 3
 - [antoniandre/simple-syntax-highlighter](https://github.com/antoniandre/simple-syntax-highlighter) - No chi-chi syntax highlighter for Vue.js (3 & 2).
