@@ -939,6 +939,7 @@
 
 ## TypeScript 
 
+- [upstash/context7-mcp](https://github.com/upstash/context7-mcp) - Context7 MCP Server
 - [romboHQ/tailwindcss-motion](https://github.com/romboHQ/tailwindcss-motion) - tailwindcss-motion is a Tailwind CSS Plugin made at RomboHQ. It’s a simple, yet powerful, animation library with a simple syntax.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [kadumedim/bun-hono](https://github.com/kadumedim/bun-hono) - 
