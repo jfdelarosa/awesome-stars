@@ -214,7 +214,8 @@
 
 ## JavaScript 
 
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors
+- [heidkaemper/tailwindcss-intersect](https://github.com/heidkaemper/tailwindcss-intersect) - Tailwind CSS with Intersection Observer variants
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations) - Easy peasy animations for your Tailwind project
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iFrames sized to their content.
@@ -371,7 +372,6 @@
 - [ardakaracizmeli/design-system-checklist](https://github.com/ardakaracizmeli/design-system-checklist) - An open-source checklist to help you plan, build and grow your design system.
 - [arielsalminen/vue-design-system](https://github.com/arielsalminen/vue-design-system) - An open source tool for building UI Design Systems with Vue.js
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [davestewart/vuex-pathify](https://github.com/davestewart/vuex-pathify) - Vue / Vuex plugin providing a unified path syntax to Vuex stores
 - [sospedra/finite-state-machine-demo](https://github.com/sospedra/finite-state-machine-demo) - Find the slides here --&gt;
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
@@ -816,7 +816,7 @@
 
 ## Rust 
 
-- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -924,6 +924,7 @@
 - [leveluptuts/svelte-toy](https://github.com/leveluptuts/svelte-toy) - A toy for svelte data stores
 - [stolinski/svelte-kit-render-deploy](https://github.com/stolinski/svelte-kit-render-deploy) - 
 - [tejasag/sveltetron-9000](https://github.com/tejasag/sveltetron-9000) - SvelteKit starter template with configurations for TailwindCSS, Storybook, Typescript, Sass and more!
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [vaheqelyan/svelte-grid](https://github.com/vaheqelyan/svelte-grid) - A responsive, draggable and resizable grid layout, for Svelte. [NOT MAINTAINED]
 
 ## Swift 
@@ -1333,7 +1334,7 @@
 - [IgorHalfeld/migrating-nuxt2-legacy-project](https://github.com/IgorHalfeld/migrating-nuxt2-legacy-project) - This is a sample project that shows how to migrate a Nuxt 2 (nuxt-bridge) w/ Vuetify 2 project to Nuxt 3
 - [NicolaSpadari/nuxtor](https://github.com/NicolaSpadari/nuxtor) - Build tiny desktop apps with Tauri, Nuxt 3 and NuxtUI
 - [JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) - Simple boilerplate for SAAS.  Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI
-- [nuxt-ui-pro/saas](https://github.com/nuxt-ui-pro/saas) - A SaaS template made with Nuxt UI Pro.
+- [nuxt-ui-pro/saas](https://github.com/nuxt-ui-pro/saas) - Nuxt SaaS Template made with Nuxt UI Pro.
 - [MelihAltintas/vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Web map Vue 3.x components with the power of OpenLayers
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [funwiche/nuxt-mailer](https://github.com/funwiche/nuxt-mailer) - Send emails from your Nuxtjs App using Nodemailer
