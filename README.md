@@ -1061,7 +1061,7 @@
 - [handsontable/hyperformula](https://github.com/handsontable/hyperformula) - HyperFormula is an open-source headless spreadsheet for business web apps. It comes with over 400 formulas, CRUD operations, undo-redo, clipboard support, and sorting.
 - [dinerojs/dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money in JavaScript and TypeScript.
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
-- [penxio/penx](https://github.com/penxio/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare.
+- [penxio/penx](https://github.com/penxio/penx) - A structure note-taking App for creators.
 - [Hugos68/capkit](https://github.com/Hugos68/capkit) - CLI to integrate Capacitor into SvelteKit
 - [spences10/sveltekit-embed](https://github.com/spences10/sveltekit-embed) - SvelteKit embed components
 - [ciscoheat/sveltekit-flash-message](https://github.com/ciscoheat/sveltekit-flash-message) - Send temporary data after redirect, usually from endpoints. Works with both SSR and client.
