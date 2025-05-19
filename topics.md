@@ -213,7 +213,7 @@
 
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 - [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
@@ -332,7 +332,7 @@
 ## artificial-intelligence 
 
 - [bhaskarblur/neobase-ai-dba](https://github.com/bhaskarblur/neobase-ai-dba) - Your AI-powered Database Copilot. Manage, query, and optimize databases effortlessly with a sleek, Neo Brutalism interface. Chat with your data in real-time, get results, and automate complex tasks—al
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
@@ -505,7 +505,7 @@
 
 - [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
 - [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on 
 
@@ -519,7 +519,7 @@
 - [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [engageintellect/spatz](https://github.com/engageintellect/spatz) - An opinionated template for building full-stack Svelte applications ridiculously fast. Includes auth, database, admin panel, user dashboard, themes, icons, and more.
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
@@ -1027,7 +1027,6 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
-- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [tamiat/tamiat](https://github.com/tamiat/tamiat) - :sailboat:  Vuejs and Golang based CMS
 
@@ -1309,7 +1308,7 @@
 - [josias-r/boarding.js](https://github.com/josias-r/boarding.js) - A light-weight, no-dependency, vanilla JavaScript engine to create powerful onboardings and drive the user's focus across the page
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Fullstack TypeScript toolkit that enhances Prisma ORM with flexible Authorization layer for RBAC/ABAC/PBAC/ReBAC, offering auto-generated type-safe APIs and frontend hooks.
@@ -1590,7 +1589,7 @@
 
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) - A collection of Awesome low-code development platform (LCDP).
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
@@ -1795,7 +1794,7 @@
 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) - A collection of Awesome low-code development platform (LCDP).
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
@@ -1909,7 +1908,7 @@
 
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
@@ -1950,7 +1949,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [engageintellect/spatz](https://github.com/engageintellect/spatz) - An opinionated template for building full-stack Svelte applications ridiculously fast. Includes auth, database, admin panel, user dashboard, themes, icons, and more.
 - [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [lynhan318/nextlint](https://github.com/lynhan318/nextlint) - Rich text editor (WYSIWYG) written in Svelte, build on top of tiptap, prosemirror, AI prompt integrated. Dark/Light theme support
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
@@ -1963,6 +1962,9 @@
 
 ## others 
 
+- [leamsigc/nuxt-transformer-js](https://github.com/leamsigc/nuxt-transformer-js) - Run popular AI models directly in your browser with this Nuxt module powered by Transformer.js. Perform AI tasks efficiently using web workers while keeping your main thread responsive.
+- [HugoRCD/nuxthub-better-auth](https://github.com/HugoRCD/nuxthub-better-auth) - A demo of using Better Auth with Nuxt & NuxtHub (Cloudflare D1 & KV).
+- [HelloGGX/shadcn-vue-mcp](https://github.com/HelloGGX/shadcn-vue-mcp) - Shadcn-vue and Tailwind CSS are essential for component development, offering developers a fast and high-quality experience in Vue component development.
 - [ping-maxwell/better-auth-kit](https://github.com/ping-maxwell/better-auth-kit) - A collection of plugins, tools, libraries, examples, and more for Better-Auth. 🚀
 - [philrox/n8n-workflows](https://github.com/philrox/n8n-workflows) - 
 - [heidkaemper/tailwindcss-intersect](https://github.com/heidkaemper/tailwindcss-intersect) - Tailwind CSS with Intersection Observer variants
@@ -2043,7 +2045,7 @@
 - [selemondev/svelte-marquee](https://github.com/selemondev/svelte-marquee) - A Beautiful Marquee component for Svelte ✨
 - [LogSnag/logsnag.js](https://github.com/LogSnag/logsnag.js) - 
 - [logbun/logbun](https://github.com/logbun/logbun) - 
-- [penxio/penx](https://github.com/penxio/penx) - A structure note-taking App for creators.
+- [penxio/penx](https://github.com/penxio/penx) - A structured note-taking App.
 - [paolotiu/tailwind-intellisense-regex-list](https://github.com/paolotiu/tailwind-intellisense-regex-list) - 
 - [wesbos/hot-tips](https://github.com/wesbos/hot-tips) - The code behind my hot tips
 - [pbrahmac/funances-v3](https://github.com/pbrahmac/funances-v3) - 
@@ -2570,7 +2572,7 @@
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
@@ -2605,7 +2607,7 @@
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [giuseppeg/style-sheet](https://github.com/giuseppeg/style-sheet) - ⚡️💨 Fast styles in JavaScript with support for static CSS extraction.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
@@ -2621,6 +2623,7 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [pshrmn/curi](https://github.com/pshrmn/curi) - A JavaScript router for single-page applications
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
+- [nikitavoloboev/ui](https://github.com/nikitavoloboev/ui) - React components
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
@@ -2658,7 +2661,7 @@
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [asseinfo/react-kanban](https://github.com/asseinfo/react-kanban) - Yet another Kanban/Trello board lib for React.
 - [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
 - [cferdinandi/reef](https://github.com/cferdinandi/reef) - A lightweight library for creating reactive, state-based components and UI.
@@ -3117,7 +3120,7 @@
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
