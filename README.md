@@ -946,6 +946,7 @@
 
 ## TypeScript 
 
+- [jakobhoeg/enhanced-button](https://github.com/jakobhoeg/enhanced-button) - An enhanced version of the default shadcn-button component
 - [leamsigc/nuxt-transformer-js](https://github.com/leamsigc/nuxt-transformer-js) - Run popular AI models directly in your browser with this Nuxt module powered by Transformer.js. Perform AI tasks efficiently using web workers while keeping your main thread responsive.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [ping-maxwell/better-auth-kit](https://github.com/ping-maxwell/better-auth-kit) - A collection of plugins, tools, libraries, examples, and more for Better-Auth. 🚀
@@ -1025,7 +1026,7 @@
 - [unsend-dev/unsend](https://github.com/unsend-dev/unsend) - Open source alternative to Resend,Sendgrid, Postmark etc.
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [rrd108/vue-mess-detector](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for detecting code smells and best practice violations in Vue.js and Nuxt.js projects
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an open-source library of UI components. Under the hood, it uses UIkit 3 and extended with LitElement. The design is based on shadcn/ui.
 - [dgmjs/dgmjs](https://github.com/dgmjs/dgmjs) - An infinite canvas with smart shapes
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
@@ -1215,7 +1216,7 @@
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
