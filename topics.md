@@ -211,6 +211,7 @@
 
 ## ai 
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -219,7 +220,7 @@
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The TypeScript framework for automating browsers with AI
 - [serudda/text-snap](https://github.com/serudda/text-snap) - Free and Open-Source tool for Accurate Text Formatting using AI
 - [metaskills/experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
@@ -511,6 +512,7 @@
 
 ## chatgpt 
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
 - [bhaskarblur/neobase-ai-dba](https://github.com/bhaskarblur/neobase-ai-dba) - Your AI-powered Database Copilot. Manage, query, and optimize databases effortlessly with a sleek, Neo Brutalism interface. Chat with your data in real-time, get results, and automate complex tasks—al
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
@@ -1565,6 +1567,7 @@
 
 ## llm 
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [bhaskarblur/neobase-ai-dba](https://github.com/bhaskarblur/neobase-ai-dba) - Your AI-powered Database Copilot. Manage, query, and optimize databases effortlessly with a sleek, Neo Brutalism interface. Chat with your data in real-time, get results, and automate complex tasks—al
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
@@ -2521,6 +2524,7 @@
 
 ## python 
 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
