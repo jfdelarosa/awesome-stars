@@ -52,6 +52,7 @@
 
 ## Astro 
 
+- [coderdiaz-studio/cvfolio](https://github.com/coderdiaz-studio/cvfolio) - Minimalist personal CV site inspired by Read.cv, clean and aesthetic. Built with Astro and TailwindCSS perfect for developers and designers.
 - [fulldotdev/ui](https://github.com/fulldotdev/ui) - The Astro UI library to build content sites
 - [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip and brotli compressor for Astro
 
@@ -947,6 +948,7 @@
 
 ## TypeScript 
 
+- [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [jakobhoeg/enhanced-button](https://github.com/jakobhoeg/enhanced-button) - An enhanced version of the default shadcn-button component
 - [leamsigc/nuxt-transformer-js](https://github.com/leamsigc/nuxt-transformer-js) - Run popular AI models directly in your browser with this Nuxt module powered by Transformer.js. Perform AI tasks efficiently using web workers while keeping your main thread responsive.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
