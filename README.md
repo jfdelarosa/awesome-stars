@@ -93,6 +93,7 @@
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
 - [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 - [NigelOToole/direction-reveal](https://github.com/NigelOToole/direction-reveal) - Detects the direction a user enters or leaves an element allowing you to reveal or hide content based on this direction.
+- [ThemesGuide/bootstrap-themes](https://github.com/ThemesGuide/bootstrap-themes) - Free, open source Bootstrap 4 themes
 - [OssamaZ/One-ui-kit](https://github.com/OssamaZ/One-ui-kit) - Minimal ui kit for Bootstrap 4
 - [codyhouse/codyhouse-framework](https://github.com/codyhouse/codyhouse-framework) - A lightweight front-end framework for building accessible, bespoke interfaces.
 - [bradtraversy/codegig](https://github.com/bradtraversy/codegig) - Simple job find app for coders
@@ -197,7 +198,6 @@
 - [FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - [Book] 2019 edition of our front-end development handbook
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [documentcloud/pixel-ping](https://github.com/documentcloud/pixel-ping) - A Minimalist Pixel Tracker for Node.js
-- [ThemesGuide/bootstrap-themes](https://github.com/ThemesGuide/bootstrap-themes) - Free, open source Bootstrap 4 themes
 - [DominikSerafin/vuebar](https://github.com/DominikSerafin/vuebar) - (🗃️ Archived)  Vue 2 directive for custom scrollbar that uses native scroll behavior. Lightweight, performant, customizable and without dependencies. Used successfully in production on https://ggather
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
