@@ -84,7 +84,6 @@
 
 ## CSS 
 
-- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [IslamZaoui/turbo-sveltekit-shadcn](https://github.com/IslamZaoui/turbo-sveltekit-shadcn) - Turborepo sveltekit starter with shadcn pre-configured
 - [rossrobino/uico](https://github.com/rossrobino/uico) - Comprehensive Styling with Modern CSS
 - [hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards) - A growing collection of text/image cards you can use/copy-paste in your tailwind css projects
@@ -204,7 +203,7 @@
 - [shiffman/Learning-p5.js](https://github.com/shiffman/Learning-p5.js) - A repo for porting Learning Processing book to p5.js
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
-- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
 - [goodybag/bootstrap-notify](https://github.com/goodybag/bootstrap-notify) - Bootstrap alert system made better, builds off of bootstrap-alert.js
 
 ## Java 
@@ -215,7 +214,7 @@
 
 ## JavaScript 
 
-- [HelloGGX/shadcn-vue-mcp](https://github.com/HelloGGX/shadcn-vue-mcp) - Shadcn-vue and Tailwind CSS are essential for component development, offering developers a fast and high-quality experience in Vue component development.
+- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [heidkaemper/tailwindcss-intersect](https://github.com/heidkaemper/tailwindcss-intersect) - Tailwind CSS with Intersection Observer variants
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations) - Easy peasy animations for your Tailwind project
@@ -791,7 +790,7 @@
 
 ## Python 
 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [anan235/dia-multilingual](https://github.com/anan235/dia-multilingual) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
@@ -948,11 +947,14 @@
 
 ## TypeScript 
 
+- [yashksaini-coder/mastra-mem0-backend](https://github.com/yashksaini-coder/mastra-mem0-backend) - Docker deployed mastra AI agent server, with tools, memory and workflow
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [carlosjorger/fluid-dnd](https://github.com/carlosjorger/fluid-dnd) - A drag and drop🤜🫳library for Vue🌿, React⚛️ and Svelte🚘
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
 - [jakobhoeg/enhanced-button](https://github.com/jakobhoeg/enhanced-button) - An enhanced version of the default shadcn-button component
 - [leamsigc/nuxt-transformer-js](https://github.com/leamsigc/nuxt-transformer-js) - Run popular AI models directly in your browser with this Nuxt module powered by Transformer.js. Perform AI tasks efficiently using web workers while keeping your main thread responsive.
+- [HelloGGX/shadcn-vue-mcp](https://github.com/HelloGGX/shadcn-vue-mcp) - Shadcn-vue and Tailwind CSS are essential for component development, offering developers a fast and high-quality experience in Vue component development.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [ping-maxwell/better-auth-kit](https://github.com/ping-maxwell/better-auth-kit) - A collection of plugins, tools, libraries, examples, and more for Better-Auth. 🚀
 - [swup/swup](https://github.com/swup/swup) - Versatile and extensible page transition library for server-rendered websites 🎉
