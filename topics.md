@@ -208,6 +208,7 @@
 
 ## 3d 
 
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
 - [Kamona-WD/tailwindcss-perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - A little bit of utility classes related to css 3d transform
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 
@@ -1072,6 +1073,7 @@
 
 ## graphql 
 
+- [wxt-dev/queue](https://github.com/wxt-dev/queue) - WIP: Supposed to be a CI/CD service for web extensions, queuing up releases that are waiting for review in stores. Currently just an API for getting extension details from various stores.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 📘 Quick and Easy TypeScript Express Starter
@@ -1293,6 +1295,7 @@
 
 ## javascript 
 
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS) - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free & Open Source
@@ -1529,6 +1532,7 @@
 
 ## laravel 
 
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue) - The Ultimate Laravel Starter Kit for Modern SaaS (VILT) with Shadcn Components (Vue, Inertia & Shadcn)
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
@@ -1996,12 +2000,12 @@
 - [ieedan/shadcn-svelte-extras](https://github.com/ieedan/shadcn-svelte-extras) - Turn key shadcn-svelte components to help finish your app.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup 
-- [spaansba/ForesightJS](https://github.com/spaansba/ForesightJS) - Lightweight JavaScript library with full TypeScript support that predicts user intent based on mouse movements and keyboard navigation
+- [spaansba/ForesightJS](https://github.com/spaansba/ForesightJS) - Lightweight JavaScript library that predicts user intent based on mouse movements and keyboard navigation. Perfect for smart prefetching.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [yashksaini-coder/mastra-mem0-backend](https://github.com/yashksaini-coder/mastra-mem0-backend) - Docker deployed mastra AI agent server, with tools, memory and workflow
 - [usertour/usertour](https://github.com/usertour/usertour) - Usertour is an open-source user onboarding platform. It allows you to create in-app product tours, checklists, and surveys in minutes—effortlessly and with full control.The open-source alternative to 
 - [leamsigc/nuxt-transformer-js](https://github.com/leamsigc/nuxt-transformer-js) - Run popular AI models directly in your browser with this Nuxt module powered by Transformer.js. Perform AI tasks efficiently using web workers while keeping your main thread responsive.
-- [HugoRCD/nuxthub-better-auth](https://github.com/HugoRCD/nuxthub-better-auth) - A demo of using Better Auth with Nuxt & NuxtHub (Cloudflare D1 & KV).
+- [HugoRCD/nuxt-better-auth](https://github.com/HugoRCD/nuxt-better-auth) - A demo of using Better Auth with Nuxt & NuxtHub (Cloudflare D1 & KV).
 - [HelloGGX/shadcn-vue-mcp](https://github.com/HelloGGX/shadcn-vue-mcp) - Shadcn-vue and Tailwind CSS are essential for component development, offering developers a fast and high-quality experience in Vue component development.
 - [ping-maxwell/better-auth-kit](https://github.com/ping-maxwell/better-auth-kit) - A collection of plugins, tools, libraries, examples, and more for Better-Auth. 🚀
 - [philrox/n8n-workflows](https://github.com/philrox/n8n-workflows) - 
@@ -2019,7 +2023,7 @@
 - [denandz/sourcemapper](https://github.com/denandz/sourcemapper) - Extract JavaScript source trees from Sourcemap files
 - [IslamZaoui/turbo-sveltekit-shadcn](https://github.com/IslamZaoui/turbo-sveltekit-shadcn) - Turborepo sveltekit starter with shadcn pre-configured
 - [SikandarJODD/youva](https://github.com/SikandarJODD/youva) - Sveltekit Pagination, Debounce Search, Sort & Filters, Caching
-- [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iframes sized to their content.
+- [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iframes sized to their content
 - [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
 - [Jettonn/originui-vue](https://github.com/Jettonn/originui-vue) - 
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
@@ -2592,6 +2596,7 @@
 
 ## react 
 
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
 - [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [carlosjorger/fluid-dnd](https://github.com/carlosjorger/fluid-dnd) - A drag and drop🤜🫳library for Vue🌿, React⚛️ and Svelte🚘
 - [stack-auth/stack-auth](https://github.com/stack-auth/stack-auth) - Open-source Auth0/Clerk alternative
@@ -2701,6 +2706,7 @@
 
 ## reactjs 
 
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - Interactive YouTube extension built with React, Tailwind CSS, and Plasmo. It integrates with the OpenAI API to enable real-time video chat, providing summaries, Q&A, and context-aware responses direct
@@ -2721,7 +2727,7 @@
 
 ## reinforcement-learning 
 
-- [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) - 🧠🔗 Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM framework built with decade old Deep Learning best practices
+- [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) - 🧠🔗 From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM framework built with decade old Deep Learning best practices
 
 ## rest-api 
 
@@ -2782,6 +2788,7 @@
 
 ## self-hosted 
 
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
@@ -3015,6 +3022,7 @@
 
 ## tailwind 
 
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
@@ -3043,6 +3051,7 @@
 
 ## tailwindcss 
 
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
 - [animate-ui/animate-ui](https://github.com/animate-ui/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [coderdiaz/cvfolio](https://github.com/coderdiaz/cvfolio) - Minimalist personal site inspired by ReadCV, clean and aesthetic. Built with Astro and TailwindCSS perfect for developers and designers.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
@@ -3317,6 +3326,7 @@
 
 ## vue 
 
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue) - The Ultimate Laravel Starter Kit for Modern SaaS (VILT) with Shadcn Components (Vue, Inertia & Shadcn)
 - [carlosjorger/fluid-dnd](https://github.com/carlosjorger/fluid-dnd) - A drag and drop🤜🫳library for Vue🌿, React⚛️ and Svelte🚘
@@ -3562,6 +3572,7 @@
 
 ## web 
 
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [goravel/goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
 - [engageintellect/spatz](https://github.com/engageintellect/spatz) - An opinionated template for building full-stack Svelte applications ridiculously fast. Includes auth, database, admin panel, user dashboard, themes, icons, and more.
