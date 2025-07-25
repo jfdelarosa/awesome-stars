@@ -1199,7 +1199,7 @@
 - [motiondivision/motionone](https://github.com/motiondivision/motionone) - 
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [Kong/swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue
 - [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as a handy composable.
 - [storyblok/storyblok-svelte](https://github.com/storyblok/storyblok-svelte) - Svelte SDK for Storyblok CMS
