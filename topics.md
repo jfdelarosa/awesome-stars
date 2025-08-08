@@ -311,7 +311,7 @@
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2024)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
@@ -612,7 +612,7 @@
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
-- [palalabs/palacms](https://github.com/palalabs/palacms) - Pala (formerly Primo) is a visual CMS for small static websites.
+- [palalabs/palacms](https://github.com/palalabs/palacms) - Pala (formerly Primo) is a modern monolithic CMS that gives devs the control they need and content editors the simplicity they've always wanted.
 - [fictionco/fiction](https://github.com/fictionco/fiction) - (Join Waiting List) Personal Marketing Platform. A powerful platform for your online identity.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
 - [n370/awesome-headless-cms](https://github.com/n370/awesome-headless-cms) - An awesome list of headless / decoupled CMS resources.
@@ -672,7 +672,7 @@
 - [codeAdrian/clay.css](https://github.com/codeAdrian/clay.css) - Easily add claymorphic styles to any HTML element with this micro class and SASS mixin.
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
-- [palalabs/palacms](https://github.com/palalabs/palacms) - Pala (formerly Primo) is a visual CMS for small static websites.
+- [palalabs/palacms](https://github.com/palalabs/palacms) - Pala (formerly Primo) is a modern monolithic CMS that gives devs the control they need and content editors the simplicity they've always wanted.
 - [lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout) - Popular layouts and patterns made with Tailwind CSS
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
@@ -712,6 +712,7 @@
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [basscss/basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library
+- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
 
@@ -932,7 +933,7 @@
 - [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
 - [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN(Mongo Express Vue Node)  Apps
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2024)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [ianstormtaylor/permit](https://github.com/ianstormtaylor/permit) - An unopinionated authentication library for building Node.js APIs.
 
 ## facebook 
@@ -1085,7 +1086,7 @@
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
@@ -1101,7 +1102,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [friendsofgo/killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1239,7 +1240,7 @@
 - [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-- [palalabs/palacms](https://github.com/palalabs/palacms) - Pala (formerly Primo) is a visual CMS for small static websites.
+- [palalabs/palacms](https://github.com/palalabs/palacms) - Pala (formerly Primo) is a modern monolithic CMS that gives devs the control they need and content editors the simplicity they've always wanted.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
 - [pantharshit00/prisma-docs-generator](https://github.com/pantharshit00/prisma-docs-generator) - Prisma generator for automatically generating documentation reference from the Prisma schema.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
@@ -1473,7 +1474,7 @@
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [probstit/exceptional.js](https://github.com/probstit/exceptional.js) - Javascript exception handling library.
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2024)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -1660,7 +1661,7 @@
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [openchatai/copilot](https://github.com/openchatai/copilot) - 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 
 ## localization 
 
@@ -1972,7 +1973,7 @@
 - [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
 - [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2024)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [serialport/node-serialport](https://github.com/serialport/node-serialport) - Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!
@@ -2065,6 +2066,7 @@
 
 ## others 
 
+- [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -2745,7 +2747,7 @@
 - [uber/baseweb](https://github.com/uber/baseweb) - A React Component library implementing the Base design language
 - [asseinfo/react-kanban](https://github.com/asseinfo/react-kanban) - Yet another Kanban/Trello board lib for React.
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2024)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
@@ -2984,7 +2986,7 @@
 - [EMPTYVOID-DEV/Altron](https://github.com/EMPTYVOID-DEV/Altron) - Rich text editor as a svelte component
 - [kitschpatrol/svelte-tweakpane-ui](https://github.com/kitschpatrol/svelte-tweakpane-ui) - A Svelte component library wrapping UI elements from Tweakpane, plus some additional functionality for convenience and flexibility.
 - [OpenFrenchFries/supasveltekit](https://github.com/OpenFrenchFries/supasveltekit) - Where Svelte's elegance meets Supabase's might!
-- [braden-w/whispering](https://github.com/braden-w/whispering) - Press shortcut → speak → get text. Free and open source ❤️
+- [epicenter-so/epicenter](https://github.com/epicenter-so/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 - [Hugo-Dz/on-device-transcription](https://github.com/Hugo-Dz/on-device-transcription) - A ready-to-use, minimal app that converts any speech into text.
 - [etherCorps/svelte-h2j](https://github.com/etherCorps/svelte-h2j) - A library which uses svelte compiler to convert html & css to jsx. Useful for using satori with svelte & Kit
 - [jasongitmail/super-sitemap](https://github.com/jasongitmail/super-sitemap) - SvelteKit sitemap focused on ease of use and making it impossible to forget to add your paths.
@@ -3052,7 +3054,7 @@
 - [micha-lmxt/svelte-motion](https://github.com/micha-lmxt/svelte-motion) - An animation library for Svelte based on framer-motion.
 - [RobBrazier/svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome
 - [Oli8/spaper](https://github.com/Oli8/spaper) - PaperCSS components for Svelte
-- [palalabs/palacms](https://github.com/palalabs/palacms) - Pala (formerly Primo) is a visual CMS for small static websites.
+- [palalabs/palacms](https://github.com/palalabs/palacms) - Pala (formerly Primo) is a modern monolithic CMS that gives devs the control they need and content editors the simplicity they've always wanted.
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [navneetsharmaui/sveltekit-starter](https://github.com/navneetsharmaui/sveltekit-starter) - Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.
 - [mhkeller/layercake](https://github.com/mhkeller/layercake) - graphics framework for sveltejs
@@ -3147,7 +3149,7 @@
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 - [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - Interactive YouTube extension built with React, Tailwind CSS, and Plasmo. It integrates with the OpenAI API to enable real-time video chat, providing summaries, Q&A, and context-aware responses direct
 - [leoMirandaa/shadcn-vue-landing-page](https://github.com/leoMirandaa/shadcn-vue-landing-page) - New design 🎉  Vue + Shadcn-vue + TypeScript + Tailwind. Landing page template ease-to-use
-- [braden-w/whispering](https://github.com/braden-w/whispering) - Press shortcut → speak → get text. Free and open source ❤️
+- [epicenter-so/epicenter](https://github.com/epicenter-so/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 - [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
 - [zackha/supaAuth](https://github.com/zackha/supaAuth) - A Nuxt 4 + Supabase starter template. Add Login and Register page into your Nuxt 4 project using Supabase authentication.
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
@@ -3218,7 +3220,7 @@
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [sapegin/jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) - Jest cheat sheet
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2024)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## text-to-speech 
@@ -3440,7 +3442,7 @@
 - [dashpilot/vue-pagebuilder](https://github.com/dashpilot/vue-pagebuilder) - A modular pagebuilder for Vue 3, uses ES Modules instead of single-file-components
 - [MelihAltintas/vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Web map Vue 3.x components with the power of OpenLayers
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-- [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Vue.js
+- [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Vue
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
 - [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications:  sidebase is a web app development kit to build production ready fullstack apps quickly. We build sidebase to provide a modular, 
@@ -3591,6 +3593,7 @@
 
 ## vuejs 
 
+- [meer-sagor/wavesurfer-vue](https://github.com/meer-sagor/wavesurfer-vue) - A Vue 3 component for wavesurfer.js. This component simplifies the usage of wavesurfer.js in Vue.js, with all familiar wavesurfer options available as Vue props.
 - [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
@@ -3749,7 +3752,7 @@
 
 - [TypeRocket/typerocket](https://github.com/TypeRocket/typerocket) - TypeRocket is a highly integrated MVC WordPress framework with beautiful UI components for the modern developer.
 - [ThemeFuse/Unyson](https://github.com/ThemeFuse/Unyson) - A WordPress framework that facilitates the development of WP themes
-- [palalabs/palacms](https://github.com/palalabs/palacms) - Pala (formerly Primo) is a visual CMS for small static websites.
+- [palalabs/palacms](https://github.com/palalabs/palacms) - Pala (formerly Primo) is a modern monolithic CMS that gives devs the control they need and content editors the simplicity they've always wanted.
 
 ## xcode 
 
