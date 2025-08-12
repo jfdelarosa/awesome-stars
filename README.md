@@ -185,6 +185,7 @@
 - [ImBIOS/tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator) - Generate custom css and tailwind filter property to achieve any target color 🎨
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [fajar7xx/ecommerce-template-tailwind-1](https://github.com/fajar7xx/ecommerce-template-tailwind-1) - ecommerce template using tailwindcss 3 in 2022
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [undercode99/jakarta-lte](https://github.com/undercode99/jakarta-lte) - Jakarta LTE -  Free and Open Source Premium Admin Templates with rich UI Kit base on Tailwind CSS
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [immersive-web/webxr-samples](https://github.com/immersive-web/webxr-samples) - Samples to demonstrate use of the WebXR Device API
@@ -889,7 +890,7 @@
 - [kitschpatrol/svelte-tweakpane-ui](https://github.com/kitschpatrol/svelte-tweakpane-ui) - A Svelte component library wrapping UI elements from Tweakpane, plus some additional functionality for convenience and flexibility.
 - [vkurko/calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource & timeline views
 - [wilkerlucio/media-looper](https://github.com/wilkerlucio/media-looper) - 
-- [n00ki/sveltekit-omakase](https://github.com/n00ki/sveltekit-omakase) - SvelteKit Omakase is a starter project designed to get you up and running with SvelteKit 🚀
+- [n00ki/sveltekit-omakase](https://github.com/n00ki/sveltekit-omakase) - the ultimate mise en place for your next SvelteKit project 🍱 SvelteKit Omakase is an opinionated starter kit designed to get you up and running with SvelteKit 🚀
 - [cowboycodr/kiankit](https://github.com/cowboycodr/kiankit) - SvelteKit + Supabase starter kit
 - [SikandarJODD/startup-template](https://github.com/SikandarJODD/startup-template) - Start Up Template Inspired from Magic UI
 - [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
@@ -966,6 +967,7 @@
 
 ## TypeScript 
 
+- [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [meer-sagor/wavesurfer-vue](https://github.com/meer-sagor/wavesurfer-vue) - A Vue 3 component for wavesurfer.js. This component simplifies the usage of wavesurfer.js in Vue.js, with all familiar wavesurfer options available as Vue props.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -1199,7 +1201,6 @@
 - [Tahul/vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue Composable
 - [tomaskebrle/astro-og-image](https://github.com/tomaskebrle/astro-og-image) - An astro integration to generate static Open Graph images, at build time
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
-- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for React and Vue that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
 - [janosh/svelte-multiselect](https://github.com/janosh/svelte-multiselect) - Keyboard-friendly, accessible and highly customizable multi-select component
 - [liaujianjie/firebase-to-supabase-auth-migrator](https://github.com/liaujianjie/firebase-to-supabase-auth-migrator) - Collection of scripts to migrate from Firebase Auth users to Supabase Auth
