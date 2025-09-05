@@ -68,7 +68,7 @@
 
 ## C++ 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones, wearables and AI-native hardware
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -895,6 +895,7 @@
 
 ## Svelte 
 
+- [cuire/svelte-grid-extended](https://github.com/cuire/svelte-grid-extended) - A draggable and resizable grid layout, for Svelte
 - [ieedan/shadcn-svelte-extras](https://github.com/ieedan/shadcn-svelte-extras) - Turn key shadcn-svelte components to help finish your app.
 - [SikandarJODD/cnblocks](https://github.com/SikandarJODD/cnblocks) - 100+ UI & Marketing blocks using Svelte 5, Tailwind CSS v4 and Shadcn Svelte
 - [sailkit/sailkit](https://github.com/sailkit/sailkit) - SailKit is an open-source toolkit for composing responsive email templates in SvelteKit applications
@@ -983,7 +984,7 @@
 
 - [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - it support animated page transition with every browser including safari
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [criting/awesome-nuxt](https://github.com/criting/awesome-nuxt) - A curated list of Nuxt projects, templates, and starters that actually work — ready for you to use or learn from.
@@ -992,7 +993,7 @@
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A minimal portfolio, component registry, and blog.
 - [tailark/blocks](https://github.com/tailark/blocks) - Shadcn marketing blocks
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. Extremely fast, scalable, memory API for the AI era.
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [useautumn/autumn](https://github.com/useautumn/autumn) - Autumn is an open-source pricing & billing platform
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [meer-sagor/wavesurfer-vue](https://github.com/meer-sagor/wavesurfer-vue) - A Vue 3 component for wavesurfer.js. This component simplifies the usage of wavesurfer.js in Vue.js, with all familiar wavesurfer options available as Vue props.
@@ -1066,7 +1067,7 @@
 - [Eronred/handy-arrows](https://github.com/Eronred/handy-arrows) - A gallery of hand-drawn arrows and other design resources as SVGs that can be easily copied as SVG code or React components for use in your projects.
 - [Barbapapazes/nuxt-authorization](https://github.com/Barbapapazes/nuxt-authorization) - Authorization module for managing permissions inside a Nuxt app.
 - [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
-- [epicenter-so/epicenter](https://github.com/epicenter-so/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
+- [epicenter-os/epicenter](https://github.com/epicenter-os/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 - [kakajuro/tidytube](https://github.com/kakajuro/tidytube) - An open source browser extension to help declutter Youtube's UI
 - [etherCorps/svelte-h2j](https://github.com/etherCorps/svelte-h2j) - A library which uses svelte compiler to convert html & css to jsx. Useful for using satori with svelte & Kit
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -1416,7 +1417,7 @@
 - [IgorHalfeld/migrating-nuxt2-legacy-project](https://github.com/IgorHalfeld/migrating-nuxt2-legacy-project) - This is a sample project that shows how to migrate a Nuxt 2 (nuxt-bridge) w/ Vuetify 2 project to Nuxt 3
 - [NicolaSpadari/nuxtor](https://github.com/NicolaSpadari/nuxtor) - Build tiny desktop apps with Tauri, Nuxt 4 and NuxtUI
 - [JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) - Simple boilerplate for SAAS.  Nuxt3, Supabase, OAuth, Prisma, TRPC, Pinia, Stripe, Tailwind, OpenAI
-- [nuxt-ui-pro/saas](https://github.com/nuxt-ui-pro/saas) - Nuxt SaaS Template made with Nuxt UI Pro.
+- [nuxt-ui-templates/saas](https://github.com/nuxt-ui-templates/saas) - Nuxt SaaS Template made with Nuxt UI and Nuxt Content.
 - [MelihAltintas/vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Web map Vue 3.x components with the power of OpenLayers
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [funwiche/nuxt-mailer](https://github.com/funwiche/nuxt-mailer) - Send emails from your Nuxtjs App using Nodemailer
