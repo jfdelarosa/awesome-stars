@@ -221,6 +221,7 @@
 
 ## JavaScript 
 
+- [michael/svedit](https://github.com/michael/svedit) - 
 - [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
