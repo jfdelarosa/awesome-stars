@@ -22,6 +22,7 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
@@ -502,6 +503,10 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+## beginner-project 
+
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 
 ## blockchain 
 
@@ -2106,6 +2111,7 @@
 
 ## others 
 
+- [michael/svedit](https://github.com/michael/svedit) - 
 - [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - it support animated page transition with every browser including safari
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
