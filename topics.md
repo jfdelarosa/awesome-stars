@@ -241,7 +241,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
 - [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
@@ -380,6 +380,7 @@
 
 ## awesome 
 
+- [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. This repository showcases diverse AI-generated visuals and prompts, highlighting the 
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
@@ -401,7 +402,7 @@
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/configs/..
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -874,7 +875,7 @@
 
 ## dotfiles 
 
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/configs/..
 
 ## education 
 
@@ -1338,7 +1339,7 @@
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/configs/..
 - [jogboms/flutter_offline](https://github.com/jogboms/flutter_offline) - ✈️ A tidy utility to handle offline/online connectivity like a Boss
 - [aagarwal1012/Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) - 🔁 A custom refresh indicator for flutter.
 - [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - [Example APPS] Basic Flutter apps, for flutter devs.
@@ -1373,6 +1374,7 @@
 
 ## javascript 
 
+- [italoalmeida0/usal](https://github.com/italoalmeida0/usal) - USAL.js - Ultimate Scroll Animation Library - Lightweight, powerful, wonderfully simple ✨
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework
 - [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
@@ -1747,7 +1749,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [nikitavoloboev/config](https://github.com/nikitavoloboev/config) - Apps/CLIs/configs I use on macOS/iOS
+- [nikitavoloboev/myworkflow](https://github.com/nikitavoloboev/myworkflow) - Place to share what you use. Apps/CLIs/Libraries/configs/..
 - [gitthermal/thermal](https://github.com/gitthermal/thermal) - One stop to manage all git repository. ⭐️ Star to support our work!
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
@@ -2048,7 +2050,7 @@
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 5 lines of code
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events, page views. Easily build product analytics dashboards
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
@@ -2112,6 +2114,8 @@
 
 ## others 
 
+- [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
+- [vercel/ai-chatbot-svelte](https://github.com/vercel/ai-chatbot-svelte) - A full-featured, hackable SvelteKit AI chatbot built by Vercel
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [michael/svedit](https://github.com/michael/svedit) - 
 - [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - it support animated page transition with every browser including safari
@@ -2436,6 +2440,7 @@
 - [turtle-DB/tortoiseDB](https://github.com/turtle-DB/tortoiseDB) - Official tortoiseDB adapter for turtleDB
 - [turtle-DB/turtleDB](https://github.com/turtle-DB/turtleDB) - Official turtleDB project
 - [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
+- [nikitavoloboev/moonbit](https://github.com/nikitavoloboev/moonbit) - MoonBit tools, libraries and other code
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [HackerPoet/Avant-Garfield](https://github.com/HackerPoet/Avant-Garfield) - Trains neural networks to generate new Garfield comics
 - [StreakYC/page-parser-tree](https://github.com/StreakYC/page-parser-tree) - Javascript library to find elements in a dynamic web page for a browser extension
@@ -2829,7 +2834,6 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [pshrmn/curi](https://github.com/pshrmn/curi) - A JavaScript router for single-page applications
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
-- [nikitavoloboev/ui](https://github.com/nikitavoloboev/ui) - React components
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
@@ -3052,6 +3056,7 @@
 
 ## svelte 
 
+- [didier/formshape](https://github.com/didier/formshape) - Type-safe form validation for SvelteKit Remote Functions using Standard Schema compatible validators.
 - [max-got/originui-svelte](https://github.com/max-got/originui-svelte) - 
 - [cuire/svelte-grid-extended](https://github.com/cuire/svelte-grid-extended) - A draggable and resizable grid layout, for Svelte
 - [carlosjorger/fluid-dnd](https://github.com/carlosjorger/fluid-dnd) - A drag and drop🤜🫳library for Vue🌿, React⚛️ and Svelte🚘
@@ -3088,7 +3093,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [paoloricciuti/sveltekit-view-transition](https://github.com/paoloricciuti/sveltekit-view-transition) - Start using view transitions without any hassle!
-- [techniq/svelte-ux](https://github.com/techniq/svelte-ux) - Collection of Svelte components, actions, stores, and utilities to build highly interactive applications.
+- [techniq/svelte-ux](https://github.com/techniq/svelte-ux) - Collection of Svelte components to build highly interactive applications.
 - [multiplehats/jaydens-stack](https://github.com/multiplehats/jaydens-stack) - A modern, efficient, and feature-packed monorepo boilerplate. Uses SvelteKit, tRPC, Shadcn, Tailwind CSS and Turborepo
 - [bryanmylee/svelte-headless-table](https://github.com/bryanmylee/svelte-headless-table) - Unopinionated and extensible data tables for Svelte
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
