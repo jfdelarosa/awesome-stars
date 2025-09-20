@@ -622,7 +622,7 @@
 
 ## MoonBit 
 
-- [nikitavoloboev/moonbit](https://github.com/nikitavoloboev/moonbit) - MoonBit tools, libraries and other code
+- [nikitavoloboev/mbt](https://github.com/nikitavoloboev/mbt) - MoonBit tools, libraries and other code
 
 ## Nunjucks 
 
@@ -641,7 +641,7 @@
 
 ## Others 
 
-- [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. This repository showcases diverse AI-generated visuals and prompts, highlighting the 
+- [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [Mortalife/trigger-dev-coolify](https://github.com/Mortalife/trigger-dev-coolify) - A repo containing a docker-compose that runs trigger.dev on coolify, with additional instructions
@@ -826,7 +826,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [anan235/dia-multilingual](https://github.com/anan235/dia-multilingual) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - SpatialLM: Training Large Language Models for Structured Indoor Modeling
+- [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - [NeurIPS 2025] SpatialLM: Training Large Language Models for Structured Indoor Modeling
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
