@@ -207,6 +207,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xcode](#xcode)
@@ -642,7 +643,7 @@
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [Vontigo/Vontigo](https://github.com/Vontigo/Vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with cust
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, improved security, mobile support + 100s of improvements. Framework-agnostic, open source &
 - [palacms/palacms](https://github.com/palacms/palacms) - Pala (formerly Primo) is a modern monolithic CMS that gives devs the control they need and content editors the simplicity they've always wanted.
 - [fictionco/fiction](https://github.com/fictionco/fiction) - (Join Waiting List) Personal Marketing Platform. A powerful platform for your online identity.
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The superpowered headless CMS for Node.js — built with GraphQL and React
@@ -1103,7 +1104,7 @@
 
 ## github-api 
 
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, improved security, mobile support + 100s of improvements. Framework-agnostic, open source &
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
@@ -1186,6 +1187,7 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+- [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [MelihAltintas/vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Web map Vue 3.x components with the power of OpenLayers
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
@@ -2186,7 +2188,6 @@
 - [hieuhani/nuxt-multi-tenancy](https://github.com/hieuhani/nuxt-multi-tenancy) - Nuxt Multi Tenancy Module - multi-tenancy by sub domain for Nuxt application
 - [tfkhdyt/with-catch](https://github.com/tfkhdyt/with-catch) - Utilities that wrap promise or synchronous function to catch the error then return the result and error in consistent tuple format.
 - [w3cj/stoker](https://github.com/w3cj/stoker) - Utilities for hono and @hono/zod-openapi
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [vkurko/calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource & timeline views
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
 - [wefixers/nuxt-stripe](https://github.com/wefixers/nuxt-stripe) - Nuxt module for Stripe, with local webhook testing support out of the box.
@@ -2211,7 +2212,6 @@
 - [OllieJT/schemeta](https://github.com/OllieJT/schemeta) - 
 - [mynameisvasco/sveltekit-boilerplate](https://github.com/mynameisvasco/sveltekit-boilerplate) - Sveltekit boilerplate that includes shadcn, Lucia auth, drizzle and bullmq
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
-- [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
 - [GlobalHive/vuejs-tour](https://github.com/GlobalHive/vuejs-tour) - VueJS Tour is a lightweight, simple and customizable tour plugin. It provides a quick and easy way to guide your users through your application.
 - [IgorHalfeld/migrating-nuxt2-legacy-project](https://github.com/IgorHalfeld/migrating-nuxt2-legacy-project) - This is a sample project that shows how to migrate a Nuxt 2 (nuxt-bridge) w/ Vuetify 2 project to Nuxt 3
 - [metafloor/bwip-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
@@ -2846,6 +2846,7 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [pshrmn/curi](https://github.com/pshrmn/curi) - A JavaScript router for single-page applications
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
+- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
@@ -3126,7 +3127,7 @@
 - [carstenlebek/svelte-email](https://github.com/carstenlebek/svelte-email) - Write and send emails with Svelte ✉️🚀
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, improved security, mobile support + 100s of improvements. Framework-agnostic, open source &
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [fedorovvvv/svelte-media-queries](https://github.com/fedorovvvv/svelte-media-queries) - A ✨light✨ and magical Svelte component for CSS media queries🐹
 - [fedorovvvv/svelte-floating-ui](https://github.com/fedorovvvv/svelte-floating-ui) - Svelte✨ Floating UI 🎈
@@ -3364,6 +3365,7 @@
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [w3cj/hono-open-api-starter](https://github.com/w3cj/hono-open-api-starter) - A starter template for building fully documented type-safe JSON APIs with Hono and Open API
 - [pilcrowonpaper/arctic](https://github.com/pilcrowonpaper/arctic) - OAuth 2.0 clients for popular providers
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [ankurrsinghal/svelte-legos](https://github.com/ankurrsinghal/svelte-legos) - [NOT MAINTAINING ANYMORE] A framework for Svelte Utilities 💡 Current status: 87 utilities.
 - [OpenFrenchFries/supasveltekit](https://github.com/OpenFrenchFries/supasveltekit) - Where Svelte's elegance meets Supabase's might!
 - [leoMirandaa/shadcn-vue-landing-page](https://github.com/leoMirandaa/shadcn-vue-landing-page) - New design 🎉  Vue + Shadcn-vue + TypeScript + Tailwind. Landing page template ease-to-use
@@ -3399,7 +3401,6 @@
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [sidebase/sidebase](https://github.com/sidebase/sidebase) - sidebase is the productive way to build fullstack Nuxt 3 applications:  sidebase is a web app development kit to build production ready fullstack apps quickly. We build sidebase to provide a modular, 
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
@@ -3841,6 +3842,13 @@
 - [vercel/hyper-site](https://github.com/vercel/hyper-site) - The official website for the Hyper terminal
 - [hanford/next-offline](https://github.com/hanford/next-offline) - make your Next.js application work offline using service workers via Google's workbox
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+
+## whatsapp-bot 
+
+- [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
+- [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
+- [vynect/venom](https://github.com/vynect/venom) - 🚀 Venom by VYNECT™ — Now part of ERA CONNECT™  Venom is now part of the ERA CONNECT™ ecosystem by VYNECT™, offering a freemium solution for ethical WhatsApp automation.  Automate chats, simulate inter
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
 ## windows 
 
