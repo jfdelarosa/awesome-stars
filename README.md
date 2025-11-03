@@ -221,6 +221,7 @@
 
 ## JavaScript 
 
+- [bluewave-labs/guidefox](https://github.com/bluewave-labs/guidefox) - Serve your users and increase product adoption with hints, popups, banners and helper links.
 - [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
 - [usaljs/usal](https://github.com/usaljs/usal) - USAL.js - Ultimate Scroll Animation Library - Lightweight, powerful, wonderfully simple ✨
 - [michael/svedit](https://github.com/michael/svedit) - 
@@ -595,6 +596,7 @@
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [bassjobsen/Bootstrap-3-Typeahead](https://github.com/bassjobsen/Bootstrap-3-Typeahead) - The Typeahead plugin from Twitter's Bootstrap 2 ready to use with Bootstrap 3 and Bootstrap 4
 - [jasny/bootstrap](https://github.com/jasny/bootstrap) - The missing components for your favorite front-end framework.
+- [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [HumbleSoftware/Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [marcojetson/jquery-notification](https://github.com/marcojetson/jquery-notification) - 
@@ -612,7 +614,6 @@
 
 - [mainmatter/sheepdog](https://github.com/mainmatter/sheepdog) - Sheepdog – herd your async tasks!
 - [cloudinary-community/svelte-cloudinary](https://github.com/cloudinary-community/svelte-cloudinary) - ⚡️ High-performance image delivery and uploading at scale in Svelte powered by Cloudinary.
-- [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 
 ## Markdown 
 
@@ -959,7 +960,7 @@
 - [jesperorb/intl-explorer](https://github.com/jesperorb/intl-explorer) - Intl Explorer is an interactive tool for experimenting and trying out the ECMAScript Internationalization API.
 - [Oli8/spaper](https://github.com/Oli8/spaper) - PaperCSS components for Svelte
 - [svelte-drama/suspense](https://github.com/svelte-drama/suspense) - 
-- [palacms/palacms](https://github.com/palacms/palacms) - Pala (formerly Primo) is a component-based, visual CMS built for dev↔editor collaboration.
+- [palacms/palacms](https://github.com/palacms/palacms) - Pala is a component-based CMS built for realtime dev↔editor collaboration.
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [navneetsharmaui/sveltekit-starter](https://github.com/navneetsharmaui/sveltekit-starter) - Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.
 - [mhkeller/layercake](https://github.com/mhkeller/layercake) - graphics framework for sveltejs
@@ -991,6 +992,7 @@
 
 ## TypeScript 
 
+- [joysofcode/sveltekit-remote-functions](https://github.com/joysofcode/sveltekit-remote-functions) - 🔥 SvelteKit remote functions example
 - [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [backpine/saas-kit](https://github.com/backpine/saas-kit) - 
