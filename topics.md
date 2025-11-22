@@ -3281,6 +3281,7 @@
 
 ## tailwindcss 
 
+- [n1crack/vuefinder](https://github.com/n1crack/vuefinder) - A sleek, developer-friendly file manager for Vue — organize, preview, and manage files with ease.
 - [max-got/originui-svelte](https://github.com/max-got/originui-svelte) - 
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A minimal, pixel-perfect dev portfolio, component registry, and blog.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
@@ -3581,6 +3582,7 @@
 
 ## vue 
 
+- [n1crack/vuefinder](https://github.com/n1crack/vuefinder) - A sleek, developer-friendly file manager for Vue — organize, preview, and manage files with ease.
 - [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
