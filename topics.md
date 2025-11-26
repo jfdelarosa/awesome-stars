@@ -84,6 +84,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [gulp](#gulp)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -206,6 +207,7 @@
 - [web-assembly](#web-assembly)
 - [web-components](#web-components)
 - [web-development](#web-development)
+- [web3](#web3)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -1196,6 +1198,13 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
+## gui 
+
+- [kitschpatrol/svelte-tweakpane-ui](https://github.com/kitschpatrol/svelte-tweakpane-ui) - A Svelte component library wrapping UI elements from Tweakpane, plus some additional functionality for convenience and flexibility.
+- [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [720kb/ndm](https://github.com/720kb/ndm) - :computer: npm desktop manager https://720kb.github.io/ndm
+
 ## gulp 
 
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
@@ -2177,7 +2186,7 @@
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [vercel/ai-chatbot-svelte](https://github.com/vercel/ai-chatbot-svelte) - A full-featured, hackable SvelteKit AI chatbot built by Vercel
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
-- [michael/svedit](https://github.com/michael/svedit) - 
+- [michael/svedit](https://github.com/michael/svedit) - A tiny library for building editable websites in Svelte
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [tailark/blocks](https://github.com/tailark/blocks) - Shadcn marketing blocks
@@ -3873,6 +3882,10 @@
 - [redom/redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+## web3 
+
+- [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 
 ## webapp 
 
