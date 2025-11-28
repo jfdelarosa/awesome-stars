@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [ajax](#ajax)
@@ -226,6 +227,17 @@
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [Kamona-WD/tailwindcss-perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - A little bit of utility classes related to css 3d transform
 - [troisjs/trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
+
+## agent 
+
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+- [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
+- [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 
 ## ai 
 
@@ -2200,7 +2212,6 @@
 - [tailark/blocks](https://github.com/tailark/blocks) - Shadcn marketing blocks
 - [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
 - [dsa/fast-voice-assistant](https://github.com/dsa/fast-voice-assistant) - ⚡ Insanely fast AI voice assistant with &lt;500ms response times
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [useautumn/autumn](https://github.com/useautumn/autumn) - Autumn is an open-source pricing & billing platform
 - [Unstructured-IO/unstructured-api](https://github.com/Unstructured-IO/unstructured-api) - 
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
