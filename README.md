@@ -235,6 +235,7 @@
 - [new-data-services/tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) - Extended animation utilities for Tailwind CSS
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
+- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 - [Hugo-Dz/on-device-transcription](https://github.com/Hugo-Dz/on-device-transcription) - A ready-to-use, minimal app that converts any speech into text.
 - [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
 - [metaskills/experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
@@ -904,6 +905,7 @@
 
 ## Svelte 
 
+- [ObelusFi/trioxide](https://github.com/ObelusFi/trioxide) - Svelte 5 customizable components, focused on non-trivial UI pieces that are tedious to reimplement.
 - [SikandarJODD/ai-elements](https://github.com/SikandarJODD/ai-elements) - Svelte AI Elements is a custom registry built on top of shadcn-svelte to help you build AI-native applications faster.
 - [EpicAlbin03/shadcn-studio-svelte](https://github.com/EpicAlbin03/shadcn-studio-svelte) - shadcn/studio, but for Svelte. ✨
 - [vercel/ai-chatbot-svelte](https://github.com/vercel/ai-chatbot-svelte) - A full-featured, hackable SvelteKit AI chatbot built by Vercel
@@ -1095,7 +1097,6 @@
 - [Eronred/handy-arrows](https://github.com/Eronred/handy-arrows) - A gallery of hand-drawn arrows and other design resources as SVGs that can be easily copied as SVG code or React components for use in your projects.
 - [Barbapapazes/nuxt-authorization](https://github.com/Barbapapazes/nuxt-authorization) - Authorization module for managing permissions inside a Nuxt app.
 - [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
-- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 - [kakajuro/tidytube](https://github.com/kakajuro/tidytube) - An open source browser extension to help declutter Youtube's UI
 - [etherCorps/svelte-h2j](https://github.com/etherCorps/svelte-h2j) - A library which uses svelte compiler to convert html & css to jsx. Useful for using satori with svelte & Kit
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -1114,7 +1115,7 @@
 - [dnnsjsk/glaze](https://github.com/dnnsjsk/glaze) - The utility-based animation framework for the web.
 - [SikandarJODD/portfolio-template](https://github.com/SikandarJODD/portfolio-template) - Minimalist Developer Portfolio Template using Svelte, Inspired from Magic UI
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works everywhere.
-- [Bekacru/better-fetch](https://github.com/Bekacru/better-fetch) - Advanced fetch wrapper for typescript
+- [better-auth/better-fetch](https://github.com/better-auth/better-fetch) - Advanced fetch wrapper for typescript
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [OllieJT/create-sva](https://github.com/OllieJT/create-sva) - 
 - [OllieJT/schemeta](https://github.com/OllieJT/schemeta) - 
@@ -1135,7 +1136,7 @@
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [posva/pinia-colada](https://github.com/posva/pinia-colada) - 🍹 The smart data fetching layer for Vue
-- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
+- [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework
 - [atinux/nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils) - Add Authentication to Nuxt applications with secured & sealed cookies sessions.
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
 - [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
