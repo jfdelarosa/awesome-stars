@@ -640,7 +640,7 @@
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [Mortalife/trigger-dev-coolify](https://github.com/Mortalife/trigger-dev-coolify) - A repo containing a docker-compose that runs trigger.dev on coolify, with additional instructions
 - [philrox/n8n-workflows](https://github.com/philrox/n8n-workflows) - 
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [better-auth/awesome](https://github.com/better-auth/awesome) - A curated list of awesome things related to better-auth
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
@@ -868,7 +868,7 @@
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
 
 ## SCSS 
 
@@ -905,7 +905,7 @@
 
 ## Svelte 
 
-- [accretional/statue](https://github.com/accretional/statue) - Statue: Svelte Static Site Generator with CMS features, launch a website for your SaaS/blog/portfolio/company/idea in seconds, with one-line setup
+- [accretional/statue](https://github.com/accretional/statue) - Statue: Svelte + Markdown Static Site Generator, launch a website for your business, blog, portfolio, or product in seconds, with one-line setup
 - [SikandarJODD/ai-elements](https://github.com/SikandarJODD/ai-elements) - Svelte AI Elements is a custom registry built on top of shadcn-svelte to help you build AI-native applications faster.
 - [EpicAlbin03/shadcn-studio-svelte](https://github.com/EpicAlbin03/shadcn-studio-svelte) - shadcn/studio, but for Svelte. ✨
 - [vercel/ai-chatbot-svelte](https://github.com/vercel/ai-chatbot-svelte) - A full-featured, hackable SvelteKit AI chatbot built by Vercel
@@ -1000,7 +1000,7 @@
 - [ObelusFi/trioxide](https://github.com/ObelusFi/trioxide) - Svelte 5 customizable components, focused on non-trivial UI pieces that are tedious to reimplement.
 - [svelteplot/svelteplot](https://github.com/svelteplot/svelteplot) - Svelte Plotting Framework
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Grab any element on in your app and give it to Cursor, Claude Code, etc
-- [decocms/admin](https://github.com/decocms/admin) - Define and compose secure MCPs in TypeScript. Generate AI workflows and agents with React + Tailwind UI. Deploy anywhere.
+- [decocms/mesh](https://github.com/decocms/mesh) - Define and compose secure MCPs in TypeScript. Generate AI workflows and agents with React + Tailwind UI. Deploy anywhere.
 - [IcelandicIcecream/aphex](https://github.com/IcelandicIcecream/aphex) - A modern, extensible headless CMS built with SvelteKit, featuring a portable core package, database/storage agnostic adapters, and a Sanity-inspired admin interface.
 - [hanielu/motion-svelte](https://github.com/hanielu/motion-svelte) - Framer Motion for Svelte 5
 - [lufium-com/svelte-runtime-template](https://github.com/lufium-com/svelte-runtime-template) - A micro runtime templating engine for svelte
@@ -1008,7 +1008,7 @@
 - [midday-ai/ai-sdk-tools](https://github.com/midday-ai/ai-sdk-tools) - Essential utilities for building production-ready AI applications with Vercel AI SDK. State management, debugging, structured streaming, intelligent agents, and caching.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [backpine/saas-kit](https://github.com/backpine/saas-kit) - 
-- [bmdavis419/river](https://github.com/bmdavis419/river) - the sane way to work with ai agent streams (type safety and stream resuming out of the box)
+- [davis7dotsh/river](https://github.com/davis7dotsh/river) - the sane way to work with ai agent streams (type safety and stream resuming out of the box)
 - [beynar/svelte-streamdown](https://github.com/beynar/svelte-streamdown) - Svelte port of Streamdown
 - [khromov/svelte-llm-mcp](https://github.com/khromov/svelte-llm-mcp) - Svelte developer documentation as an MCP and in llms.txt format
 - [antfu/starter-ts](https://github.com/antfu/starter-ts) - Starter template for TypeScript library
