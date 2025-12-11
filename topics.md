@@ -78,6 +78,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [gamedev](#gamedev)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -245,9 +246,9 @@
 - [SikandarJODD/ai-elements](https://github.com/SikandarJODD/ai-elements) - Svelte AI Elements is a custom registry built on top of shadcn-svelte to help you build AI-native applications faster.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Grab any element on in your app and give it to Cursor, Claude Code, etc
-- [decocms/admin](https://github.com/decocms/admin) - Define and compose secure MCPs in TypeScript. Generate AI workflows and agents with React + Tailwind UI. Deploy anywhere.
+- [decocms/mesh](https://github.com/decocms/mesh) - Define and compose secure MCPs in TypeScript. Generate AI workflows and agents with React + Tailwind UI. Deploy anywhere.
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.
-- [bmdavis419/river](https://github.com/bmdavis419/river) - the sane way to work with ai agent streams (type safety and stream resuming out of the box)
+- [davis7dotsh/river](https://github.com/davis7dotsh/river) - the sane way to work with ai agent streams (type safety and stream resuming out of the box)
 - [beynar/svelte-streamdown](https://github.com/beynar/svelte-streamdown) - Svelte port of Streamdown
 - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
@@ -271,7 +272,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
@@ -1131,6 +1132,11 @@
 
 - [replit/kaboom](https://github.com/replit/kaboom) - 💥 JavaScript game library
 
+## generative-ai 
+
+- [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
+- [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
+
 ## git 
 
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
@@ -1744,7 +1750,7 @@
 ## llm 
 
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
-- [decocms/admin](https://github.com/decocms/admin) - Define and compose secure MCPs in TypeScript. Generate AI workflows and agents with React + Tailwind UI. Deploy anywhere.
+- [decocms/mesh](https://github.com/decocms/mesh) - Define and compose secure MCPs in TypeScript. Generate AI workflows and agents with React + Tailwind UI. Deploy anywhere.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
@@ -1834,7 +1840,7 @@
 
 ## markdown 
 
-- [accretional/statue](https://github.com/accretional/statue) - Statue: Svelte Static Site Generator with CMS features, launch a website for your SaaS/blog/portfolio/company/idea in seconds, with one-line setup
+- [accretional/statue](https://github.com/accretional/statue) - Statue: Svelte + Markdown Static Site Generator, launch a website for your business, blog, portfolio, or product in seconds, with one-line setup
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [cherfia/chromiumly](https://github.com/cherfia/chromiumly) - A lightweight Typescript library that interacts with Gotenberg's different modules to convert a variety of document formats to PDF files.
@@ -2040,7 +2046,7 @@
 
 ## nodejs 
 
-- [decocms/admin](https://github.com/decocms/admin) - Define and compose secure MCPs in TypeScript. Generate AI workflows and agents with React + Tailwind UI. Deploy anywhere.
+- [decocms/mesh](https://github.com/decocms/mesh) - Define and compose secure MCPs in TypeScript. Generate AI workflows and agents with React + Tailwind UI. Deploy anywhere.
 - [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
@@ -2111,7 +2117,6 @@
 
 ## npm 
 
-- [decocms/admin](https://github.com/decocms/admin) - Define and compose secure MCPs in TypeScript. Generate AI workflows and agents with React + Tailwind UI. Deploy anywhere.
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [Tsuzat/Edra](https://github.com/Tsuzat/Edra) - Fully controllable and best rich text editor for Svelte Developers
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
@@ -2129,7 +2134,7 @@
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 6 lines of code
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, 
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
@@ -2216,7 +2221,6 @@
 - [Unstructured-IO/unstructured-api](https://github.com/Unstructured-IO/unstructured-api) - 
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-- [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [rocicorp/mono](https://github.com/rocicorp/mono) - 99% of Queries in Zero Milliseconds
 - [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) - Sets of custom extensions & toolbars for tiptap editor. Install with shadcn/cli.
@@ -2851,7 +2855,7 @@
 ## react 
 
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Grab any element on in your app and give it to Cursor, Claude Code, etc
-- [bmdavis419/river](https://github.com/bmdavis419/river) - the sane way to work with ai agent streams (type safety and stream resuming out of the box)
+- [davis7dotsh/river](https://github.com/davis7dotsh/river) - the sane way to work with ai agent streams (type safety and stream resuming out of the box)
 - [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - animated page transition for major ssr frameworks and browsers, including Safari
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
@@ -3026,7 +3030,7 @@
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
 
 ## sass 
 
@@ -3162,13 +3166,13 @@
 
 ## svelte 
 
-- [accretional/statue](https://github.com/accretional/statue) - Statue: Svelte Static Site Generator with CMS features, launch a website for your SaaS/blog/portfolio/company/idea in seconds, with one-line setup
+- [accretional/statue](https://github.com/accretional/statue) - Statue: Svelte + Markdown Static Site Generator, launch a website for your business, blog, portfolio, or product in seconds, with one-line setup
 - [ObelusFi/trioxide](https://github.com/ObelusFi/trioxide) - Svelte 5 customizable components, focused on non-trivial UI pieces that are tedious to reimplement.
 - [SikandarJODD/ai-elements](https://github.com/SikandarJODD/ai-elements) - Svelte AI Elements is a custom registry built on top of shadcn-svelte to help you build AI-native applications faster.
 - [svelteplot/svelteplot](https://github.com/svelteplot/svelteplot) - Svelte Plotting Framework
 - [IcelandicIcecream/aphex](https://github.com/IcelandicIcecream/aphex) - A modern, extensible headless CMS built with SvelteKit, featuring a portable core package, database/storage agnostic adapters, and a Sanity-inspired admin interface.
 - [hanielu/motion-svelte](https://github.com/hanielu/motion-svelte) - Framer Motion for Svelte 5
-- [bmdavis419/river](https://github.com/bmdavis419/river) - the sane way to work with ai agent streams (type safety and stream resuming out of the box)
+- [davis7dotsh/river](https://github.com/davis7dotsh/river) - the sane way to work with ai agent streams (type safety and stream resuming out of the box)
 - [beynar/svelte-streamdown](https://github.com/beynar/svelte-streamdown) - Svelte port of Streamdown
 - [didier/formshape](https://github.com/didier/formshape) - Type-safe form validation for SvelteKit Remote Functions using Standard Schema compatible validators.
 - [max-got/originui-svelte](https://github.com/max-got/originui-svelte) - 
@@ -3442,9 +3446,9 @@
 
 ## typescript 
 
-- [decocms/admin](https://github.com/decocms/admin) - Define and compose secure MCPs in TypeScript. Generate AI workflows and agents with React + Tailwind UI. Deploy anywhere.
+- [decocms/mesh](https://github.com/decocms/mesh) - Define and compose secure MCPs in TypeScript. Generate AI workflows and agents with React + Tailwind UI. Deploy anywhere.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
-- [bmdavis419/river](https://github.com/bmdavis419/river) - the sane way to work with ai agent streams (type safety and stream resuming out of the box)
+- [davis7dotsh/river](https://github.com/davis7dotsh/river) - the sane way to work with ai agent streams (type safety and stream resuming out of the box)
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
