@@ -800,6 +800,7 @@
 
 ## Python 
 
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [mdamien/chrome-extensions-archive](https://github.com/mdamien/chrome-extensions-archive) - :pager: Archive all the chrome extensions (until Feb 4. 2019)
 - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
@@ -816,7 +817,7 @@
 - [collabora/WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
-- [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) - 🧠🔗 From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM framework built with decade old Deep Learning best practices
+- [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) - From idea to production in just few lines: Graph-Based Programmable Neuro-Symbolic LM Framework - a production-first LM framework built with decade old Deep Learning best practices
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 6 lines of code
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
@@ -998,8 +999,8 @@
 ## TypeScript 
 
 - [ObelusFi/trioxide](https://github.com/ObelusFi/trioxide) - Svelte 5 customizable components, focused on non-trivial UI pieces that are tedious to reimplement.
-- [svelteplot/svelteplot](https://github.com/svelteplot/svelteplot) - Svelte Plotting Framework
-- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Grab any element on in your app and give it to Cursor, Claude Code, etc
+- [svelteplot/svelteplot](https://github.com/svelteplot/svelteplot) - Svelte-native plotting framework based on the grammar of graphics
+- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 - [decocms/mesh](https://github.com/decocms/mesh) - Define and compose secure MCPs in TypeScript. Generate AI workflows and agents with React + Tailwind UI. Deploy anywhere.
 - [IcelandicIcecream/aphex](https://github.com/IcelandicIcecream/aphex) - A modern, extensible headless CMS built with SvelteKit, featuring a portable core package, database/storage agnostic adapters, and a Sanity-inspired admin interface.
 - [hanielu/motion-svelte](https://github.com/hanielu/motion-svelte) - Framer Motion for Svelte 5
@@ -1322,7 +1323,7 @@
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
