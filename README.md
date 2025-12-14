@@ -30,6 +30,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Reason](#reason)
+- [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -79,7 +80,6 @@
 - [TechRandom/Arduino-Audio-Visualizer](https://github.com/TechRandom/Arduino-Audio-Visualizer) - 
 - [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [rmorenojr/ElegooTutorial](https://github.com/rmorenojr/ElegooTutorial) - Elegoo tutorials - revised sketches and diagrams for each Elegoo Lesson
-- [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [node-hid/node-hid](https://github.com/node-hid/node-hid) - Access USB & Bluetooth HID devices through Node.js
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
@@ -175,7 +175,6 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [hybridgroup/gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
 
 ## HTML 
 
@@ -453,6 +452,7 @@
 - [openfext/vue-form-builder](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api.
 - [ksquareincmx/conference-client](https://github.com/ksquareincmx/conference-client) - 
 - [lelylan/simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
+- [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [turtle-DB/tortoiseDB](https://github.com/turtle-DB/tortoiseDB) - Official tortoiseDB adapter for turtleDB
 - [turtle-DB/turtleDB](https://github.com/turtle-DB/turtleDB) - Official turtleDB project
 - [pshrmn/curi](https://github.com/pshrmn/curi) - A JavaScript router for single-page applications
@@ -850,6 +850,10 @@
 
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
 
+## Rich Text Format 
+
+- [astappiev/thumbnailator](https://github.com/astappiev/thumbnailator) - A file preview generator
+
 ## Ruby 
 
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -870,6 +874,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
+- [nikivdev/rust](https://github.com/nikivdev/rust) - Rust tools, libraries and other code
 
 ## SCSS 
 
