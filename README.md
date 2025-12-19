@@ -56,7 +56,7 @@
 ## Astro 
 
 - [coderdiaz/cvfolio](https://github.com/coderdiaz/cvfolio) - Minimalist personal site inspired by ReadCV, clean and aesthetic. Built with Astro and TailwindCSS perfect for developers and designers.
-- [fulldotdev/ui](https://github.com/fulldotdev/ui) - The Astro UI library to build content sites
+- [fulldotdev/ui](https://github.com/fulldotdev/ui) - Astro UI component and block library compatible with shadcn/ui
 - [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip, brotli and zstd compressor for Astro
 
 ## C 
@@ -291,7 +291,6 @@
 - [shentao/vue-multiselect](https://github.com/shentao/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js
 - [nhn/tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
-- [polotno-project/polotno-studio](https://github.com/polotno-project/polotno-studio) - Free online Design Editor.
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
 - [silkimen/cordova-plugin-advanced-http](https://github.com/silkimen/cordova-plugin-advanced-http) - Cordova / Phonegap plugin for communicating with HTTP servers.  Allows for SSL pinning!
 - [recombee/node-api-client](https://github.com/recombee/node-api-client) - Node.js client for easy use of the Recombee recommendation API
@@ -511,7 +510,6 @@
 - [edgarnadal/vue-tidyroutes](https://github.com/edgarnadal/vue-tidyroutes) - Tidy routes definitions across your entire project
 - [theomessin/vue-chat-scroll](https://github.com/theomessin/vue-chat-scroll) - 🖱️ Vue directive to keep things scrolled to the bottom.
 - [scriptPilot/app-framework](https://github.com/scriptPilot/app-framework) - Applications for any device with HTML, CSS and JavaScript - free and open source!
-- [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [leonardovilarinho/vue-acl](https://github.com/leonardovilarinho/vue-acl) - Access Control List plugin for VueJS 2.0
 - [qidaizhe11/el-table-wrapper](https://github.com/qidaizhe11/el-table-wrapper) - [DEPRECATED] A Vue2 table component based on el-table of Element UI.
 - [ynishi/vuecsv](https://github.com/ynishi/vuecsv) - CSV components for Vue.js
@@ -974,7 +972,7 @@
 - [jesperorb/intl-explorer](https://github.com/jesperorb/intl-explorer) - Intl Explorer is an interactive tool for experimenting and trying out the ECMAScript Internationalization API.
 - [Oli8/spaper](https://github.com/Oli8/spaper) - PaperCSS components for Svelte
 - [svelte-drama/suspense](https://github.com/svelte-drama/suspense) - 
-- [palacms/palacms](https://github.com/palacms/palacms) - Next-gen monolithic CMS built for developer control + editor joy
+- [palacms/palacms](https://github.com/palacms/palacms) - Component-based CMS with a built-in IDE, visual editing, and static site generation. One server, unlimited sites.
 - [janosh/awesome-sveltekit](https://github.com/janosh/awesome-sveltekit) - Awesome examples of SvelteKit in the wild
 - [navneetsharmaui/sveltekit-starter](https://github.com/navneetsharmaui/sveltekit-starter) - Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.
 - [mhkeller/layercake](https://github.com/mhkeller/layercake) - graphics framework for sveltejs
@@ -1418,6 +1416,7 @@
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [rachmanzz/vue-inview](https://github.com/rachmanzz/vue-inview) - vue-plugin for in-view package
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [firebase/geofire-js](https://github.com/firebase/geofire-js) - GeoFire for JavaScript - Realtime location queries with Firebase
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [davideast/Querybase](https://github.com/davideast/Querybase) - Bringing the where statement to the Firebase Database.
