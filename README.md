@@ -768,7 +768,6 @@
 - [nette/database](https://github.com/nette/database) - 💾 A database layer with a familiar PDO-like API but much more powerful. Building queries, advanced joins, drivers for MySQL, PostgreSQL, SQLite, MS SQL Server and Oracle.
 - [sruupl/batflat](https://github.com/sruupl/batflat) - Lightweight, fast and easy CMS for free. Bootstrap ready.  https://batflat.org
 - [kenjis/codeigniter-widgets](https://github.com/kenjis/codeigniter-widgets) - CodeIgniter Widget (View Partial) Sample
-- [havok89/Hoosk](https://github.com/havok89/Hoosk) - Hoosk Codeigniter CMS
 - [AsgardCms/Platform](https://github.com/AsgardCms/Platform) - A modular multilingual CMS built with Laravel 5.
 - [ci-blox/Ignition-Go](https://github.com/ci-blox/Ignition-Go) - Bootstrap4 /Codeigniter 3 Modular (HMVC) App Building Framework - to build enterprise class web applications...  Versions: CodeIgniter 3.1.9  AdminLTE 3.0.5 Bootstrap 4.5.0
 - [eliasis-framework/eliasis](https://github.com/eliasis-framework/eliasis) - HMVC web framework for development dynamic web sites with PHP.
