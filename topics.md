@@ -541,6 +541,7 @@
 
 ## backend 
 
+- [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
@@ -589,6 +590,7 @@
 
 ## chatbot 
 
+- [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
 - [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
 - [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
 - [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
@@ -745,7 +747,7 @@
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [Kamona-WD/tailwindcss-perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - A little bit of utility classes related to css 3d transform
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
-- [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
+- [jacopo-eth/nightwind](https://github.com/jacopo-eth/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
 - [rossrobino/uico](https://github.com/rossrobino/uico) - Comprehensive Styling with Modern CSS
 - [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
@@ -889,6 +891,7 @@
 
 ## developer-tools 
 
+- [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -1137,6 +1140,7 @@
 
 ## generative-ai 
 
+- [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 
@@ -1750,6 +1754,7 @@
 
 ## llm 
 
+- [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [decocms/mesh](https://github.com/decocms/mesh) - One secure endpoint for every MCP server. Deploy anywhere.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
@@ -1778,7 +1783,7 @@
 
 ## localization 
 
-- [opral/monorepo](https://github.com/opral/monorepo) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
+- [opral/inlang](https://github.com/opral/inlang) - lix (change control system) && inlang (globalization ecosystem for software built on lix)
 - [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript UI framework with unique declarative and functional architecture
 
 ## login 
@@ -2831,6 +2836,7 @@
 
 ## rag 
 
+- [unbody-io/unbody](https://github.com/unbody-io/unbody) - The Supabase of AI era. A modular, open-source backend for building AI-native software — designed for knowledge, not static data.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -3336,7 +3342,7 @@
 - [scosman/CMSaasStarter](https://github.com/scosman/CMSaasStarter) - A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.
 - [brettgullan/tailwindcss-scrims](https://github.com/brettgullan/tailwindcss-scrims) - Configurable Tailwind plugin for generating scrim classes.
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
-- [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
+- [jacopo-eth/nightwind](https://github.com/jacopo-eth/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
 - [praveenjuge/kutty](https://github.com/praveenjuge/kutty) - Kutty is a tailwind plugin for building web applications. It has a set of accessible and reusable components that are commonly used in web applications.
 - [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
@@ -3391,7 +3397,7 @@
 - [brettgullan/tailwindcss-scrims](https://github.com/brettgullan/tailwindcss-scrims) - Configurable Tailwind plugin for generating scrim classes.
 - [Kamona-WD/tailwindcss-perspective](https://github.com/Kamona-WD/tailwindcss-perspective) - A little bit of utility classes related to css 3d transform
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
-- [jjranalli/nightwind](https://github.com/jjranalli/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
+- [jacopo-eth/nightwind](https://github.com/jacopo-eth/nightwind) - An automatic, customisable, overridable Tailwind dark mode plugin
 - [praveenjuge/kutty](https://github.com/praveenjuge/kutty) - Kutty is a tailwind plugin for building web applications. It has a set of accessible and reusable components that are commonly used in web applications.
 - [themesberg/landwind](https://github.com/themesberg/landwind) - Responsive and clean landing page built with Tailwind CSS and Flowbite
 - [ImBIOS/tailwind-color-filter-generator](https://github.com/ImBIOS/tailwind-color-filter-generator) - Generate custom css and tailwind filter property to achieve any target color 🎨
