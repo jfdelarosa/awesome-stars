@@ -150,7 +150,7 @@
 
 ## Go 
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [bhaskarblur/NeoBaseAI-Copilot-for-database](https://github.com/bhaskarblur/NeoBaseAI-Copilot-for-database) - Your AI Data Copilot - Interact with your data sources and analyse your data, operations effortlessly with a sleek, neo-brutalism interface. Chat with your data in real-time, get results, and visualiz
 - [denandz/sourcemapper](https://github.com/denandz/sourcemapper) - Extract JavaScript source trees from Sourcemap files
 - [goravel/goravel](https://github.com/goravel/goravel) - The full-featured Golang Development Framework skeleton
