@@ -2232,6 +2232,7 @@
 
 ## others 
 
+- [herolabid/podpdf](https://github.com/herolabid/podpdf) - **Ultra-fast, zero-dependency PDF generation for Node.js & Bun**
 - [multiplehats/better-auth-ui-svelte](https://github.com/multiplehats/better-auth-ui-svelte) - Beautiful shadcn/ui components in Svelte built for better-auth.
 - [GauBen/svelte-emails](https://github.com/GauBen/svelte-emails) - Create emails with Svelte and Vite!
 - [GeKorm/better-auth-harmony](https://github.com/GeKorm/better-auth-harmony) - Normalize emails/phone numbers and block throwaway domains with Better Auth
