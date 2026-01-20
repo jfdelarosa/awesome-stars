@@ -1782,7 +1782,7 @@
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
-- [openchatai/copilot](https://github.com/openchatai/copilot) - 
+- [opencx-labs/copilot](https://github.com/opencx-labs/copilot) - 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 
 ## localization 
@@ -2235,6 +2235,7 @@
 
 ## others 
 
+- [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
 - [herolabid/podpdf](https://github.com/herolabid/podpdf) - **Ultra-fast, zero-dependency PDF generation for Node.js & Bun**
 - [multiplehats/better-auth-ui-svelte](https://github.com/multiplehats/better-auth-ui-svelte) - Beautiful shadcn/ui components in Svelte built for better-auth.
 - [GauBen/svelte-emails](https://github.com/GauBen/svelte-emails) - Create emails with Svelte and Vite!
@@ -2322,7 +2323,7 @@
 - [zenstackhq/sample-todo-nuxt](https://github.com/zenstackhq/sample-todo-nuxt) - A complete Todo app sample built with ZenStack and Nuxt 3
 - [karthikmudunuri/eldoraui](https://github.com/karthikmudunuri/eldoraui) - Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.
 - [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop) - Localhost SSL Proxy Server Manager using Docker
-- [dnnsjsk/glaze](https://github.com/dnnsjsk/glaze) - The utility-based animation framework for the web.
+- [inline0/glaze](https://github.com/inline0/glaze) - The utility-based animation framework for the web.
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works everywhere.
 - [better-auth/better-fetch](https://github.com/better-auth/better-fetch) - Advanced fetch wrapper for typescript
 - [OllieJT/create-sva](https://github.com/OllieJT/create-sva) - 
