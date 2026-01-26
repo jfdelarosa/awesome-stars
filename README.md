@@ -1207,7 +1207,7 @@
 - [laudspeaker/laudspeaker](https://github.com/laudspeaker/laudspeaker) - 📢 Laudspeaker is an Open Source Customer Engagement and Product Onboarding Platform. Open Source alternative to  Braze /  One Signal / Customer Io / Appcues / Pendo . Use Laudspeaker to design product
 - [swyxio/svelte-actions](https://github.com/swyxio/svelte-actions) - prototype official actions for Svelte
 - [Hugos68/svelte-maskify](https://github.com/Hugos68/svelte-maskify) - Svelte action wrapper for masking inputs.
-- [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
+- [nraiden/openv0](https://github.com/nraiden/openv0) - AI generated UI components
 - [rkanik/sveltuse](https://github.com/rkanik/sveltuse) - Collection of essential Svelte Composition Utilities for Svelte and Sveltekit
 - [j4w8n/supakit](https://github.com/j4w8n/supakit) - A Supabase authentication helper for SvelteKit
 - [multiplehats/jaydens-stack](https://github.com/multiplehats/jaydens-stack) - A modern, efficient, and feature-packed monorepo boilerplate. Uses SvelteKit, tRPC, Shadcn, Tailwind CSS and Turborepo
