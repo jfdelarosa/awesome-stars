@@ -101,7 +101,7 @@
 - [OssamaZ/One-ui-kit](https://github.com/OssamaZ/One-ui-kit) - Minimal ui kit for Bootstrap 4
 - [codyhouse/codyhouse-framework](https://github.com/codyhouse/codyhouse-framework) - A lightweight front-end framework for building accessible, bespoke interfaces.
 - [bradtraversy/codegig](https://github.com/bradtraversy/codegig) - Simple job find app for coders
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 - [DesignRevision/shards-ui](https://github.com/DesignRevision/shards-ui) - 🎨Shards is a beautiful & modern Bootstrap 4 UI kit packed with extra templates and components.
 - [fians/marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [Automattic/_s](https://github.com/Automattic/_s) - Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes.
