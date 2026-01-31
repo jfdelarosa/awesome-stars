@@ -1054,7 +1054,7 @@
 - [useautumn/autumn](https://github.com/useautumn/autumn) - Autumn is an open-source pricing & billing platform
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [meer-sagor/wavesurfer-vue](https://github.com/meer-sagor/wavesurfer-vue) - A Vue 3 component for wavesurfer.js. This component simplifies the usage of wavesurfer.js in Vue.js, with all familiar wavesurfer options available as Vue props.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Framework for building agent-native applications with Generative UI, shared state, and human-in-the-loop workflows.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
