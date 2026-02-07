@@ -1027,7 +1027,7 @@
 - [ArvorCo/Relentless](https://github.com/ArvorCo/Relentless) - Universal AI Agent Orchestrator - Run any AI coding agent (Claude Code, Amp, OpenCode, Codex, Droid, Gemini) repeatedly until all tasks are complete
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [Avijit07x/animateicons](https://github.com/Avijit07x/animateicons) - Free and open-source animated SVG icons for React, built for smooth micro-interactions, easy customization, and lightweight performance.
-- [21st-dev/1code](https://github.com/21st-dev/1code) - Best UI for Claude Code
+- [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Codes)
 - [liveloveapp/hashbrown](https://github.com/liveloveapp/hashbrown) - Hashbrown is a framework for building agents that run the browser. Built for Angular and React.
 - [herolabid/podpdf](https://github.com/herolabid/podpdf) - **Ultra-fast, zero-dependency PDF generation for Node.js & Bun**
 - [GeKorm/better-auth-harmony](https://github.com/GeKorm/better-auth-harmony) - Normalize emails/phone numbers and block throwaway domains with Better Auth
