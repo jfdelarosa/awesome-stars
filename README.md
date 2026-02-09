@@ -29,6 +29,7 @@
 - [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Python](#python)
 - [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
@@ -806,6 +807,10 @@
 - [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google.
 - [feulf/raintpl](https://github.com/feulf/raintpl) - Easy Php Template Engine
 - [jwalanta/tit](https://github.com/jwalanta/tit) - Tiny Issue Tracker (PHP/SQLite, one-file issue tracker)
+
+## PLpgSQL 
+
+- [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 
 ## Python 
 
