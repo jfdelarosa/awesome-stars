@@ -57,7 +57,7 @@
 
 ## Astro 
 
-- [coderdiaz/cvfolio](https://github.com/coderdiaz/cvfolio) - Minimalist personal site inspired by ReadCV, clean and aesthetic. Built with Astro and TailwindCSS perfect for developers and designers.
+- [coderdiaz/cvfolio](https://github.com/coderdiaz/cvfolio) - Minimalist, clean and aesthetic personal site inspired by ReadCV. Built with Astro.
 - [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations) - Easy peasy animations for your Tailwind project
 - [fulldotdev/ui](https://github.com/fulldotdev/ui) - Astro UI component and block library compatible with shadcn/ui
 - [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip, brotli and zstd compressor for Astro
@@ -1192,7 +1192,7 @@
 - [oliverdunk/web-extension-playground](https://github.com/oliverdunk/web-extension-playground) - Playground for building Web Extensions
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [vite-pwa/sveltekit](https://github.com/vite-pwa/sveltekit) - Zero-config PWA Plugin for SvelteKit
-- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [advanced-astro/min](https://github.com/advanced-astro/min) - Extremely ⚡ Fast and Smart HTML 🟠 JS 🟡 CSS 🔵 SVG 🟣 Minification
 - [PlayForm/Compress](https://github.com/PlayForm/Compress) - Compress 🗜️
