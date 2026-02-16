@@ -2246,6 +2246,7 @@
 
 ## others 
 
+- [SikandarJODD/animations](https://github.com/SikandarJODD/animations) - Svelte 5 Animations
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [krankos/chat-ytchannel](https://github.com/krankos/chat-ytchannel) - A Mastra template that let's you chat with youtube videos.
 - [pproenca/dot-skills](https://github.com/pproenca/dot-skills) - A collection of AI agent skills following the Agent Skills open format
