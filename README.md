@@ -610,7 +610,7 @@
 - [HumbleSoftware/Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [marcojetson/jquery-notification](https://github.com/marcojetson/jquery-notification) - 
-- [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
+- [summernote/summernote](https://github.com/summernote/summernote) - Super Simple WYSIWYG Editor
 
 ## Jupyter Notebook 
 
@@ -816,6 +816,8 @@
 
 ## Python 
 
+- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
+- [pproenca/dot-skills](https://github.com/pproenca/dot-skills) - A collection of AI agent skills following the Agent Skills open format
 - [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [gtmagents/gtm-agents](https://github.com/gtmagents/gtm-agents) - Production-ready collection of GTM agents and specialized skills for claude code. Covers sales, marketing, customer success, and revenue operations workflows.
@@ -1031,7 +1033,6 @@
 
 - [getclawe/clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents.
 - [krankos/chat-ytchannel](https://github.com/krankos/chat-ytchannel) - A Mastra template that let's you chat with youtube videos.
-- [pproenca/dot-skills](https://github.com/pproenca/dot-skills) - A collection of AI agent skills following the Agent Skills open format
 - [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code".
 - [trycua/launchpad](https://github.com/trycua/launchpad) - 
 - [ArvorCo/Relentless](https://github.com/ArvorCo/Relentless) - Universal AI Agent Orchestrator - Run any AI coding agent (Claude Code, Amp, OpenCode, Codex, Droid, Gemini) repeatedly until all tasks are complete
