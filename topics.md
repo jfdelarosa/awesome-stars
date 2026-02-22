@@ -1225,7 +1225,6 @@
 
 ## good-first-issue 
 
-- [bluewave-labs/guidefox](https://github.com/bluewave-labs/guidefox) - Serve your users and increase product adoption with hints, popups, banners and helper links.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -1471,7 +1470,6 @@
 
 ## javascript 
 
-- [bluewave-labs/guidefox](https://github.com/bluewave-labs/guidefox) - Serve your users and increase product adoption with hints, popups, banners and helper links.
 - [usaljs/usal](https://github.com/usaljs/usal) - USAL.js - Ultimate Scroll Animation Library - Lightweight, powerful, wonderfully simple ✨
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
