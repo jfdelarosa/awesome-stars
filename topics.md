@@ -1771,7 +1771,7 @@
 
 ## llm 
 
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 157 models. 30 providers. One command to find what runs on your hardware.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - 206 models. 30 providers. One command to find what runs on your hardware.
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI Coding Agent Terminal Session manager via tmux and git Worktrees
@@ -2183,6 +2183,7 @@
 
 ## open-source 
 
+- [dfg-ar/numok](https://github.com/dfg-ar/numok) - Open Source tool to run you SaaS Affiliate Program on top of Stripe
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
@@ -2760,6 +2761,7 @@
 
 ## php 
 
+- [dfg-ar/numok](https://github.com/dfg-ar/numok) - Open Source tool to run you SaaS Affiliate Program on top of Stripe
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
 - [ploi/roadmap](https://github.com/ploi/roadmap) - Open source roadmapping software
@@ -3142,6 +3144,7 @@
 
 ## self-hosted 
 
+- [dfg-ar/numok](https://github.com/dfg-ar/numok) - Open Source tool to run you SaaS Affiliate Program on top of Stripe
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -3274,7 +3277,7 @@
 - [EMPTYVOID-DEV/Altron](https://github.com/EMPTYVOID-DEV/Altron) - Rich text editor as a svelte component
 - [kitschpatrol/svelte-tweakpane-ui](https://github.com/kitschpatrol/svelte-tweakpane-ui) - A Svelte component library wrapping UI elements from Tweakpane, plus some additional functionality for convenience and flexibility.
 - [OpenFrenchFries/supasveltekit](https://github.com/OpenFrenchFries/supasveltekit) - Where Svelte's elegance meets Supabase's might!
-- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
+- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps that share a single folder of plain text and SQLite.
 - [Hugo-Dz/on-device-transcription](https://github.com/Hugo-Dz/on-device-transcription) - A ready-to-use, minimal app that converts any speech into text.
 - [etherCorps/svelte-h2j](https://github.com/etherCorps/svelte-h2j) - A library which uses svelte compiler to convert html & css to jsx. Useful for using satori with svelte & Kit
 - [jasongitmail/super-sitemap](https://github.com/jasongitmail/super-sitemap) - SvelteKit sitemap focused on ease of use and making it impossible to forget to add your paths.
@@ -3447,7 +3450,7 @@
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 - [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - Interactive YouTube extension built with React, Tailwind CSS, and Plasmo. It integrates with the OpenAI API to enable real-time video chat, providing summaries, Q&A, and context-aware responses direct
 - [leoMirandaa/shadcn-vue-landing-page](https://github.com/leoMirandaa/shadcn-vue-landing-page) - New design 🎉  Vue + Shadcn-vue + TypeScript + Tailwind. Landing page template ease-to-use
-- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
+- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps that share a single folder of plain text and SQLite.
 - [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
 - [zackha/supaAuth](https://github.com/zackha/supaAuth) - A Nuxt 4 + Supabase starter template. Add Login and Register page into your Nuxt 4 project using Supabase authentication.
 - [barvian/fluid-tailwind](https://github.com/barvian/fluid-tailwind) - Build better responsive designs in less code.
