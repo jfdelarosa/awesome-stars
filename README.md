@@ -1481,6 +1481,7 @@
 
 ## Vue 
 
+- [iman-mohamadi/raya-ui](https://github.com/iman-mohamadi/raya-ui) - Raya (رایا) is a collection of high-performance, interactive Vue primitives. Black, bold, and strictly typed.
 - [n1crack/vuefinder](https://github.com/n1crack/vuefinder) - A sleek, developer-friendly file manager for Vue — organize, preview, and manage files with ease.
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.
 - [misbahansori/originui-vue](https://github.com/misbahansori/originui-vue) - An open-source collection of copy-and-paste components for quickly building application UIs.
