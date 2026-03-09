@@ -2267,6 +2267,7 @@
 
 ## others 
 
+- [iman-mohamadi/raya-ui](https://github.com/iman-mohamadi/raya-ui) - Raya (رایا) is a collection of high-performance, interactive Vue primitives. Black, bold, and strictly typed.
 - [NielsLeenheer/ReceiptPrinterEncoder](https://github.com/NielsLeenheer/ReceiptPrinterEncoder) - Create a set of commands that can be send to any receipt printer that supports ESC/POS, StarLine or StarPRNT
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [SikandarJODD/animations](https://github.com/SikandarJODD/animations) - Svelte 5 Animations
