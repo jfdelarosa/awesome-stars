@@ -507,7 +507,6 @@
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [anthonygore/vue-router-user-roles](https://github.com/anthonygore/vue-router-user-roles) - A Vue.js plugin that protects routes based on user roles. Add your own authentication.
-- [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
 - [jlord/sheetsee.js](https://github.com/jlord/sheetsee.js) - :eyes: :chart_with_upwards_trend: Visualize Data from a Google Spreadsheet
 - [redom/redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
@@ -817,6 +816,7 @@
 
 ## Python 
 
+- [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code mcp (AST based) that just works - saves 70% token and improves speed for coding agent. 🌟 Star if you like it!
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [pproenca/dot-skills](https://github.com/pproenca/dot-skills) - A collection of AI agent skills following the Agent Skills open format
@@ -1459,6 +1459,7 @@
 - [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [Vandivier/ella-framework](https://github.com/Vandivier/ella-framework) - Because KeystoneJS is honestly shit
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
 - [Jexordexan/vue-slicksort](https://github.com/Jexordexan/vue-slicksort) - A set of vue mixins to turn any list into an animated, touch-friendly, sortable list ✌️
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [rachmanzz/vue-inview](https://github.com/rachmanzz/vue-inview) - vue-plugin for in-view package
