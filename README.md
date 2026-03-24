@@ -816,6 +816,7 @@
 
 ## Python 
 
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
@@ -1041,6 +1042,7 @@
 
 ## TypeScript 
 
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [better-auth/better-hub](https://github.com/better-auth/better-hub) - Re-imagining code collaboration for humans and agents
 - [PuruVJ/aibind](https://github.com/PuruVJ/aibind) - 
 - [stratuslabs/ship](https://github.com/stratuslabs/ship) - Internal SaaS starter kit — Next.js, Supabase, Stripe, shadcn/ui
