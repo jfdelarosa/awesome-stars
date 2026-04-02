@@ -323,7 +323,6 @@
 - [SimGus/chrome-extension-v3-starter](https://github.com/SimGus/chrome-extension-v3-starter) - 🚀 Minimal Chrome extension template using manifest v3 🚀
 - [MorevM/vue-transitions](https://github.com/MorevM/vue-transitions) - Interface transitions library for Vue 2/3
 - [rdkls/gps-tracker-server](https://github.com/rdkls/gps-tracker-server) - 
-- [untemps/svelte-use-tooltip](https://github.com/untemps/svelte-use-tooltip) - Svelte action to display a tooltip
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
@@ -1043,6 +1042,7 @@
 
 ## TypeScript 
 
+- [bundui/shadcn-admin-dashboard-free](https://github.com/bundui/shadcn-admin-dashboard-free) - Shadcn UI Kit is a comprehensive collection of ready-to-use admin dashboards, website templates, and customizable components. This is a free version. Use the link to get PRO.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [mudiageo/sveltekit-sync](https://github.com/mudiageo/sveltekit-sync) - Local-first sync-engine library for SvelteKit
@@ -1347,6 +1347,7 @@
 - [lukasborawski/vue-use-variant](https://github.com/lukasborawski/vue-use-variant) - Vue.js CSS class variant resolver. Presented as a handy composable.
 - [storyblok/storyblok-svelte](https://github.com/storyblok/storyblok-svelte) - Svelte SDK for Storyblok CMS
 - [omer-g/persistent-svelte-store](https://github.com/omer-g/persistent-svelte-store) - A generic persistent store according to the Svelte store contract
+- [untemps/svelte-use-tooltip](https://github.com/untemps/svelte-use-tooltip) - Svelte action to display a tooltip
 - [patak-cat/vite-plugin-terminal](https://github.com/patak-cat/vite-plugin-terminal) - Log in the node terminal from the browser
 - [wobsoriano/pinia-shared-state](https://github.com/wobsoriano/pinia-shared-state) - 🍍 Sync your Pinia state across browser tabs.
 - [victorybiz/vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
