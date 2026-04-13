@@ -288,7 +288,6 @@
 - [joshnuss/sveltekit-stripe-subscriptions](https://github.com/joshnuss/sveltekit-stripe-subscriptions) - Example of Stripe Subscriptions & PaymentElement with SvelteKit
 - [adityadees/sveltekit-js-docker](https://github.com/adityadees/sveltekit-js-docker) - skelton dockerized sveltekit JS HMR dev and build multi adapter for node server and static build SSG
 - [joshnuss/svelte-kit-with-docker](https://github.com/joshnuss/svelte-kit-with-docker) - Run your SvelteKit dev environment with Docker
-- [sauravhathi/atsresume](https://github.com/sauravhathi/atsresume) - ATSResume | Get hired with an ATS-optimized resume
 - [codrops/Animocons](https://github.com/codrops/Animocons) - Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot ["Like Animation"](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Gin
 - [michael/editable-website](https://github.com/michael/editable-website) - CMS-free editable websites with Svelte
 - [rlk/whitemark](https://github.com/rlk/whitemark) - Steganographic encoding of a watermark in the whitespace of text
@@ -933,6 +932,7 @@
 
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
+- [pproenca/dot-skills](https://github.com/pproenca/dot-skills) - A collection of AI agent skills following the Agent Skills open format
 - [tortastudios/public-resources](https://github.com/tortastudios/public-resources) - Publicly available tools, documents, and resources to benefit the community at large from Torta Studios
 - [TephlonDude/n8n-pi](https://github.com/TephlonDude/n8n-pi) - Tools and Images to Build a Raspberry Pi n8n server
 - [muchobien/pocketbase-docker](https://github.com/muchobien/pocketbase-docker) - Pocketbase docker image
@@ -947,9 +947,10 @@
 
 ## Svelte 
 
+- [SikandarJODD/sv-efferd](https://github.com/SikandarJODD/sv-efferd) - Svelte Efferd Blocks: A collection of beautifully crafted Svelte Shadcn/UI Marketing blocks, designed to help developers build modern websites with ease.
 - [davis7dotsh/my-sveltekit-template](https://github.com/davis7dotsh/my-sveltekit-template) - Updated as of March 2026: sveltekit, effect v4, convex, tailwind, etc.
 - [Horuse/svelte-dnd](https://github.com/Horuse/svelte-dnd) - A drag-and-drop library for Svelte 5 with animated drop previews, auto-scroll, pointer & touch support , and multi-container support.
-- [SikandarJODD/animations](https://github.com/SikandarJODD/animations) - Svelte 5 Animations
+- [SikandarJODD/animations](https://github.com/SikandarJODD/animations) - Svelte 5 Animations includes Magic UI, Spell UI build using Tailwind CSS & Motion SV
 - [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
 - [multiplehats/better-auth-ui-svelte](https://github.com/multiplehats/better-auth-ui-svelte) - Beautiful shadcn/ui components in Svelte built for better-auth.
 - [jis3r/icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
@@ -1058,11 +1059,10 @@
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Own your SEO. Research keywords and competitors on your terms. 100% open source.
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [RussBaz/svelte-synk](https://github.com/RussBaz/svelte-synk) - Svelte 5 cross-tab sync, leader election and task rollover on leader change (when leader tab is closed)
-- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
+- [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader generator that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [getclawe/clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents.
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [krankos/chat-ytchannel](https://github.com/krankos/chat-ytchannel) - A Mastra template that let's you chat with youtube videos.
-- [pproenca/dot-skills](https://github.com/pproenca/dot-skills) - A collection of AI agent skills following the Agent Skills open format
 - [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code".
 - [trycua/launchpad](https://github.com/trycua/launchpad) - 
 - [ArvorCo/Relentless](https://github.com/ArvorCo/Relentless) - Universal AI Agent Orchestrator - Run any AI coding agent (Claude Code, Amp, OpenCode, Codex, Droid, Gemini) repeatedly until all tasks are complete
