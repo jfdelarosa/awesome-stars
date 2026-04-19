@@ -101,7 +101,7 @@
 - [hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards) - A growing collection of text/image cards you can use/copy-paste in your tailwind css projects
 - [phosphor-icons/web](https://github.com/phosphor-icons/web) - A flexible icon family for the web
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
-- [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
+- [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 - [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 - [NigelOToole/direction-reveal](https://github.com/NigelOToole/direction-reveal) - Detects the direction a user enters or leaves an element allowing you to reveal or hide content based on this direction.
 - [ThemesGuide/bootstrap-themes](https://github.com/ThemesGuide/bootstrap-themes) - Free, open source Bootstrap 4 themes
