@@ -1046,6 +1046,7 @@
 
 ## TypeScript 
 
+- [educlopez/thegridcn-ui](https://github.com/educlopez/thegridcn-ui) - An authentic Tron: Ares inspired theme system for shadcn/ui
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam) - Animated border beam effect for React
 - [Pandoks/sveltronkit](https://github.com/Pandoks/sveltronkit) - 🤖 Electron + Sveltekit | Minimal dependency electron-forge with sveltekit template
@@ -1149,7 +1150,7 @@
 - [HamedMP/NextRag](https://github.com/HamedMP/NextRag) - Next.js RAG with PGVector
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [motiondivision/motion-vue](https://github.com/motiondivision/motion-vue) - Motion for Vue
 - [hywax/nuxt-cron](https://github.com/hywax/nuxt-cron) - A Nuxt module for cron jobs in your app.
