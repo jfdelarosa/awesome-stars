@@ -1464,7 +1464,7 @@
 - [probstit/exceptional.js](https://github.com/probstit/exceptional.js) - Javascript exception handling library.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
+- [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [WeAreGenki/minna-ui](https://github.com/WeAreGenki/minna-ui) - 😸 A fast, friendly, and fun web UI kit for everyone.
@@ -1518,7 +1518,6 @@
 - [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
 - [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue) - The Ultimate Laravel Starter Kit for Modern SaaS (VILT) with Shadcn Components (Vue, Inertia & Shadcn)
 - [HugoRCD/nuxt-better-auth](https://github.com/HugoRCD/nuxt-better-auth) - A demo of using BetterAuth with Nuxt and PostgreSQL
-- [NuxSaaS/NuxSaaS](https://github.com/NuxSaaS/NuxSaaS) - NuxSaaS is a Nuxt.js full-stack SaaS starter kit - Free & Open Source
 - [BayBreezy/ui-thing](https://github.com/BayBreezy/ui-thing) - A modern set of Nuxt components built with Reka UI & TailwindCSS. Inspired by shadcn/ui & shadcn-vue.
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [Eckhardt-D/blanq](https://github.com/Eckhardt-D/blanq) - An opinionated Nuxt starter to avoid the boilerplate work and ship faster
