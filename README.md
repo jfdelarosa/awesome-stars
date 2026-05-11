@@ -64,6 +64,7 @@
 
 ## C 
 
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
@@ -640,6 +641,7 @@
 
 ## Others 
 
+- [bidah/skill-set](https://github.com/bidah/skill-set) - Collection of Claude Code skills
 - [essamamdani/anycrawl-coolify](https://github.com/essamamdani/anycrawl-coolify) - AnyCrawl — Coolify v4 Template
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 - [shyakadavis/awesome-shadcn-svelte](https://github.com/shyakadavis/awesome-shadcn-svelte) - A curated list of awesome things related to shadcn-svelte.
@@ -944,7 +946,7 @@
 ## Svelte 
 
 - [manuelogomigo/paper-shaders-svelte](https://github.com/manuelogomigo/paper-shaders-svelte) - 
-- [SikandarJODD/sv-efferd](https://github.com/SikandarJODD/sv-efferd) - Svelte Efferd Blocks: A collection of beautifully crafted Svelte Shadcn/UI Marketing blocks, designed to help developers build modern websites with ease.
+- [SikandarJODD/sv-efferd](https://github.com/SikandarJODD/sv-efferd) - A collection of beautifully crafted Svelte Shadcn/UI Marketing blocks, designed to help developers build modern websites with ease.
 - [davis7dotsh/my-sveltekit-template](https://github.com/davis7dotsh/my-sveltekit-template) - Updated as of March 2026: sveltekit, effect v4, convex, tailwind, etc.
 - [Horuse/svelte-dnd](https://github.com/Horuse/svelte-dnd) - A drag-and-drop library for Svelte 5 with animated drop previews, auto-scroll, pointer & touch support , and multi-container support.
 - [SikandarJODD/animations](https://github.com/SikandarJODD/animations) - Svelte 5 Animations includes Magic UI, Spell UI build using Tailwind CSS & Motion SV
@@ -1042,6 +1044,7 @@
 
 ## TypeScript 
 
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [educlopez/thegridcn-ui](https://github.com/educlopez/thegridcn-ui) - An authentic Tron: Ares inspired theme system for shadcn/ui
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam) - Animated border beam effect for React
