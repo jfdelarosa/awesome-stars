@@ -814,6 +814,7 @@
 
 ## Python 
 
+- [EfrainTorres/armavita-meta-ads-mcp](https://github.com/EfrainTorres/armavita-meta-ads-mcp) - Instagram & Facebook MCP server for Meta Marketing API v25 with secure token redaction, cursor pagination, and OSS tooling for campaigns, ad sets, ads, creatives, insights, and reports.
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works - saves 70% token and improves speed for coding agent  🌟 Star if you like it!
@@ -898,6 +899,7 @@
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -1011,7 +1013,7 @@
 - [jesperorb/intl-explorer](https://github.com/jesperorb/intl-explorer) - Intl Explorer is an interactive tool for experimenting and trying out the ECMAScript Internationalization API.
 - [Oli8/spaper](https://github.com/Oli8/spaper) - PaperCSS components for Svelte
 - [svelte-drama/suspense](https://github.com/svelte-drama/suspense) - 
-- [palacms/palacms](https://github.com/palacms/palacms) - Component-based CMS with a built-in IDE, visual editing, and static site generation. One server, unlimited sites.
+- [primocms/primo](https://github.com/primocms/primo) - Component-based CMS with a built-in IDE, visual editing, and static site generation. One server, unlimited sites.
 - [navneetsharmaui/sveltekit-starter](https://github.com/navneetsharmaui/sveltekit-starter) - Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.
 - [mhkeller/layercake](https://github.com/mhkeller/layercake) - graphics framework for sveltejs
 - [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
@@ -1470,6 +1472,7 @@
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [WeAreGenki/minna-ui](https://github.com/WeAreGenki/minna-ui) - 😸 A fast, friendly, and fun web UI kit for everyone.
 - [sveltejs/svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [serialport/node-serialport](https://github.com/serialport/node-serialport) - Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
@@ -1614,7 +1617,6 @@
 ## Zig 
 
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
