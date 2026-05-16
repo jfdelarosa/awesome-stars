@@ -250,6 +250,7 @@
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI AI Function Calling Framework enhanced by compiler skills.
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
@@ -305,7 +306,7 @@
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
@@ -358,7 +359,7 @@
 - [getclawe/clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
@@ -807,7 +808,7 @@
 
 ## crawler 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 
 ## cryptography 
 
@@ -1878,7 +1879,7 @@
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
@@ -1965,7 +1966,7 @@
 
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [accretional/statue](https://github.com/accretional/statue) - Statue: Svelte + Markdown Static Site Generator, launch a website for your business, blog, portfolio, or product in seconds, with one-line setup
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [cherfia/chromiumly](https://github.com/cherfia/chromiumly) - A lightweight Typescript library that interacts with Gotenberg's different modules to convert a variety of document formats to PDF files.
 - [receiptline/receiptline](https://github.com/receiptline/receiptline) - Markdown for receipts. Printable digital receipts. Generate receipt printer commands and images.
@@ -2368,6 +2369,7 @@
 
 ## others 
 
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
 - [bidah/skill-set](https://github.com/bidah/skill-set) - Collection of Claude Code skills
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
@@ -4202,7 +4204,6 @@
 
 ## web-development 
 
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The coding agent built for the web. stagewise is a purpose-built browser for developers with a coding agent built right in.
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [redom/redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
