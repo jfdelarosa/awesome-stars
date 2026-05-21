@@ -2373,6 +2373,7 @@
 
 ## others 
 
+- [attendee-labs/attendee](https://github.com/attendee-labs/attendee) - The universal Meeting Bot API
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
 - [bidah/skill-set](https://github.com/bidah/skill-set) - Collection of Claude Code skills
