@@ -228,6 +228,7 @@
 
 - [itteco/iframely](https://github.com/itteco/iframely) - oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
 - [lanteanio/svelte-realtime](https://github.com/lanteanio/svelte-realtime) - Native WebSocket RPC and reactive subscriptions for SvelteKit
+- [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [NielsLeenheer/ReceiptPrinterEncoder](https://github.com/NielsLeenheer/ReceiptPrinterEncoder) - Create a set of commands that can be send to any receipt printer that supports ESC/POS, StarLine or StarPRNT
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [GauBen/svelte-emails](https://github.com/GauBen/svelte-emails) - Create emails with Svelte and Vite!
@@ -931,7 +932,6 @@
 
 ## Shell 
 
-- [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [pproenca/dot-skills](https://github.com/pproenca/dot-skills) - A collection of AI agent skills following the Agent Skills open format
 - [tortastudios/public-resources](https://github.com/tortastudios/public-resources) - Publicly available tools, documents, and resources to benefit the community at large from Torta Studios
