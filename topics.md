@@ -2299,7 +2299,7 @@
 
 ## open-source 
 
-- [SikandarJODD/sv-efferd](https://github.com/SikandarJODD/sv-efferd) - A collection of beautifully crafted Svelte Shadcn/UI Marketing blocks, designed to help developers build modern websites with ease.
+- [SikandarJODD/sv-efferd](https://github.com/SikandarJODD/sv-efferd) - A collection of beautifully crafted Svelte Shadcn Marketing blocks.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -3407,7 +3407,7 @@
 
 ## svelte 
 
-- [SikandarJODD/sv-efferd](https://github.com/SikandarJODD/sv-efferd) - A collection of beautifully crafted Svelte Shadcn/UI Marketing blocks, designed to help developers build modern websites with ease.
+- [SikandarJODD/sv-efferd](https://github.com/SikandarJODD/sv-efferd) - A collection of beautifully crafted Svelte Shadcn Marketing blocks.
 - [lanteanio/svelte-realtime](https://github.com/lanteanio/svelte-realtime) - Native WebSocket RPC and reactive subscriptions for SvelteKit
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [RussBaz/svelte-synk](https://github.com/RussBaz/svelte-synk) - Svelte 5 cross-tab sync, leader election and task rollover on leader change (when leader tab is closed)
