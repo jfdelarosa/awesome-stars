@@ -949,7 +949,7 @@
 ## Svelte 
 
 - [manuelogomigo/paper-shaders-svelte](https://github.com/manuelogomigo/paper-shaders-svelte) - 
-- [SikandarJODD/sv-efferd](https://github.com/SikandarJODD/sv-efferd) - A collection of beautifully crafted Svelte Shadcn/UI Marketing blocks, designed to help developers build modern websites with ease.
+- [SikandarJODD/sv-efferd](https://github.com/SikandarJODD/sv-efferd) - A collection of beautifully crafted Svelte Shadcn Marketing blocks.
 - [davis7dotsh/my-sveltekit-template](https://github.com/davis7dotsh/my-sveltekit-template) - Updated as of March 2026: sveltekit, effect v4, convex, tailwind, etc.
 - [SikandarJODD/animations](https://github.com/SikandarJODD/animations) - Svelte 5 Animations includes Magic UI, Spell UI build using Tailwind CSS & Motion SV
 - [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
