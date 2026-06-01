@@ -2392,6 +2392,7 @@
 
 ## others 
 
+- [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [jiahao-jayden/vibe-any-tanstack](https://github.com/jiahao-jayden/vibe-any-tanstack) - Full-stack starter for building AI-powered web apps with TanStack Start.Ships with authentication, database, landing page, blog, docs, i18n, admin panel, and more — ready to deploy in minutes.
 - [emilkowalski/skill](https://github.com/emilkowalski/skill) - A skill file based on the articles written on my personal site. Designed for designers and engineers to help them build better user interfaces.
 - [datatrans/payment-logos](https://github.com/datatrans/payment-logos) - Welcome to the ultimate payment method logos repo! 🎉 We curated an extensive collection of logos and icons representing debit and credit card schemes, wallets, and alternative payment methods.
@@ -2599,7 +2600,7 @@
 - [jfdelarosa/twitter-view-count-remover](https://github.com/jfdelarosa/twitter-view-count-remover) - Simple browser extension that removes view count from tweets.
 - [aklinker1/vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) - Vite plugin for developing Chrome/Web Extensions
 - [halfmage/majesticons](https://github.com/halfmage/majesticons) - 👑 Free Version – A versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.
-- [OneSignal/onesignal-vue3](https://github.com/OneSignal/onesignal-vue3) - Vue 3 OneSignal Plugin: Make it easy to integrate OneSignal with your Vue App!
+- [OneSignal/onesignal-vue3](https://github.com/OneSignal/onesignal-vue3) - OneSignal makes engaging customers simple and is the fastest, most reliable service to send push notifications, in-app messages, SMS, and emails. This plugin makes it easy to integrate your Vue 3 app 
 - [nhn/tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
 - [P4sca1/nuxt-headlessui](https://github.com/P4sca1/nuxt-headlessui) - Headless UI integration for Nuxt. Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [zernonia/simple-log](https://github.com/zernonia/simple-log) - SimpleLog - Event tracking all in 1 place! Free & Open Source
