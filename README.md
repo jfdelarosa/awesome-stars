@@ -168,7 +168,7 @@
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -644,6 +644,7 @@
 
 ## Others 
 
+- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 - [emilkowalski/skill](https://github.com/emilkowalski/skill) - A skill file based on the articles written on my personal site. Designed for designers and engineers to help them build better user interfaces.
 - [bidah/skill-set](https://github.com/bidah/skill-set) - Collection of Claude Code skills
 - [essamamdani/anycrawl-coolify](https://github.com/essamamdani/anycrawl-coolify) - AnyCrawl — Coolify v4 Template
@@ -747,6 +748,7 @@
 
 ## PHP 
 
+- [inquid/stpmex-php](https://github.com/inquid/stpmex-php) - 
 - [dfg-ar/numok](https://github.com/dfg-ar/numok) - Open Source tool to run you SaaS Affiliate Program on top of Stripe
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -817,6 +819,7 @@
 
 ## Python 
 
+- [cuenca-mx/speid](https://github.com/cuenca-mx/speid) - Robust SPEI transaction processor
 - [attendee-labs/attendee](https://github.com/attendee-labs/attendee) - The universal Meeting Bot API
 - [EfrainTorres/armavita-meta-ads-mcp](https://github.com/EfrainTorres/armavita-meta-ads-mcp) - Instagram & Facebook MCP server for Meta Marketing API v25 with secure token redaction, cursor pagination, and OSS tooling for campaigns, ad sets, ads, creatives, insights, and reports.
 - [digitalsamba/claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) - AI-native video production toolkit for Claude Code
