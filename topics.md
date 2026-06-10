@@ -349,7 +349,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [nraiden/openv0](https://github.com/nraiden/openv0) - AI generated UI components
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [vynect/venom](https://github.com/vynect/venom) - 🚀 Venom by VYNECT™ — Now part of ERA CONNECT™  Venom is now part of the ERA CONNECT™ ecosystem by VYNECT™, offering a freemium solution for ethical WhatsApp automation.  Automate chats, simulate inter
@@ -479,7 +479,7 @@
 
 - [bhaskarblur/NeoBaseAI-Copilot-for-database](https://github.com/bhaskarblur/NeoBaseAI-Copilot-for-database) - Your AI Data Copilot - Interact with your data sources and analyse your data, operations effortlessly with a sleek, neo-brutalism interface. Chat with your data in real-time, get results, and visualiz
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [RodolfoFerro/DevDayMid2019](https://github.com/RodolfoFerro/DevDayMid2019) - Repositorio del taller "Redes Neuronales Convolucionales en Acción" para el Dev Day Mérida 2019.
@@ -650,7 +650,7 @@
 ## bot 
 
 - [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 - [vynect/venom](https://github.com/vynect/venom) - 🚀 Venom by VYNECT™ — Now part of ERA CONNECT™  Venom is now part of the ERA CONNECT™ ecosystem by VYNECT™, offering a freemium solution for ethical WhatsApp automation.  Automate chats, simulate inter
 - [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
@@ -668,7 +668,7 @@
 - [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
 - [evolution-foundation/evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API is an open-source WhatsApp integration API
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 - [vynect/venom](https://github.com/vynect/venom) - 🚀 Venom by VYNECT™ — Now part of ERA CONNECT™  Venom is now part of the ERA CONNECT™ ecosystem by VYNECT™, offering a freemium solution for ethical WhatsApp automation.  Automate chats, simulate inter
 
 ## chatgpt 
@@ -689,7 +689,7 @@
 - [engageintellect/spatz](https://github.com/engageintellect/spatz) - An opinionated template for building full-stack Svelte applications ridiculously fast. Includes auth, database, admin panel, user dashboard, themes, icons, and more.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
@@ -1238,7 +1238,7 @@
 - [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio) - Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with 
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [dword-design/nuxt-mail](https://github.com/dword-design/nuxt-mail) - Adds email sending capability to a Nuxt.js app. Adds a server route, an injected variable, and uses nodemailer to send emails.
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 - [staart/ui](https://github.com/staart/ui) - 🏁🌐 Frontend Svelte PWA starter for SaaS startups
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [mattmezza/vue-beautiful-chat](https://github.com/mattmezza/vue-beautiful-chat) - A simple and beautiful Vue chat component backend agnostic, fully customisable and extendable.
@@ -1246,7 +1246,7 @@
 - [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - [Book] 2019 edition of our front-end development handbook
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
@@ -1625,7 +1625,7 @@
 - [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
 - [reimax/dockModal](https://github.com/reimax/dockModal) - A vanilla JS customisable dialog plugin
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 - [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs.
 - [rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) - Pretty diff to html javascript library (diff2html)
 - [allilk/milkbox-svelte](https://github.com/allilk/milkbox-svelte) - A alternative Web UI for Google Drive, built with Svelte!
@@ -1713,7 +1713,7 @@
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [WeAreGenki/minna-ui](https://github.com/WeAreGenki/minna-ui) - 😸 A fast, friendly, and fun web UI kit for everyone.
 - [pshrmn/curi](https://github.com/pshrmn/curi) - A JavaScript router for single-page applications
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -1857,14 +1857,14 @@
 ## library 
 
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [obadakhalili/visual-filter](https://github.com/obadakhalili/visual-filter) - :male_detective: A headless unopinionated advanced visual filtering component for Vue 2 and 3
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [ailon/markerjs2](https://github.com/ailon/markerjs2) - Add image annotation to your web apps.
 - [tjinauyeung/svelte-forms-lib](https://github.com/tjinauyeung/svelte-forms-lib) - 📝. A lightweight library for managing forms in Svelte
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 - [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
 - [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
@@ -1951,7 +1951,7 @@
 
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
@@ -2184,7 +2184,7 @@
 ## nlp 
 
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 - [ines/spacy-js](https://github.com/ines/spacy-js) - 🎀 JavaScript API for spaCy with Python REST API
 
 ## no-code 
@@ -2385,7 +2385,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [lynhan318/nextlint](https://github.com/lynhan318/nextlint) - Rich text editor (WYSIWYG) written in Svelte, build on top of tiptap, prosemirror, AI prompt integrated. Dark/Light theme support
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
 
 ## opencv 
 
@@ -2522,7 +2522,7 @@
 - [cheeselemon/ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop) - Localhost SSL Proxy Server Manager using Docker
 - [inline0/glaze](https://github.com/inline0/glaze) - The utility-based animation framework for the web.
 - [unjs/ofetch](https://github.com/unjs/ofetch) - 😱 A better fetch API. Works everywhere.
-- [better-auth/better-fetch](https://github.com/better-auth/better-fetch) - Advanced fetch wrapper for typescript
+- [better-auth/better-fetch](https://github.com/better-auth/better-fetch) - Advanced fetch wrapper for TypeScript
 - [OllieJT/create-sva](https://github.com/OllieJT/create-sva) - 
 - [OllieJT/schemeta](https://github.com/OllieJT/schemeta) - 
 - [mynameisvasco/sveltekit-boilerplate](https://github.com/mynameisvasco/sveltekit-boilerplate) - Sveltekit boilerplate that includes shadcn, Lucia auth, drizzle and bullmq
@@ -3204,7 +3204,7 @@
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [pshrmn/curi](https://github.com/pshrmn/curi) - A JavaScript router for single-page applications
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
@@ -3925,7 +3925,7 @@
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [dzwillia/vue-grid](https://github.com/dzwillia/vue-grid) - A flexible grid component for Vue.js
 - [revery-ui/revery](https://github.com/revery-ui/revery) - :zap: Native, high-performance, cross-platform desktop apps - built with Reason!
