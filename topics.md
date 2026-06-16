@@ -1099,7 +1099,7 @@
 
 ## es6 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
@@ -1114,7 +1114,7 @@
 ## eslint 
 
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [hywax/vite-vanilla-library-template](https://github.com/hywax/vite-vanilla-library-template) - Template for creating a library with a fully customized environment.
 - [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
 - [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 📘 Quick and Easy TypeScript Express Starter
@@ -1133,7 +1133,7 @@
 
 ## express 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [kwhitley/apicache](https://github.com/kwhitley/apicache) - Simple API-caching middleware for Express/Node.
 - [dword-design/nuxt-mail](https://github.com/dword-design/nuxt-mail) - Adds email sending capability to a Nuxt.js app. Adds a server route, an injected variable, and uses nodemailer to send emails.
 - [allilk/milkbox-svelte](https://github.com/allilk/milkbox-svelte) - A alternative Web UI for Google Drive, built with Svelte!
@@ -1601,7 +1601,7 @@
 - [minio/minio-js](https://github.com/minio/minio-js) - MinIO Client SDK for Javascript
 - [OpenFrenchFries/supasveltekit](https://github.com/OpenFrenchFries/supasveltekit) - Where Svelte's elegance meets Supabase's might!
 - [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [kwhitley/apicache](https://github.com/kwhitley/apicache) - Simple API-caching middleware for Express/Node.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
@@ -2036,7 +2036,7 @@
 
 ## microservices 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - 📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 - [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)
@@ -2240,7 +2240,7 @@
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, 
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [BrunoHenrique00/ear](https://github.com/BrunoHenrique00/ear) - Ear is a desktop app that will help you transcribe what is playing on your computer!
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [TephlonDude/n8n-pi](https://github.com/TephlonDude/n8n-pi) - Tools and Images to Build a Raspberry Pi n8n server
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
@@ -2304,7 +2304,7 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [Tsuzat/Edra](https://github.com/Tsuzat/Edra) - Fully controllable and best rich text editor for Svelte Developers
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [dword-design/nuxt-mail](https://github.com/dword-design/nuxt-mail) - Adds email sending capability to a Nuxt.js app. Adds a server route, an injected variable, and uses nodemailer to send emails.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -3725,7 +3725,7 @@
 
 ## testing 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [joshnuss/prisma-database-cleaner](https://github.com/joshnuss/prisma-database-cleaner) - Utility for cleaning Prisma databases between test runs
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [sapegin/jest-cheat-sheet](https://github.com/sapegin/jest-cheat-sheet) - Jest cheat sheet
