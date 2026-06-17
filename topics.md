@@ -2410,7 +2410,7 @@
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native) - Build desktop + mobile apps with Zig and web UI
 - [bidah/skill-set](https://github.com/bidah/skill-set) - Collection of Claude Code skills
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
 - [manuelogomigo/paper-shaders-svelte](https://github.com/manuelogomigo/paper-shaders-svelte) - 
 - [educlopez/thegridcn-ui](https://github.com/educlopez/thegridcn-ui) - An authentic Tron: Ares inspired theme system for shadcn/ui
 - [essamamdani/anycrawl-coolify](https://github.com/essamamdani/anycrawl-coolify) - AnyCrawl — Coolify v4 Template
