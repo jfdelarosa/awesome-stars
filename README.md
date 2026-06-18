@@ -229,6 +229,7 @@
 
 - [samrathreddy/mail-tracker](https://github.com/samrathreddy/mail-tracker) - Self-hosted email open tracking with Cloudflare Workers. Privacy-first Mailtrack alternative with Chrome extension, bot filtering, and zero infrastructure.
 - [shlokjain2031/email-tracker-extension](https://github.com/shlokjain2031/email-tracker-extension) - tracks emails sent from gmail as an extension
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [itteco/iframely](https://github.com/itteco/iframely) - oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
 - [lanteanio/svelte-realtime](https://github.com/lanteanio/svelte-realtime) - Native WebSocket RPC and reactive subscriptions for SvelteKit
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
@@ -282,7 +283,7 @@
 - [threadsjs/threads.js](https://github.com/threadsjs/threads.js) - A Node.js library for the Threads API
 - [sholinaty/freepbx_items](https://github.com/sholinaty/freepbx_items) - a place to store relevant freepbx items
 - [flexie-crm/freepbx-webhooks](https://github.com/flexie-crm/freepbx-webhooks) - FreePBX integration with Flexie CRM, using real time events and webhooks
-- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source JavaScript library + interactive CLI for ChatGPT
+- [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [Webstrates/Webstrates](https://github.com/Webstrates/Webstrates) - Webstrates is a research prototype enabling collaborative editing of websites through DOM manipulations.
 - [joshnuss/sveltekit-stripe-subscriptions](https://github.com/joshnuss/sveltekit-stripe-subscriptions) - Example of Stripe Subscriptions & PaymentElement with SvelteKit
 - [adityadees/sveltekit-js-docker](https://github.com/adityadees/sveltekit-js-docker) - skelton dockerized sveltekit JS HMR dev and build multi adapter for node server and static build SSG
@@ -937,7 +938,6 @@
 
 ## Shell 
 
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [datatrans/payment-logos](https://github.com/datatrans/payment-logos) - Welcome to the ultimate payment method logos repo! 🎉 We curated an extensive collection of logos and icons representing debit and credit card schemes, wallets, and alternative payment methods.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [pproenca/dot-skills](https://github.com/pproenca/dot-skills) - A collection of AI agent skills following the Agent Skills open format
@@ -1055,6 +1055,7 @@
 
 ## TypeScript 
 
+- [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick) - View and Interact with PDFs in React, SolidJS, Svelte and JavaScript apps
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [CarlosZiegler/start-kit.dev](https://github.com/CarlosZiegler/start-kit.dev) - 
@@ -1208,7 +1209,7 @@
 - [etherCorps/svelte-h2j](https://github.com/etherCorps/svelte-h2j) - A library which uses svelte compiler to convert html & css to jsx. Useful for using satori with svelte & Kit
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
-- [jasongitmail/super-sitemap](https://github.com/jasongitmail/super-sitemap) - SvelteKit sitemap focused on ease of use and making it impossible to forget to add your paths.
+- [jasongitmail/super-sitemap](https://github.com/jasongitmail/super-sitemap) - Sitemap focused on ease of use and making it impossible to forget to add your paths. For SvelteKit (and TanStack Start soon!)
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus) - A Nuxt module that enables complex routing for Nuxt Pages.
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
