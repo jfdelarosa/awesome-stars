@@ -913,7 +913,7 @@
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
 - [nikivdev/rust](https://github.com/nikivdev/rust) - Rust tools, libraries
 
 ## SCSS 
@@ -1055,6 +1055,7 @@
 
 ## TypeScript 
 
+- [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick) - View and Interact with PDFs in React, SolidJS, Svelte and JavaScript apps
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
