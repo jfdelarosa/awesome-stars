@@ -295,6 +295,7 @@
 
 ## ai 
 
+- [upstash/agentkit](https://github.com/upstash/agentkit) - AI agent primitives on Upstash Redis: memory, RAG, search, chat history, caching, and rate limiting. With Vercel AI SDK and Eve
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
@@ -348,7 +349,7 @@
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [serudda/text-snap](https://github.com/serudda/text-snap) - Free and Open-Source tool for Accurate Text Formatting using AI
 - [metaskills/experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
 - [taubyte/tau](https://github.com/taubyte/tau) - Fullstack Workspace for Humans & Machines
@@ -363,7 +364,7 @@
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [vynect/venom](https://github.com/vynect/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on 
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
@@ -406,7 +407,7 @@
 - [bhaskarblur/NeoBaseAI-Copilot-for-database](https://github.com/bhaskarblur/NeoBaseAI-Copilot-for-database) - Your AI Data Copilot - Interact with your data sources and analyse your data, operations effortlessly with a sleek, neo-brutalism interface. Chat with your data in real-time, get results, and visualiz
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale) - Scalable web analytics you run yourself on Cloudflare
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, 
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
@@ -460,7 +461,7 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [goravel/goravel](https://github.com/goravel/goravel) - The full-featured Golang Development Framework skeleton
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [kwhitley/apicache](https://github.com/kwhitley/apicache) - Simple API-caching middleware for Express/Node.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
@@ -700,7 +701,7 @@
 - [bhaskarblur/NeoBaseAI-Copilot-for-database](https://github.com/bhaskarblur/NeoBaseAI-Copilot-for-database) - Your AI Data Copilot - Interact with your data sources and analyse your data, operations effortlessly with a sleek, neo-brutalism interface. Chat with your data in real-time, get results, and visualiz
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - Interactive YouTube extension built with React, Tailwind CSS, and Plasmo. It integrates with the OpenAI API to enable real-time video chat, providing summaries, Q&A, and context-aware responses direct
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [engageintellect/spatz-2](https://github.com/engageintellect/spatz-2) - just like spatz... but for svelte5, with shadcn-svelte, svelte-animations, svelte-superforms, stripe payments, subscriptions, content-filtering, and more.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [engageintellect/spatz](https://github.com/engageintellect/spatz) - An opinionated template for building full-stack Svelte applications ridiculously fast. Includes auth, database, admin panel, user dashboard, themes, icons, and more.
@@ -785,7 +786,7 @@
 ## cloud 
 
 - [OpenFrenchFries/supasveltekit](https://github.com/OpenFrenchFries/supasveltekit) - Where Svelte's elegance meets Supabase's might!
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud
 - [jakejarvis/awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -867,7 +868,7 @@
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
 - [primocms/primo](https://github.com/primocms/primo) - Agent-native visual CMS. Build sites with Claude/Codex/whatever, manage them visually.
-- [lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout) - Popular layouts and patterns made with Tailwind CSS
+- [kafkaigiken/tailwindlayout](https://github.com/kafkaigiken/tailwindlayout) - Popular layouts and patterns made with Tailwind CSS
 - [forwardemail/email-templates](https://github.com/forwardemail/email-templates) - Create, preview (browser/iOS Simulator), and send custom email templates for Node.js.  Made for @forwardemail, @ladjs, @cabinjs, @spamscanner, and @breejs.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
@@ -935,7 +936,7 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [bhaskarblur/NeoBaseAI-Copilot-for-database](https://github.com/bhaskarblur/NeoBaseAI-Copilot-for-database) - Your AI Data Copilot - Interact with your data sources and analyse your data, operations effortlessly with a sleek, neo-brutalism interface. Chat with your data in real-time, get results, and visualiz
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [apexcharts/vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - 📊 Vue 2 component for ApexCharts
@@ -946,7 +947,7 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [bhaskarblur/NeoBaseAI-Copilot-for-database](https://github.com/bhaskarblur/NeoBaseAI-Copilot-for-database) - Your AI Data Copilot - Interact with your data sources and analyse your data, operations effortlessly with a sleek, neo-brutalism interface. Chat with your data in real-time, get results, and visualiz
 - [OpenFrenchFries/supasveltekit](https://github.com/OpenFrenchFries/supasveltekit) - Where Svelte's elegance meets Supabase's might!
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [penxio/penx](https://github.com/penxio/penx) - AI Powered Personal Data Hub
@@ -1229,7 +1230,7 @@
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [vynect/venom](https://github.com/vynect/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on 
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
@@ -1300,7 +1301,7 @@
 
 ## github 
 
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [Eomm/notification-remover](https://github.com/Eomm/notification-remover) - Clean your inbox notification, on the go, when you need!
@@ -1318,7 +1319,7 @@
 
 - [goravel/goravel](https://github.com/goravel/goravel) - The full-featured Golang Development Framework skeleton
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [mpiorowski/sgsg](https://github.com/mpiorowski/sgsg) - Open source application build using SvelteKit and Go connected via gRPC.
 - [otiai10/ocrserver](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1406,7 +1407,6 @@
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [MelihAltintas/vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Web map Vue 3.x components with the power of OpenLayers
@@ -1819,7 +1819,7 @@
 ## json 
 
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [kwhitley/apicache](https://github.com/kwhitley/apicache) - Simple API-caching middleware for Express/Node.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -1882,7 +1882,7 @@
 
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [obadakhalili/visual-filter](https://github.com/obadakhalili/visual-filter) - :male_detective: A headless unopinionated advanced visual filtering component for Vue 2 and 3
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
@@ -1938,7 +1938,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [FrigadeHQ/trench](https://github.com/FrigadeHQ/trench) - Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, 
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [opencx-labs/copilot](https://github.com/opencx-labs/copilot) - 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -2057,7 +2057,7 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
@@ -2076,7 +2076,7 @@
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
 - [any-tdf/stdf](https://github.com/any-tdf/stdf) - Mobile web component library based on Svelte and Tailwind
 - [nuxt-modules/ionic](https://github.com/nuxt-modules/ionic) - Batteries-included, zero-config Ionic integration for Nuxt
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 - [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront) - Alokai is a Frontend as a Service solution that simplifies composable commerce. It connects all the technologies needed to build and deploy fast & scalable ecommerce frontends. It guides merchants to 
@@ -2116,7 +2116,7 @@
 
 - [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -3101,6 +3101,7 @@
 
 ## rag 
 
+- [upstash/agentkit](https://github.com/upstash/agentkit) - AI agent primitives on Upstash Redis: memory, RAG, search, chat history, caching, and rate limiting. With Vercel AI SDK and Eve
 - [supavec/supavec](https://github.com/supavec/supavec) - The open-source alternative to Carbon.ai. Build powerful RAG applications with any data source, at any scale.
 - [any4ai/AnyCrawl](https://github.com/any4ai/AnyCrawl) - AnyCrawl 🚀: A Node.js/TypeScript crawler that turns websites into LLM-ready data and extracts structured SERP results from Google/Bing/Baidu/etc. Native multi-threading for bulk processing.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
@@ -3424,7 +3425,7 @@
 ## sql 
 
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [supabase-community/sql-examples](https://github.com/supabase-community/sql-examples) - Curated list of SQL to help you find useful script easily 🚀
@@ -3444,7 +3445,7 @@
 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
-- [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs.
@@ -3732,7 +3733,7 @@
 - [hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards) - A growing collection of text/image cards you can use/copy-paste in your tailwind css projects
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [productdevbook/oku-nuxt3-template](https://github.com/productdevbook/oku-nuxt3-template) - Nuxt 3 best starter repo, Tailwindcss, Sass, Headless UI, Vue, Pinia, Vite, Eslint, i18n, Naive UI
-- [lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout) - Popular layouts and patterns made with Tailwind CSS
+- [kafkaigiken/tailwindlayout](https://github.com/kafkaigiken/tailwindlayout) - Popular layouts and patterns made with Tailwind CSS
 - [navneetsharmaui/sveltekit-starter](https://github.com/navneetsharmaui/sveltekit-starter) - Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.
 - [souranalytics/pickle-old](https://github.com/souranalytics/pickle-old) - Privacy and developer-first analytics
 - [fouita/tailwind-editor](https://github.com/fouita/tailwind-editor) - notion like tailwindcss editor built with svelte
@@ -3882,7 +3883,7 @@
 - [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 📘 Quick and Easy TypeScript Express Starter
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [staart/api](https://github.com/staart/api) - 🏁🛠️ SaaS backend & API framework based on @nestjs
@@ -4079,7 +4080,7 @@
 - [productdevbook/oku-nuxt3-template](https://github.com/productdevbook/oku-nuxt3-template) - Nuxt 3 best starter repo, Tailwindcss, Sass, Headless UI, Vue, Pinia, Vite, Eslint, i18n, Naive UI
 - [yugasun/x-chart](https://github.com/yugasun/x-chart) - 🚀 x-chart is a draggable & resizable data visualization system
 - [unplugin/unplugin-icons](https://github.com/unplugin/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally.
-- [lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout) - Popular layouts and patterns made with Tailwind CSS
+- [kafkaigiken/tailwindlayout](https://github.com/kafkaigiken/tailwindlayout) - Popular layouts and patterns made with Tailwind CSS
 - [mokuappio/serverless-invoices](https://github.com/mokuappio/serverless-invoices) - Create and manage invoices in your browser. Serverless Invoices is a free invoicing tool for freelancers and small businesses. Made with Vue.js.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [inocan-group/vue3-google-map](https://github.com/inocan-group/vue3-google-map) - 📍 A set of composable components for easy use of Google Maps in your Vue 3 projects.
@@ -4275,7 +4276,7 @@
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [stevenlafl/threads-web-client](https://github.com/stevenlafl/threads-web-client) - A web client for Meta's new Threads app
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & AI-optimized full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
