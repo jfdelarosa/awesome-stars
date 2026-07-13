@@ -2667,7 +2667,7 @@
 - [jfdelarosa/mivacuna-bot](https://github.com/jfdelarosa/mivacuna-bot) - 
 - [jfdelarosa/twitter-view-count-remover](https://github.com/jfdelarosa/twitter-view-count-remover) - Simple browser extension that removes view count from tweets.
 - [aklinker1/vite-plugin-web-extension](https://github.com/aklinker1/vite-plugin-web-extension) - Vite plugin for developing Chrome/Web Extensions
-- [halfmage/majesticons](https://github.com/halfmage/majesticons) - 👑 Free Version – A versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.
+- [halfmage/majesticons](https://github.com/halfmage/majesticons) - 👑 Free version of Majesticons — a versatile, beautiful, and scalable iconset. 760 MIT-licensed SVG icons in line and solid style. 11,000+ icons at majesticons.com
 - [OneSignal/onesignal-vue3](https://github.com/OneSignal/onesignal-vue3) - OneSignal makes engaging customers simple and is the fastest, most reliable service to send push notifications, in-app messages, SMS, and emails. This plugin makes it easy to integrate your Vue 3 app 
 - [nhn/tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
 - [P4sca1/nuxt-headlessui](https://github.com/P4sca1/nuxt-headlessui) - Headless UI integration for Nuxt. Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
