@@ -1102,7 +1102,7 @@
 - [stratuslabs/ship](https://github.com/stratuslabs/ship) - Internal SaaS starter kit — Next.js, Supabase, Stripe, shadcn/ui
 - [tmijs/chat](https://github.com/tmijs/chat) - Connect to Twitch IRC chat
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
-- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [RussBaz/svelte-synk](https://github.com/RussBaz/svelte-synk) - Svelte 5 cross-tab sync, leader election and task rollover on leader change (when leader tab is closed)
 - [Horuse/svelte-dnd](https://github.com/Horuse/svelte-dnd) - A drag-and-drop library for Svelte 5 with animated drop previews, auto-scroll, pointer & touch support , and multi-container support.
 - [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
@@ -1311,7 +1311,6 @@
 - [nraiden/openv0](https://github.com/nraiden/openv0) - AI generated UI components
 - [rkanik/sveltuse](https://github.com/rkanik/sveltuse) - Collection of essential Svelte Composition Utilities for Svelte and Sveltekit
 - [j4w8n/supakit](https://github.com/j4w8n/supakit) - A Supabase authentication helper for SvelteKit
-- [multiplehats/jaydens-stack](https://github.com/multiplehats/jaydens-stack) - A modern, efficient, and feature-packed monorepo boilerplate. Uses SvelteKit, tRPC, Shadcn, Tailwind CSS and Turborepo
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [bryanmylee/svelte-headless-table](https://github.com/bryanmylee/svelte-headless-table) - Unopinionated and extensible data tables for Svelte
 - [PuruVJ/neoconfetti](https://github.com/PuruVJ/neoconfetti) - Confetti in Svelte
