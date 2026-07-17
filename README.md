@@ -75,7 +75,7 @@
 ## C++ 
 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Tiny AI for tiny devices
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -292,7 +292,7 @@
 - [joshnuss/svelte-kit-with-docker](https://github.com/joshnuss/svelte-kit-with-docker) - Run your SvelteKit dev environment with Docker
 - [sauravhathi/atsresume](https://github.com/sauravhathi/atsresume) - ATSResume | Get hired with an ATS-optimized resume
 - [codrops/Animocons](https://github.com/codrops/Animocons) - Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot ["Like Animation"](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Gin
-- [michael/editable-website](https://github.com/michael/editable-website) - CMS-free editable websites with Svelte
+- [michael/editable](https://github.com/michael/editable) - The Svelte website you can edit on the page
 - [rlk/whitemark](https://github.com/rlk/whitemark) - Steganographic encoding of a watermark in the whitespace of text
 - [zy445566/node-digital-watermarking](https://github.com/zy445566/node-digital-watermarking) - A digital watermark is a kind of marker covertly embedded in a noise-tolerant signal such as an audio, video or image data. It is typically used to identify ownership of the copyright of such signal. 
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
