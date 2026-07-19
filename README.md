@@ -841,7 +841,7 @@
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [mdamien/chrome-extensions-archive](https://github.com/mdamien/chrome-extensions-archive) - :pager: Archive all the chrome extensions (until Feb 4. 2019)
 - [feyninc/chonkie](https://github.com/feyninc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Also checkout AgenticSeek successor 3Toks! http
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 - [weaviate/Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 - [enoch3712/ExtractThinker](https://github.com/enoch3712/ExtractThinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
@@ -1101,6 +1101,7 @@
 - [stratuslabs/ship](https://github.com/stratuslabs/ship) - Internal SaaS starter kit — Next.js, Supabase, Stripe, shadcn/ui
 - [tmijs/chat](https://github.com/tmijs/chat) - Connect to Twitch IRC chat
 - [every-app/open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [RussBaz/svelte-synk](https://github.com/RussBaz/svelte-synk) - Svelte 5 cross-tab sync, leader election and task rollover on leader change (when leader tab is closed)
 - [Horuse/svelte-dnd](https://github.com/Horuse/svelte-dnd) - A drag-and-drop library for Svelte 5 with animated drop previews, auto-scroll, pointer & touch support , and multi-container support.
 - [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
