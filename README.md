@@ -75,7 +75,7 @@
 ## C++ 
 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Tiny AI for tiny devices; quantization, kernels, inference engine for mobiles, wearables and smart home and robots.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, inference engine for mobiles, wearables, smart home and robots.
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -291,7 +291,6 @@
 - [joshnuss/svelte-kit-with-docker](https://github.com/joshnuss/svelte-kit-with-docker) - Run your SvelteKit dev environment with Docker
 - [sauravhathi/atsresume](https://github.com/sauravhathi/atsresume) - ATSResume | Get hired with an ATS-optimized resume
 - [codrops/Animocons](https://github.com/codrops/Animocons) - Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot ["Like Animation"](https://dribbble.com/shots/2527200-Like-Animation) by Daryl Gin
-- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [rlk/whitemark](https://github.com/rlk/whitemark) - Steganographic encoding of a watermark in the whitespace of text
 - [zy445566/node-digital-watermarking](https://github.com/zy445566/node-digital-watermarking) - A digital watermark is a kind of marker covertly embedded in a noise-tolerant signal such as an audio, video or image data. It is typically used to identify ownership of the copyright of such signal. 
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
@@ -1339,6 +1338,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 - [supabase-community/chatgpt-plugin-template-deno](https://github.com/supabase-community/chatgpt-plugin-template-deno) - Template for building ChatGPT Plugins in TypeScript that run on Supabase's custom Deno Edge Runtime.
+- [michael/editable](https://github.com/michael/editable) - The website you can edit on the page
 - [vue-email/vue-email](https://github.com/vue-email/vue-email) - 💌 Write email templates with vue
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
 - [0fatihyildiz/avvvatars-vue](https://github.com/0fatihyildiz/avvvatars-vue) - Beautifully crafted unique avatar placeholder for your next vue project
