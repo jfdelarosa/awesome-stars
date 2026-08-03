@@ -2467,7 +2467,7 @@
 - [CarlosZiegler/start-kit.dev](https://github.com/CarlosZiegler/start-kit.dev) - 
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [jiahao-jayden/vibe-any-tanstack](https://github.com/jiahao-jayden/vibe-any-tanstack) - Full-stack starter for building AI-powered web apps with TanStack Start.Ships with authentication, database, landing page, blog, docs, i18n, admin panel, and more — ready to deploy in minutes.
-- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [datatrans/payment-logos](https://github.com/datatrans/payment-logos) - Welcome to the ultimate payment method logos repo! 🎉 We curated an extensive collection of logos and icons representing debit and credit card schemes, wallets, and alternative payment methods.
 - [attendee-labs/attendee](https://github.com/attendee-labs/attendee) - The universal Meeting Bot API
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
@@ -3603,7 +3603,7 @@
 - [grail-ui/grail-ui](https://github.com/grail-ui/grail-ui) - A library of accessible component primitives, actions and utilities for Svelte.
 - [paoloricciuti/sveltekit-search-params](https://github.com/paoloricciuti/sveltekit-search-params) - The easiest way to read and WRITE from query parameters in sveltekit.
 - [CaptainCodeman/svelte-headlessui](https://github.com/CaptainCodeman/svelte-headlessui) - HeadlessUI components for Svelte
-- [janosh/svelte-widgets](https://github.com/janosh/svelte-widgets) - Keyboard-friendly, accessible and highly customizable multi-select component
+- [janosh/svelte-widgets](https://github.com/janosh/svelte-widgets) - Accessible, keyboard-friendly Svelte components and attachments
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 - [mskocik/svelecte](https://github.com/mskocik/svelecte) - Flexible autocomplete/select component written in Svelte,
 - [agustinl/svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags
@@ -3932,6 +3932,7 @@
 - [sidebase/nuxt-pdf](https://github.com/sidebase/nuxt-pdf) - 📄 A easy to use, pdf exporting module to convert Nuxt 3 components into downloadable PDFs.
 - [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 📘 Quick and Easy TypeScript Express Starter
 - [orchidjs/tom-select](https://github.com/orchidjs/tom-select) - Tom Select is a lightweight (~16kb gzipped) hybrid of a textbox and select box. Forked from selectize.js to provide a framework agnostic autocomplete widget with native-feeling keyboard navigation. Us
+- [janosh/svelte-widgets](https://github.com/janosh/svelte-widgets) - Accessible, keyboard-friendly Svelte components and attachments
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern, performant & for the age of AI. Develop powerful apps, clouds & framework-agnostic libraries—faster.
 - [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet) - 🎛 A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts
@@ -4008,6 +4009,7 @@
 - [grail-ui/grail-ui](https://github.com/grail-ui/grail-ui) - A library of accessible component primitives, actions and utilities for Svelte.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [vuestorefront/storefront-ui](https://github.com/vuestorefront/storefront-ui) - A frontend library for React and Vue that helps developers quickly build fast, accessible, and beautiful storefronts. Made with 💚 by Vue Storefront team and contributors.
+- [janosh/svelte-widgets](https://github.com/janosh/svelte-widgets) - Accessible, keyboard-friendly Svelte components and attachments
 - [agustinl/svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags
 - [undercode99/jakarta-lte](https://github.com/undercode99/jakarta-lte) - Jakarta LTE -  Free and Open Source Premium Admin Templates with rich UI Kit base on Tailwind CSS
 - [bansal/pattern.css](https://github.com/bansal/pattern.css) - CSS only library to fill empty background with beautiful patterns.
