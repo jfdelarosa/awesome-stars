@@ -2469,6 +2469,7 @@
 
 ## others 
 
+- [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [cossui-svelte/cossui-svelte](https://github.com/cossui-svelte/cossui-svelte) - 
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
 - [oso95/scroll-world](https://github.com/oso95/scroll-world) - A skill that turn any brand into a scrollable 3D world landing page
@@ -2483,7 +2484,7 @@
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 - [shlokjain2031/email-tracker-extension](https://github.com/shlokjain2031/email-tracker-extension) - tracks emails sent from gmail as an extension
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [CarlosZiegler/start-kit.dev](https://github.com/CarlosZiegler/start-kit.dev) - 
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [jiahao-jayden/vibe-any-tanstack](https://github.com/jiahao-jayden/vibe-any-tanstack) - Full-stack starter for building AI-powered web apps with TanStack Start.Ships with authentication, database, landing page, blog, docs, i18n, admin panel, and more — ready to deploy in minutes.
