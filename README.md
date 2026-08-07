@@ -155,7 +155,7 @@
 
 ## Go 
 
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [bhaskarblur/NeoBaseAI-Copilot-for-database](https://github.com/bhaskarblur/NeoBaseAI-Copilot-for-database) - Your AI Data Copilot - Interact with your data sources and analyse your data, operations effortlessly with a sleek, neo-brutalism interface. Chat with your data in real-time, get results, and visualiz
@@ -1060,6 +1060,7 @@
 
 ## TypeScript 
 
+- [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [ZAK123DSFDF/refearnapp](https://github.com/ZAK123DSFDF/refearnapp) - 🚀 High-scale affiliate tracking & referral management. Open-source & self-hostable alternative to Rewardful, FirstPromoter, and Tolt. Built for speed with Next.js, Cloudflare Edge, Drizzle, and Docker
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
