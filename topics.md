@@ -3557,7 +3557,7 @@
 - [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code".
 - [jis3r/icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
 - [accretional/statue](https://github.com/accretional/statue) - Statue: Svelte + Markdown Static Site Generator, launch a website for your business, blog, portfolio, or product in seconds, with one-line setup
-- [ObelusFi/trioxide](https://github.com/ObelusFi/trioxide) - Svelte 5 customizable components, focused on non-trivial UI pieces that are tedious to reimplement.
+- [ObelusTechnology/trioxide](https://github.com/ObelusTechnology/trioxide) - Svelte 5 customizable components, focused on non-trivial UI pieces that are tedious to reimplement.
 - [SikandarJODD/ai-elements](https://github.com/SikandarJODD/ai-elements) - Svelte AI Elements is a unofficial port of Vercel AI Elements, built on top of shadcn-svelte.
 - [svelteplot/svelteplot](https://github.com/svelteplot/svelteplot) - Svelte-native plotting framework based on the grammar of graphics
 - [IcelandicIcecream/aphex](https://github.com/IcelandicIcecream/aphex) - A modern, extensible headless CMS built with SvelteKit, featuring a portable core package, database/storage agnostic adapters, and a Sanity-inspired admin interface.
@@ -4018,7 +4018,7 @@
 
 - [bklit/bklit-ui](https://github.com/bklit/bklit-ui) - Open-source UI & Charts library
 - [liveloveapp/hashbrown](https://github.com/liveloveapp/hashbrown) - Hashbrown is a framework for building agents that run the browser. Built for Angular and React.
-- [ObelusFi/trioxide](https://github.com/ObelusFi/trioxide) - Svelte 5 customizable components, focused on non-trivial UI pieces that are tedious to reimplement.
+- [ObelusTechnology/trioxide](https://github.com/ObelusTechnology/trioxide) - Svelte 5 customizable components, focused on non-trivial UI pieces that are tedious to reimplement.
 - [vuepont/ai-elements-vue](https://github.com/vuepont/ai-elements-vue) - AI Elements Vue is a component library built on top of shadcn-vue to help you build AI-native applications faster.
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A pixel-perfect dev portfolio and shadcn registry.
 - [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
