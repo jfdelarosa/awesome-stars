@@ -56,6 +56,7 @@
 
 ## Astro 
 
+- [astroanimate/astroanimate](https://github.com/astroanimate/astroanimate) - Official animation library for Astroanimate
 - [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font
 - [coderdiaz/cvfolio](https://github.com/coderdiaz/cvfolio) - Minimalist, clean and aesthetic personal site inspired by ReadCV. Built with Astro.
 - [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations) - Easy peasy animations for your Tailwind project
@@ -648,6 +649,7 @@
 
 ## Others 
 
+- [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 - [raphaelsalaja/skill](https://github.com/raphaelsalaja/skill) - A skill file based on the articles written on userinterface.wiki. Designed for designers and engineers to help them build better user interfaces.
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 - [bidah/skill-set](https://github.com/bidah/skill-set) - Collection of Claude Code skills
