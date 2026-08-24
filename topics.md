@@ -165,6 +165,7 @@
 - [pentesting](#pentesting)
 - [php](#php)
 - [physics](#physics)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -2526,7 +2527,7 @@
 - [ArvorCo/Relentless](https://github.com/ArvorCo/Relentless) - Universal AI Agent Orchestrator - Run any AI coding agent (Claude Code, Amp, OpenCode, Codex, Droid, Gemini) repeatedly until all tasks are complete
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Code, Codex)
 - [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
-- [herolabid/podpdf](https://github.com/herolabid/podpdf) - **Ultra-fast, zero-dependency PDF generation for Node.js & Bun**
+- [studiolabid/podpdf](https://github.com/studiolabid/podpdf) - **Ultra-fast, zero-dependency PDF generation for Node.js & Bun**
 - [multiplehats/better-auth-ui-svelte](https://github.com/multiplehats/better-auth-ui-svelte) - Beautiful shadcn/ui components in Svelte built for better-auth.
 - [GauBen/svelte-emails](https://github.com/GauBen/svelte-emails) - Create emails with Svelte and Vite!
 - [GeKorm/better-auth-harmony](https://github.com/GeKorm/better-auth-harmony) - Normalize emails/phone numbers and block throwaway domains with Better Auth
@@ -3060,6 +3061,12 @@
 ## physics 
 
 - [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
+
+## portfolio 
+
+- [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A pixel-perfect dev portfolio and shadcn registry.
+- [nolimits4web/atropos](https://github.com/nolimits4web/atropos) - Stunning touch-friendly 3D parallax hover effects
+- [SikandarJODD/portfolio-template](https://github.com/SikandarJODD/portfolio-template) - Minimalist Developer Portfolio Template using Svelte, Inspired from Magic UI
 
 ## postgresql 
 
