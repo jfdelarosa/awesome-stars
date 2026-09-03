@@ -3217,6 +3217,8 @@
 
 ## react 
 
+- [shadcn-labs/editorcn](https://github.com/shadcn-labs/editorcn) - Beautiful rich text editor components for React, built on Tiptap. 100% Free, Zero config, one command setup.
+- [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.
 - [starc007/ui-components](https://github.com/starc007/ui-components) - Motion components for React.  Copy, paste, done.
 - [realZachi/shotluma](https://github.com/realZachi/shotluma) - Open-source, local-first AI App Store screenshot editor.
 - [raphaelsalaja/audio](https://github.com/raphaelsalaja/audio) - Declarative audio synthesis for the web
@@ -3402,6 +3404,7 @@
 
 ## rust 
 
+- [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -3888,6 +3891,8 @@
 
 ## typescript 
 
+- [shadcn-labs/editorcn](https://github.com/shadcn-labs/editorcn) - Beautiful rich text editor components for React, built on Tiptap. 100% Free, Zero config, one command setup.
+- [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.
 - [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js).
 - [starc007/ui-components](https://github.com/starc007/ui-components) - Motion components for React.  Copy, paste, done.
 - [realZachi/shotluma](https://github.com/realZachi/shotluma) - Open-source, local-first AI App Store screenshot editor.
