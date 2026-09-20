@@ -3389,7 +3389,7 @@
 
 ## reinforcement-learning 
 
-- [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) - Keras inspired framework for neuro-symbolic LM systems
+- [SynaLinks/synalinks](https://github.com/SynaLinks/synalinks) - Keras based framework for neuro-symbolic LM systems
 
 ## rest-api 
 
