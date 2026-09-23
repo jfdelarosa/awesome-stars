@@ -1105,7 +1105,7 @@
 - [educlopez/thegridcn-ui](https://github.com/educlopez/thegridcn-ui) - An authentic Tron: Ares inspired theme system for shadcn/ui
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [any4ai/AnyCrawl](https://github.com/any4ai/AnyCrawl) - AnyCrawl 🚀: A Node.js/TypeScript crawler that turns websites into LLM-ready data and extracts structured SERP results from Google/Bing/Baidu/etc. Native multi-threading for bulk processing.
-- [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Image
+- [Jakubantalik/Libraries.dev](https://github.com/Jakubantalik/Libraries.dev) - High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Voice, Image, Avatar bots
 - [Pandoks/sveltronkit](https://github.com/Pandoks/sveltronkit) - 🤖 Electron + Sveltekit | Minimal dependency electron-forge with sveltekit template
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export.
 - [bundui/shadcn-admin-dashboard-free](https://github.com/bundui/shadcn-admin-dashboard-free) - Shadcn UI Kit is a comprehensive collection of ready-to-use admin dashboards, website templates, and customizable components. This is a free version. Use the link to get PRO.
