@@ -2502,6 +2502,7 @@
 
 ## others 
 
+- [saileshkush95/universal-thermal-printer](https://github.com/saileshkush95/universal-thermal-printer) - Print to thermal (ESC/POS) and A4 (PDF) printers over TCP, Bluetooth, USB, system spooler, or WebUSB / Web Serial — works in Node.js, Bun, Electron, Expo, and the browser.
 - [opencoredev/domain-sdk](https://github.com/opencoredev/domain-sdk) - Add, verify, monitor, and remove customer domains with one TypeScript API.
 - [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
 - [nilbuild/page-mascot](https://github.com/nilbuild/page-mascot) - A mascot that watches the cursor and blinks when you poke it
