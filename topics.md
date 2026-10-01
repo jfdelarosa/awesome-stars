@@ -497,6 +497,7 @@
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [otiai10/ocrserver](https://github.com/otiai10/ocrserver) - A simple OCR API server, seriously easy to be deployed by Docker, on Heroku as well
 - [zenstackhq/zenstack](https://github.com/zenstackhq/zenstack) - Modern data layer for TypeScript apps - type-safe ORM, built-in access control, automatic query services
+- [FreePBX/api](https://github.com/FreePBX/api) - Module of FreePBX (GraphQL API) :: The api module provides programmatic control of many facets of your FreePBX system. Configuration via the ACP GUI is required to initially setup tokens and applicati
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -1435,6 +1436,7 @@
 - [wxt-dev/queue](https://github.com/wxt-dev/queue) - WIP: Supposed to be a CI/CD service for web extensions, queuing up releases that are waiting for review in stores. Currently just an API for getting extension details from various stores.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [statamic/cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
+- [FreePBX/api](https://github.com/FreePBX/api) - Module of FreePBX (GraphQL API) :: The api module provides programmatic control of many facets of your FreePBX system. Configuration via the ACP GUI is required to initially setup tokens and applicati
 - [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter) - 📘 Quick and Easy TypeScript Express Starter
 - [sandorTuranszky/production-ready-expressjs-server](https://github.com/sandorTuranszky/production-ready-expressjs-server) - Express.js server that implements production-ready error handling and logging following latest best practices.
 - [catalinmiron/awesome-prisma](https://github.com/catalinmiron/awesome-prisma) - A collection of awesome things regarding Prisma ecosystem.
@@ -2709,7 +2711,6 @@
 - [svelteuidev/svelteui](https://github.com/svelteuidev/svelteui) - SvelteUI Monorepo
 - [sholinaty/freepbx_items](https://github.com/sholinaty/freepbx_items) - a place to store relevant freepbx items
 - [flexie-crm/freepbx-webhooks](https://github.com/flexie-crm/freepbx-webhooks) - FreePBX integration with Flexie CRM, using real time events and webhooks
-- [FreePBX/api](https://github.com/FreePBX/api) - 
 - [Webstrates/Webstrates](https://github.com/Webstrates/Webstrates) - Webstrates is a research prototype enabling collaborative editing of websites through DOM manipulations.
 - [remorses/lemonsqueezy-webhooks](https://github.com/remorses/lemonsqueezy-webhooks) - Types and utilities for handling lemon-squeezy webhooks in JavaScript and TypeScript
 - [kbrgl/svelte-french-toast](https://github.com/kbrgl/svelte-french-toast) - 🍞🥂 Buttery smooth toast notifications for Svelte
