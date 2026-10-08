@@ -991,7 +991,7 @@
 - [SikandarJODD/youva](https://github.com/SikandarJODD/youva) - Sveltekit Pagination, Debounce Search, Sort & Filters, Caching
 - [Tsuzat/Edra](https://github.com/Tsuzat/Edra) - Fully controllable and best rich text editor for Svelte Developers
 - [EMPTYVOID-DEV/Altron](https://github.com/EMPTYVOID-DEV/Altron) - Rich text editor as a svelte component
-- [kitschpatrol/svelte-tweakpane-ui](https://github.com/kitschpatrol/svelte-tweakpane-ui) - A Svelte component library wrapping UI elements from Tweakpane, plus some additional functionality for convenience and flexibility.
+- [kitschpatrol/svelte-tweakpane-ui](https://github.com/kitschpatrol/svelte-tweakpane-ui) - Svelte component library wrapping UI elements from Tweakpane, plus some additional functionality for convenience and flexibility.
 - [wilkerlucio/media-looper](https://github.com/wilkerlucio/media-looper) - 
 - [n00ki/sveltekit-omakase](https://github.com/n00ki/sveltekit-omakase) - the ultimate mise en place for your next SvelteKit project 🍱 SvelteKit Omakase is an opinionated starter kit designed to get you up and running with SvelteKit 🚀
 - [cowboycodr/kiankit](https://github.com/cowboycodr/kiankit) - SvelteKit + Supabase starter kit
