@@ -986,7 +986,7 @@
 - [max-got/originui-svelte](https://github.com/max-got/originui-svelte) - 
 - [cuire/svelte-grid-extended](https://github.com/cuire/svelte-grid-extended) - A draggable and resizable grid layout, for Svelte
 - [ieedan/shadcn-svelte-extras](https://github.com/ieedan/shadcn-svelte-extras) - Turn key shadcn-svelte components to help finish your app.
-- [SikandarJODD/cnblocks](https://github.com/SikandarJODD/cnblocks) - 150+ UI & Marketing blocks using Svelte 5, Tailwind CSS v4 and Shadcn Svelte
+- [SikandarJODD/cnblocks](https://github.com/SikandarJODD/cnblocks) - 200+ UI & Marketing blocks using Svelte 5, Tailwind CSS v4 and Shadcn Svelte
 - [sailkit/sailkit](https://github.com/sailkit/sailkit) - SailKit is an open-source toolkit for composing responsive email templates in SvelteKit applications
 - [islamzaoui/turbo-sveltekit-shadcn](https://github.com/islamzaoui/turbo-sveltekit-shadcn) - Turborepo sveltekit starter with shadcn pre-configured
 - [SikandarJODD/youva](https://github.com/SikandarJODD/youva) - Sveltekit Pagination, Debounce Search, Sort & Filters, Caching
@@ -1094,7 +1094,7 @@
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick) - View and Interact with PDFs in React, SolidJS, Svelte and JavaScript apps
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work,
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [CarlosZiegler/start-kit.dev](https://github.com/CarlosZiegler/start-kit.dev) - 
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [jiahao-jayden/vibe-any-tanstack](https://github.com/jiahao-jayden/vibe-any-tanstack) - Full-stack starter for building AI-powered web apps with TanStack Start.Ships with authentication, database, landing page, blog, docs, i18n, admin panel, and more — ready to deploy in minutes.
@@ -1127,13 +1127,13 @@
 - [Horuse/svelte-dnd](https://github.com/Horuse/svelte-dnd) - A drag-and-drop library for Svelte 5 with animated drop previews, auto-scroll, pointer & touch support , and multi-container support.
 - [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [getclawe/clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents.
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [krankos/chat-ytchannel](https://github.com/krankos/chat-ytchannel) - A Mastra template that let's you chat with youtube videos.
 - [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code".
 - [trycua/launchpad](https://github.com/trycua/launchpad) - 
 - [ArvorCo/Relentless](https://github.com/ArvorCo/Relentless) - Universal AI Agent Orchestrator - Run any AI coding agent (Claude Code, Amp, OpenCode, Codex, Droid, Gemini) repeatedly until all tasks are complete
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [Avijit07x/animateicons](https://github.com/Avijit07x/animateicons) - Free and open-source animated SVG icons for React, built for smooth micro-interactions, easy customization, and lightweight performance.
+- [Avijit07x/animateicons](https://github.com/Avijit07x/animateicons) - 1,170 animated SVG icons with hover and imperative triggers, and configurable size, color and duration. Built on motion.
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Code, Codex)
 - [liveloveapp/hashbrown](https://github.com/liveloveapp/hashbrown) - Hashbrown is a framework for building agents that run the browser. Built for Angular and React.
 - [studiolabid/podpdf](https://github.com/studiolabid/podpdf) - **Ultra-fast, zero-dependency PDF generation for Node.js & Bun**
