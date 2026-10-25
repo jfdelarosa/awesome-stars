@@ -2264,7 +2264,7 @@
 - [ouranos-labs/pseolint](https://github.com/ouranos-labs/pseolint) - SpamBrain-proof your pSEO before you publish, audit page relationships, not just pages. AI-triaged findings, 8 LLM providers, local telemetry, cost caps, MCP server.
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
-- [Avijit07x/animateicons](https://github.com/Avijit07x/animateicons) - 1,170 animated SVG icons with hover and imperative triggers, and configurable size, color and duration. Built on motion.
+- [Avijit07x/animateicons](https://github.com/Avijit07x/animateicons) - 1,500+ animated SVG icons with hover and imperative triggers, and configurable size, color and duration. Built on motion.
 - [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - animated page transition for major ssr frameworks and browsers, including Safari
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A pixel-perfect dev portfolio and shadcn registry.
@@ -2707,7 +2707,6 @@
 - [wesbos/hot-tips](https://github.com/wesbos/hot-tips) - The code behind my hot tips
 - [pbrahmac/funances-v3](https://github.com/pbrahmac/funances-v3) - 
 - [jurassicjs/nuxt-mailer](https://github.com/jurassicjs/nuxt-mailer) - A module for sending Emails from a nuxt app
-- [funwiche/nuxt-mailer](https://github.com/funwiche/nuxt-mailer) - Send emails from your Nuxtjs App using Nodemailer
 - [jurassicjs/nuxt-scheduler](https://github.com/jurassicjs/nuxt-scheduler) - Create scheduled jobs with human readable time settings
 - [swyxio/svelte-actions](https://github.com/swyxio/svelte-actions) - prototype official actions for Svelte
 - [Hugos68/svelte-maskify](https://github.com/Hugos68/svelte-maskify) - Svelte action wrapper for masking inputs.
