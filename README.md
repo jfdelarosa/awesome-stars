@@ -469,7 +469,7 @@
 - [openfext/vue-form-builder](https://github.com/openfext/vue-form-builder) - Build powerful vue form with JSON schema and composition api.
 - [ksquareincmx/conference-client](https://github.com/ksquareincmx/conference-client) - 
 - [lelylan/simple-oauth2](https://github.com/lelylan/simple-oauth2) - A simple Node.js client library for Oauth2
-- [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
+- [meta/hermes](https://github.com/meta/hermes) - A JavaScript engine optimized for running React Native.
 - [turtle-DB/tortoiseDB](https://github.com/turtle-DB/tortoiseDB) - Official tortoiseDB adapter for turtleDB
 - [turtle-DB/turtleDB](https://github.com/turtle-DB/turtleDB) - Official turtleDB project
 - [pshrmn/curi](https://github.com/pshrmn/curi) - A JavaScript router for single-page applications
@@ -633,6 +633,7 @@
 
 ## Markdown 
 
+- [raphaelsalaja/skills](https://github.com/raphaelsalaja/skills) - A skill file based on the articles written on userinterface.wiki. Designed for designers and engineers to help them build better user interfaces.
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
@@ -653,7 +654,6 @@
 ## Others 
 
 - [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
-- [raphaelsalaja/skill](https://github.com/raphaelsalaja/skill) - A skill file based on the articles written on userinterface.wiki. Designed for designers and engineers to help them build better user interfaces.
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 - [bidah/skill-set](https://github.com/bidah/skill-set) - Collection of Claude Code skills
 - [essamamdani/anycrawl-coolify](https://github.com/essamamdani/anycrawl-coolify) - AnyCrawl — Coolify v4 Template
@@ -1102,7 +1102,7 @@
 - [shadcn-labs/agentcn](https://github.com/shadcn-labs/agentcn) - shadcn/ui, but for building agents. 🤖
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick) - View and Interact with PDFs in React, SolidJS, Svelte and JavaScript apps
-- [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
+- [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - Agents that self-improve with experience
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Sha
 - [CarlosZiegler/start-kit.dev](https://github.com/CarlosZiegler/start-kit.dev) - 
 - [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
@@ -1136,7 +1136,6 @@
 - [Horuse/svelte-dnd](https://github.com/Horuse/svelte-dnd) - A drag-and-drop library for Svelte 5 with animated drop previews, auto-scroll, pointer & touch support , and multi-container support.
 - [darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure) - A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.
 - [getclawe/clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents.
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 - [krankos/chat-ytchannel](https://github.com/krankos/chat-ytchannel) - A Mastra template that let's you chat with youtube videos.
 - [khromov/svelte-bench](https://github.com/khromov/svelte-bench) - An LLM benchmark for Svelte 5 based on the OpenAI methodology from OpenAIs paper "Evaluating Large Language Models Trained on Code".
 - [trycua/launchpad](https://github.com/trycua/launchpad) - 
@@ -1556,7 +1555,7 @@
 - [serialport/node-serialport](https://github.com/serialport/node-serialport) - Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
-- [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
+- [meta/flipper](https://github.com/meta/flipper) - A desktop debugging platform for mobile developers.
 - [pipedrive/client-nodejs](https://github.com/pipedrive/client-nodejs) - Pipedrive API client for NodeJS
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
@@ -1573,7 +1572,7 @@
 - [Jexordexan/vue-slicksort](https://github.com/Jexordexan/vue-slicksort) - A set of vue mixins to turn any list into an animated, touch-friendly, sortable list ✌️
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [rachmanzz/vue-inview](https://github.com/rachmanzz/vue-inview) - vue-plugin for in-view package
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [stalniy/casl](https://github.com/stalniy/casl) - CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [firebase/geofire-js](https://github.com/firebase/geofire-js) - GeoFire for JavaScript - Realtime location queries with Firebase
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
@@ -1694,6 +1693,7 @@
 ## Zig 
 
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with TypeScript, Zig, Rust, Go, or Odin.
 
 ## mdsvex 
 
