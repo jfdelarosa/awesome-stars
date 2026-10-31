@@ -193,6 +193,7 @@
 - [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) - A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.
 - [iart-ai/explainer-video-skills](https://github.com/iart-ai/explainer-video-skills) - Explainer video skills for Claude Code: script, storyboard, and render narrated explainers, year-in-review recaps, and animated diagrams.
 - [stvbutlr/perfect-pitch-deck](https://github.com/stvbutlr/perfect-pitch-deck) - A 23-slide pitch-deck template designed to be branded, content-filled, and shipped to Cloudflare Pages by a non-technical user in under an hour, via Claude Code.
+- [raphaelsalaja/skills](https://github.com/raphaelsalaja/skills) - A collection of agent skills for building interfaces with coding agents.
 - [ouranos-labs/pseolint](https://github.com/ouranos-labs/pseolint) - SpamBrain-proof your pSEO before you publish, audit page relationships, not just pages. AI-triaged findings, 8 LLM providers, local telemetry, cost caps, MCP server.
 - [CommandCodeAI/langui](https://github.com/CommandCodeAI/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 - [chrispsn/mesh-spreadsheet](https://github.com/chrispsn/mesh-spreadsheet) - A data and code editor that feels like a spreadsheet.
@@ -633,7 +634,6 @@
 
 ## Markdown 
 
-- [raphaelsalaja/skills](https://github.com/raphaelsalaja/skills) - A skill file based on the articles written on userinterface.wiki. Designed for designers and engineers to help them build better user interfaces.
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
@@ -1379,7 +1379,7 @@
 - [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) - ESLint plugin for Svelte using AST
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
-- [opral/inlang](https://github.com/opral/inlang) - Open format TMS (translation management system)
+- [opral/inlang](https://github.com/opral/inlang) - Git-based translation management system
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
