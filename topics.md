@@ -2068,7 +2068,7 @@
 
 ## localization 
 
-- [opral/inlang](https://github.com/opral/inlang) - Open format TMS (translation management system)
+- [opral/inlang](https://github.com/opral/inlang) - Git-based translation management system
 - [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Extraordinary JavaScript UI framework with unique declarative and functional architecture
 
 ## login 
