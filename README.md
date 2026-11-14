@@ -653,6 +653,7 @@
 
 ## Others 
 
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 - [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 - [bidah/skill-set](https://github.com/bidah/skill-set) - Collection of Claude Code skills
@@ -827,12 +828,13 @@
 
 ## Python 
 
+- [rennf93/roboco](https://github.com/rennf93/roboco) - RoboCo: AI Agents Virtual Software Company. For solo-founders and solo-devs. If you need a team that works in an organized way, applies your best practices, and outputs quality code: Now you have it.
 - [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) - Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded aud
 - [ferndesk/no-slop-motion](https://github.com/ferndesk/no-slop-motion) - An agent skill for launch and brand films that look directed, not AI-generated
 - [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
 - [nilbuild/page-mascot](https://github.com/nilbuild/page-mascot) - A mascot that watches the cursor and blinks when you poke it
 - [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves
-- [SenteLabsAI/OpenExecutive](https://github.com/SenteLabsAI/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
+- [ForeactLabs/OpenExecutive](https://github.com/ForeactLabs/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
@@ -908,7 +910,6 @@
 
 ## Rust 
 
-- [solidsf-inc/solidcv](https://github.com/solidsf-inc/solidcv) - 
 - [danmolitor/forme](https://github.com/danmolitor/forme) - Forme is a document engine for JavaScript, written in Rust and compiled to WASM. Render the HTML and print CSS you already have, or author React, Svelte, Vue, and Preact components. Paginated PDFs in-
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
@@ -922,7 +923,7 @@
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
-- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
+- [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, observe, discover, and react to every service in real-time for the first time ever.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync) - SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -1094,7 +1095,7 @@
 - [ZAK123DSFDF/refearnapp](https://github.com/ZAK123DSFDF/refearnapp) - 🚀 High-scale affiliate tracking & referral management. Open-source & self-hostable alternative to Rewardful, FirstPromoter, and Tolt. Built for speed with Next.js, Cloudflare Edge, Drizzle, and Docker
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
-- [marinedotsh/better-auth-referral](https://github.com/marinedotsh/better-auth-referral) - A Better Auth plugin for adding user referrals to your app.
+- [evensurface/better-auth-referral](https://github.com/evensurface/better-auth-referral) - A Better Auth plugin for adding user referrals to your app.
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
 - [raphaelsalaja/web-kits](https://github.com/raphaelsalaja/web-kits) - Interface kits for the web
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
@@ -1144,7 +1145,7 @@
 - [trycua/launchpad](https://github.com/trycua/launchpad) - 
 - [ArvorCo/Relentless](https://github.com/ArvorCo/Relentless) - Universal AI Agent Orchestrator - Run any AI coding agent (Claude Code, Amp, OpenCode, Codex, Droid, Gemini) repeatedly until all tasks are complete
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [Avijit07x/animateicons](https://github.com/Avijit07x/animateicons) - 1,500+ animated SVG icons with hover and imperative triggers, and configurable size, color and duration. Built on motion.
+- [Avijit07x/animateicons](https://github.com/Avijit07x/animateicons) - 1,500 free, open source animated icons for React, Vue, Angular and plain JavaScript. Every animation is hand-crafted and tuned to feel smooth, and plays the same in every framework.
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Code, Codex)
 - [liveloveapp/hashbrown](https://github.com/liveloveapp/hashbrown) - Hashbrown is a framework for building agents that run the browser. Built for Angular and React.
 - [studiolabid/podpdf](https://github.com/studiolabid/podpdf) - **Ultra-fast, zero-dependency PDF generation for Node.js & Bun**
@@ -1214,6 +1215,7 @@
 - [kadumedim/bun-hono](https://github.com/kadumedim/bun-hono) - 
 - [cherfia/chromiumly](https://github.com/cherfia/chromiumly) - A lightweight Typescript library that interacts with Gotenberg's different modules to convert a variety of document formats to PDF files.
 - [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [ManuelGil/vscode-marketplace-client](https://github.com/ManuelGil/vscode-marketplace-client) - A TypeScript library for fetching and managing Visual Studio Code extensions, with version querying, VSIX downloads, and robust error handling.
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [molvqingtai/comctx](https://github.com/molvqingtai/comctx) - Use RPC to communicate easily across contexts in any JavaScript environment.
@@ -1289,7 +1291,7 @@
 - [midrender/revideo](https://github.com/midrender/revideo) - Create Videos with Code
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Interoperable by design. Governed by you. Open-source, secure platform for messaging, voice, video and governed AI, built for defense and government.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
 - [prevwong/craft.js](https://github.com/prevwong/craft.js) - 🚀 A React Framework for building extensible drag and drop page editors
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
@@ -1313,7 +1315,7 @@
 - [paoloricciuti/optimistikit](https://github.com/paoloricciuti/optimistikit) - Optimistic UI in sveltekit made easy
 - [hywax/vite-vanilla-library-template](https://github.com/hywax/vite-vanilla-library-template) - Template for creating a library with a fully customized environment.
 - [rocicorp/byob-starter](https://github.com/rocicorp/byob-starter) - Bring Your Own Backend Starter
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
+- [neondatabase/electric](https://github.com/neondatabase/electric) - The agent platform built on sync.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [ocluf/justship](https://github.com/ocluf/justship) - A svelte 5 and sveltekit saas boilerplate. Including database, authentication, email, analytics
 - [LogSnag/logsnag.js](https://github.com/LogSnag/logsnag.js) - 
@@ -1604,7 +1606,6 @@
 - [shipfastlabs/larasonic-vue](https://github.com/shipfastlabs/larasonic-vue) - The Ultimate Laravel Starter Kit for Modern SaaS (VILT) with Shadcn Components (Vue, Inertia & Shadcn)
 - [HugoRCD/nuxt-better-auth](https://github.com/HugoRCD/nuxt-better-auth) - A demo of using BetterAuth with Nuxt and PostgreSQL
 - [BayBreezy/ui-thing](https://github.com/BayBreezy/ui-thing) - A modern set of Nuxt components built with Reka UI & TailwindCSS. Inspired by shadcn/ui & shadcn-vue.
-- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [Eckhardt-D/blanq](https://github.com/Eckhardt-D/blanq) - An opinionated Nuxt starter to avoid the boilerplate work and ship faster
 - [Barbapapazes/gavarnie](https://github.com/Barbapapazes/gavarnie) - SaaS - Pre-configured and ready-to-use features to help you start your full-stack NuxtHub project faster.
 - [Jettonn/originui-vue](https://github.com/Jettonn/originui-vue) - 
