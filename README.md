@@ -665,7 +665,7 @@
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [Mortalife/trigger-dev-coolify](https://github.com/Mortalife/trigger-dev-coolify) - A repo containing a docker-compose that runs trigger.dev on coolify, with additional instructions
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
-- [philrox/n8n-workflows](https://github.com/philrox/n8n-workflows) - 
+- [philverge/n8n-workflows](https://github.com/philverge/n8n-workflows) - 
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [better-auth/awesome](https://github.com/better-auth/awesome) - A curated list of awesome things related to better-auth
 - [engineerapart/TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
@@ -1042,7 +1042,6 @@
 - [staart/ui](https://github.com/staart/ui) - 🏁🌐 Frontend Svelte PWA starter for SaaS startups
 - [srmullen/sveltekit-stripe](https://github.com/srmullen/sveltekit-stripe) - Integrating SvelteKit and Stripe Checkout
 - [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of the Headless UI component library
-- [jesperorb/intl-explorer](https://github.com/jesperorb/intl-explorer) - Intl Explorer is an interactive tool for experimenting and trying out the ECMAScript Internationalization API.
 - [Oli8/spaper](https://github.com/Oli8/spaper) - PaperCSS components for Svelte
 - [svelte-drama/suspense](https://github.com/svelte-drama/suspense) - 
 - [navneetsharmaui/sveltekit-starter](https://github.com/navneetsharmaui/sveltekit-starter) - Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.
