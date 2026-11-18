@@ -227,6 +227,7 @@
 
 ## Java 
 
+- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [katzer/cordova-plugin-local-notifications](https://github.com/katzer/cordova-plugin-local-notifications) - Cordova Local-Notification Plugin
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
@@ -279,7 +280,6 @@
 - [joshnuss/prisma-database-cleaner](https://github.com/joshnuss/prisma-database-cleaner) - Utility for cleaning Prisma databases between test runs
 - [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
-- [replicate/rtv](https://github.com/replicate/rtv) - 
 - [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
@@ -373,7 +373,7 @@
 - [njhyuk/vanilla-js-canvas-editor](https://github.com/njhyuk/vanilla-js-canvas-editor) - Creating a Canvas Editor Without Libraries 🌠
 - [carstenschaefer/DrawerJs](https://github.com/carstenschaefer/DrawerJs) - A customizable WYSIWYG HTML canvas editor.
 - [jakoblind/webpack-autoconf](https://github.com/jakoblind/webpack-autoconf) - A tool to create frontend apps using webpack, Parcel or Snowpack
-- [Glench/ExtPay](https://github.com/Glench/ExtPay) - The JavaScript library for ExtensionPay.com — payments for your browser extensions, no server needed.
+- [Glench/ExtPay](https://github.com/Glench/ExtPay) - The JavaScript library for ExtensionPay.com — monetize browser extensions with payments.
 - [CrownFramework/svelte-error-boundary](https://github.com/CrownFramework/svelte-error-boundary) - Error Boundaries for Svelte
 - [PaulMaly/svelte-imask](https://github.com/PaulMaly/svelte-imask) - IMask input component and action for Svelte 3
 - [KatChaotic/sveltedoc-parser](https://github.com/KatChaotic/sveltedoc-parser) - Generate a JSON documentation for a Svelte (https://github.com/sveltejs/svelte) component
@@ -828,6 +828,7 @@
 
 ## Python 
 
+- [superdesigndev/treg](https://github.com/superdesigndev/treg) - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 - [rennf93/roboco](https://github.com/rennf93/roboco) - RoboCo: AI Agents Virtual Software Company. For solo-founders and solo-devs. If you need a team that works in an organized way, applies your best practices, and outputs quality code: Now you have it.
 - [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) - Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded aud
 - [ferndesk/no-slop-motion](https://github.com/ferndesk/no-slop-motion) - An agent skill for launch and brand films that look directed, not AI-generated
@@ -844,7 +845,6 @@
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [cocoindex-io/cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - A super light-weight embedded code search engine CLI (AST based) that just works -  improves speed and efficiency for coding agent  🌟 Star if you like it!
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.
 - [gtmagents/gtm-agents](https://github.com/gtmagents/gtm-agents) - Production-ready collection of GTM agents and specialized skills for claude code. Covers sales, marketing, customer success, and revenue operations workflows.
@@ -1092,7 +1092,7 @@
 - [realZachi/shotluma](https://github.com/realZachi/shotluma) - Open-source, local-first AI App Store screenshot editor.
 - [trycompai/crm](https://github.com/trycompai/crm) - Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
 - [ZAK123DSFDF/refearnapp](https://github.com/ZAK123DSFDF/refearnapp) - 🚀 High-scale affiliate tracking & referral management. Open-source & self-hostable alternative to Rewardful, FirstPromoter, and Tolt. Built for speed with Next.js, Cloudflare Edge, Drizzle, and Docker
-- [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
+- [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - Vue Flow has a new home! We just joind xyflow and you can find us over there from now on.
 - [0xGF/boneyard](https://github.com/0xGF/boneyard) - Auto generated skeleton loading framework
 - [evensurface/better-auth-referral](https://github.com/evensurface/better-auth-referral) - A Better Auth plugin for adding user referrals to your app.
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
@@ -1173,7 +1173,7 @@
 - [michael/svedit](https://github.com/michael/svedit) - Editing for Svelte
 - [meursyphus/ssgoi](https://github.com/meursyphus/ssgoi) - animated page transition for major ssr frameworks and browsers, including Safari
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
 - [codigoencasa/builderbot](https://github.com/codigoencasa/builderbot) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
 - [parcelvoy/platform](https://github.com/parcelvoy/platform) - Parcelvoy: Open source multi-channel marketing automation platform. Send data-driven emails, sms, push notifications and more!
 - [ncdai/chanhdai.com](https://github.com/ncdai/chanhdai.com) - A pixel-perfect dev portfolio and shadcn registry.
@@ -1254,7 +1254,7 @@
 - [Eronred/handy-arrows](https://github.com/Eronred/handy-arrows) - A gallery of hand-drawn arrows and other design resources as SVGs that can be easily copied as SVG code or React components for use in your projects.
 - [Barbapapazes/nuxt-authorization](https://github.com/Barbapapazes/nuxt-authorization) - Authorization module for managing permissions inside a Nuxt app.
 - [evolution-foundation/evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API is an open-source WhatsApp integration API
-- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps.
+- [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Where one person's software lives.
 - [kakajuro/tidytube](https://github.com/kakajuro/tidytube) - An open source browser extension to help declutter Youtube's UI
 - [etherCorps/svelte-h2j](https://github.com/etherCorps/svelte-h2j) - A library which uses svelte compiler to convert html & css to jsx. Useful for using satori with svelte & Kit
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -1288,7 +1288,7 @@
 - [franken-ui/ui](https://github.com/franken-ui/ui) - Franken UI is an HTML-first UI component library built on UIkit 3 and extended with LitElement, inspired by shadcn/ui.
 - [dgmjs/dgmjs](https://github.com/dgmjs/dgmjs) - An infinite canvas with smart shapes
 - [midrender/revideo](https://github.com/midrender/revideo) - Create Videos with Code
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - The Open Source Qualtrics Alternative
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Interoperable by design. Governed by you. Open-source, secure platform for messaging, voice, video and governed AI, built for defense and government.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy durable AI agents and workflows
@@ -1333,7 +1333,7 @@
 - [jurassicjs/nuxt-mailer](https://github.com/jurassicjs/nuxt-mailer) - A module for sending Emails from a nuxt app
 - [dword-design/nuxt-mail](https://github.com/dword-design/nuxt-mail) - Adds email sending capability to a Nuxt.js app. Adds a server route, an injected variable, and uses nodemailer to send emails.
 - [jurassicjs/nuxt-scheduler](https://github.com/jurassicjs/nuxt-scheduler) - Create scheduled jobs with human readable time settings
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow | Vue Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev), Svelte (https://svelteflow.dev) and Vue (https://vueflow.dev). Read
 - [paoloricciuti/sveltekit-view-transition](https://github.com/paoloricciuti/sveltekit-view-transition) - Start using view transitions without any hassle!
 - [sjmc11/tourguide-js](https://github.com/sjmc11/tourguide-js) - TourGuide is a Javascript library for creating user tours and on-boarding steps for your apps.
 - [josias-r/boarding.js](https://github.com/josias-r/boarding.js) - A light-weight, no-dependency, vanilla JavaScript engine to create powerful onboardings and drive the user's focus across the page
